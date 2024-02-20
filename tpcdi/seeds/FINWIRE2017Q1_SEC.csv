@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+2017-03-30 02:20:04,AAAAAAAAAAAACYA,COMMON,ACTV,giuVzDgmDKmYyIfiQBQhi isSsANhVlIkTqNGCXIctFzLGHnXIUYVgHoCw            ,NASDAQ,204871801    ,20080919,18560221,        0.71,sEwhOPKJaVCKWvSqTRsxWRQZHmLXuVDoStcmAtpGqvkG                
+2017-03-30 06:51:03,AAAAAAAAAAAACXZ,COMMON,ACTV,TmJLRIPRHQifHOic                                                      ,AMEX  ,121750635    ,18540614,19120507,        2.00,0000001038
+2017-03-30 07:28:01,AAAAAAAAAAAACXY,COMMON,ACTV,JDyFiPJJTXaWUCNTomjJhHaGyKKNiifeMtewJiYKTHCfdVSseGqy                  ,AMEX  ,32050341     ,20111208,19341207,        2.71,0000000810
+2017-03-30 08:13:05,AAAAAAAAAAAACXX,COMMON,ACTV,QDZbFtvHyPB                                                           ,AMEX  ,766865983    ,19990705,18500408,        0.00,UXdbFfGONxFQaJWKidnPyrFyxiJWxQqdiZGTDCBBLWJOaRrnziABDP      
+2017-03-30 09:43:04,AAAAAAAAAAAACXW,COMMON,ACTV,tXyVFZROUyuDISdaVZPK                                                  ,NASDAQ,718392891    ,19730429,18940403,        1.92,0000000776
+2017-03-30 19:07:02,AAAAAAAAAAAACXV,PREF_B,ACTV,PZRPbneGFzYRfaljPPZoGASbDxFVBHHUb                                     ,AMEX  ,29280029     ,19511020,19380207,        0.30,0000000896
+2017-03-31 01:26:02,AAAAAAAAAAAABKQ,COMMON,INAC,oIDwrpSNsyHGVPYkrTdGLLDzuiDOkjTrQEJzRAhsAMSBudWFHbRWU                 ,NYSE  ,647924742    ,20081015,20070818,        0.51,0000000184
+2017-03-31 12:48:04,AAAAAAAAAAAABLL,COMMON,ACTV,TveVfIzdEcGNRVegNHlJKsPTKSS                                           ,NYSE  ,869254401    ,19861203,19771206,        0.34,mVTUespzIADKHLQwfKjPL                                       
+2017-03-31 14:48:01,AAAAAAAAAAAACYD,COMMON,ACTV,NCBACxElUTanP                                                         ,NYSE  ,721564376    ,19891213,20060913,        1.30,0000000623
+2017-03-31 18:00:04,AAAAAAAAAAAACYC,COMMON,ACTV,KcKNFSEuLzZuHQZZ                                                      ,PCX   ,981825631    ,18600705,18900116,        2.93,0000000459
+2017-03-31 23:59:05,AAAAAAAAAAAACYB,COMMON,ACTV,TJwYPhqvWjSRoQHCGEPoTCWOFTuCnAENwExSdkAzkLAviTXntzcEPKlpPKyrqZiMjUjzT ,NASDAQ,590501220    ,18970130,19620923,        1.46,JATQDqlkwGhXwnsB                                            

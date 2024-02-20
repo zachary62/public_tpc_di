@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+2014-03-30 03:27:01,AAAAAAAAAAAACTZ,COMMON,ACTV,uHVwdTELpusnvMz SWIZ RyKgS                                            ,NASDAQ,88731655     ,18821129,19020815,        0.33,0000000957
+2014-03-30 07:00:02,AAAAAAAAAAAACTT,PREF_A,ACTV,GnJdhaFVfgzCUpFxoUWTrNgGh                                             ,PCX   ,807862356    ,19890903,19200130,        1.05,0000000852
+2014-03-30 08:12:00,AAAAAAAAAAAACTY,COMMON,ACTV,MSNzPJzLCIeYjIvZakWOCEmovssnAOOvONhJKVs UYpaCqVzRT                    ,AMEX  ,141571400    ,18750602,18941129,        0.56,LEMeSpDsEVDPYmOxZOPglQcJGMBqtVFKPpqomv                      
+2014-03-30 12:07:01,AAAAAAAAAAAACTS,PREF_A,ACTV,yFvxojKRMPfFHBDUVEb                                                   ,NYSE  ,222062319    ,19440619,18790101,        1.70,idgkJqUHedAOjNwGHoWCCcQIOWqUUlxNHICrGykAEaUiSNDZFB          
+2014-03-30 15:30:04,AAAAAAAAAAAACTX,COMMON,ACTV,oKWulOAJzMSCACdejPJfIQNSCgAnTpjokusjeBmAKjHIDLRdhae                   ,AMEX  ,161708093    ,18960215,19341101,        0.56,BAbiHfPwcgwOVyOFaHFEQdBmKIXuPNdpBmQDjqyhsbiw                
+2014-03-30 22:56:02,AAAAAAAAAAAACTR,COMMON,ACTV,evpYXgCwIBJizZhLo                                                     ,PCX   ,165717527    ,20090624,19890601,        0.91,kzlnGdWaKhZLRwYuxlhqLQkyPBU                                 
+2014-03-31 02:02:04,AAAAAAAAAAAACTW,COMMON,ACTV,CW FQwmgUjWHChoIFmAXbHsdWCLuAswccrKO                                  ,NYSE  ,270774040    ,18990425,19380531,        2.82,QFlzyCJQIjruBnSgEMBSIpCQCvZFcHOpHMSZDWRwJw                  
+2014-03-31 05:14:02,AAAAAAAAAAAACPS,PREF_A,INAC,fVXONLhBjFHsIoOAZKLEDmTJIMFOcrRvBVoFdEGkvLCErGHhIFGZQR CZHamwgLmmoNX  ,NYSE  ,663393688    ,19540813,19241222,        0.94,ezmNzxWFtlcupUKqpNDqedVxTLunvW                              
+2014-03-31 17:49:00,AAAAAAAAAAAACTV,COMMON,ACTV,VPyhfXglmKOMYM GeHTKgJGKVSEiANQZvkZGGZJOISkFnJcsxXEXseTFrlDPBYCC      ,PCX   ,400707943    ,19050111,19050705,        1.39,wuPNbKrcocPhyHiIStyXcVOWUM                                  
+2014-03-31 23:19:02,AAAAAAAAAAAACGT,PREF_A,ACTV,hkZhSUXqmYKSZCBEv                                                     ,AMEX  ,922394034    ,19280909,19520917,        1.46,0000000179
+2014-03-31 23:59:05,AAAAAAAAAAAACTU,COMMON,ACTV,ZcIHRgECaBKSTXzkWBCQspAopyOJogJlgeeiZdFvBNPHyUMlXqDFVPhxuTbDdZB       ,PCX   ,275752824    ,19041228,19820124,        2.94,GViYmRwuSEXoUpgQOevIzNPhXYqrqZGAJFgrJZfFyxST                

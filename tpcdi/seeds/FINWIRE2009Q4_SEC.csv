@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+2009-12-30 01:01:02,AAAAAAAAAAAACOB,PREF_A,ACTV,kMbpcOYarQ                                                            ,AMEX  ,556635811    ,18620409,18660630,        2.35,0000000251
+2009-12-30 11:48:02,AAAAAAAAAAAABDB,COMMON,ACTV,XkmRkgKVKukQWdaCSRlLCGKi                                              ,NYSE  ,657713094    ,18501210,18891006,        1.34,0000000906
+2009-12-30 14:03:04,AAAAAAAAAAAACNU,COMMON,ACTV,tTRwEBEVCcFiJndRppARJRK                                               ,AMEX  ,835781161    ,18660607,19850530,        1.66,0000000725
+2009-12-30 19:03:05,AAAAAAAAAAAACNW,COMMON,ACTV,eTbhIMUGdIYVEFVeQjpdclNIKuVQYvCzVtSvFU y                              ,NYSE  ,851835401    ,19640709,19100812,        1.33,0000000399
+2009-12-30 19:47:01,AAAAAAAAAAAACNY,COMMON,ACTV,vohASLMGHHjHFzRy                                                      ,NASDAQ,130711457    ,19280930,19581212,        0.35,0000000456
+2009-12-31 01:07:03,AAAAAAAAAAAACOA,PREF_A,ACTV,AcYfGSJndhPqIvWcCWAFJHMGmiuMvjSdXhvqO                                 ,NYSE  ,132548448    ,19180505,18861107,        2.26,0000000351
+2009-12-31 03:02:05,AAAAAAAAAAAACOC,PREF_B,ACTV,NCbvIVHEBHWTEDHjsHdEfeGCxkkWHFPjp                                     ,PCX   ,630306859    ,18750509,19700601,        1.55,erEHZRxAqzqRciorRBBAYsjzn                                   
+2009-12-31 08:17:02,AAAAAAAAAAAAAGW,COMMON,INAC,pjyQQMIqSqKJNQgqULAQUFVOYm                                            ,NYSE  ,80580845     ,19600821,18850407,        0.80,0000000035
+2009-12-31 11:21:02,AAAAAAAAAAAACNV,COMMON,ACTV,ybHtVFwRbDAiMIcTJbbNVEozd csrUKz                                      ,AMEX  ,786260955    ,19060215,19371219,        2.65,nUSbwozHKnjEMwDGEwifsBDVkWMEUCXcZRAlqaRyXugMDSPCvILEtSe     
+2009-12-31 13:27:01,AAAAAAAAAAAACNX,PREF_A,ACTV,McsJdofSTptdxjSVDWywcgKKohZILOBbxCuEu                                 ,NYSE  ,171760518    ,19641007,19900530,        0.24,WwXQNkQAqANEBHnihrVhCfRtBAoaKSMATszCV                       
+2009-12-31 23:59:05,AAAAAAAAAAAACNZ,COMMON,ACTV,DYfJfsWZDLTYRqgHiUctZnDmPbywHnZLTRTTA yeZKDBMQolkMXCtbMfrzdbAx        ,NYSE  ,402945268    ,18740721,19761101,        0.07,0000000504

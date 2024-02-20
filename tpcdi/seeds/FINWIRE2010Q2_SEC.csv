@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+2010-06-28 21:41:02,AAAAAAAAAAAACOP,PREF_A,ACTV,WjeSiEJiluPzLkSTJgVoAXPOAHjkxnKVVcEbMEtRbDhLtjBsJHVOaoWdM             ,NYSE  ,208919109    ,18650926,20040121,        1.21,TGzOqWPruAiwVUmQEH                                          
+2010-06-28 21:59:05,AAAAAAAAAAAACOU,COMMON,ACTV,sQCVOZ F diVCSHCmJKqLRGXIJPQdBhBROCSFLKAAKrkawMumJ                    ,PCX   ,344859040    ,18730204,19030727,        1.77,0000000268
+2010-06-29 01:59:00,AAAAAAAAAAAACOO,PREF_C,ACTV,GCKIcQNo tIuJQMAFuBDvbB                                               ,AMEX  ,761323310    ,19920528,19940825,        0.76,EtWBAuPfhBKTPaqXGIkOKFHSTvJjH                               
+2010-06-29 07:45:02,AAAAAAAAAAAACOT,COMMON,ACTV,lbjUyetS nRsYpRGnprAGNNuoHNYZN                                        ,AMEX  ,971638907    ,19861202,18780106,        1.51,0000000000
+2010-06-29 11:59:04,AAAAAAAAAAAACON,PREF_C,ACTV,zNJoNMneuOQGQBRHOPnCy                                                 ,AMEX  ,130145741    ,19701127,19180930,        0.57,qKCCVOwUhXclMYGpMGHDaUScTSF                                 
+2010-06-29 20:07:05,AAAAAAAAAAAACOS,PREF_A,ACTV,HDDRCV NoeuUGIBAUDKPDiAAgrGflYxXUVbjocZfCnrvaKHE                      ,NASDAQ,72572438     ,19030208,18721020,        0.97,0000000065
+2010-06-29 20:26:01,AAAAAAAAAAAACOM,COMMON,ACTV,ZGUUDxbxtcrPKL                                                        ,PCX   ,520608121    ,18570308,18730315,        1.29,0000000122
+2010-06-29 23:34:00,AAAAAAAAAAAACOR,COMMON,ACTV,WjmMTFVcZNXcTJCooWGQPwNg                                              ,AMEX  ,610943970    ,18750422,18570506,        1.17,MHoGxeThDkARUCQIHyJqVPJEpRanvLkh                            
+2010-06-30 09:38:05,AAAAAAAAAAAAAPM,COMMON,INAC,mxuwjUDFdlQiXPXEyBTTxmbdMUDrYvxkZdCWnxIdDKFaL jqeEkxgB                ,PCX   ,792039934    ,20080225,19361226,        1.72,PqHHQPtFmLMYtaQZeCPyWOpeDGcHWjGJJWGnpUVWYUbRjsNExvioDRDUsgU 
+2010-06-30 16:27:04,AAAAAAAAAAAACOQ,COMMON,ACTV,aBAaEyXlUmBbnaCLxNTgNkNlG  RNOmCwzC                                   ,AMEX  ,509271467    ,19181108,19920514,        0.30,0000000843
+2010-06-30 23:59:05,AAAAAAAAAAAACER,COMMON,ACTV,RwDbrXjINHfhpvZUmHPQUUJqwsTpHiusrgzfbAhyQSmoaxlwCDRGT JSDaqiFMhguR    ,PCX   ,803975513    ,19900929,19580422,        1.05,0000000535

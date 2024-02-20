@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1993-12-29 04:27:05,AAAAAAAAAAAABRR,PREF_A,ACTV,PdELOakxBfpyFNJI                                                      ,NYSE  ,446318298    ,19251225,18620608,        1.88,0000000524
+1993-12-29 19:43:04,AAAAAAAAAAAABRQ,PREF_C,ACTV,UUNhTfEEVAOJhoUSJZDVHHPyrRWsPEGESCOpYNgoumLuSOuFnPKFs                 ,AMEX  ,906935791    ,18920818,19320113,        2.99,MzDbJtFosPRuInkhDbaTgwTGxQHNdfdYENNVTbutOgmijklFGRMIKSgSMc  
+1993-12-30 02:11:01,AAAAAAAAAAAAABL,COMMON,INAC,vuzOKlLDNhSokjZmTWBHTUCeHHJ EZQKCHQTf                                 ,PCX   ,954559528    ,19920429,19260325,        1.59,FQCxtQRoMnVlnjwEERVRrjOJDAIyWTEKGCbBNsvTNBMQXXA             
+1993-12-30 05:02:03,AAAAAAAAAAAAAST,PREF_A,ACTV,makNiaEfToxCkQrnivgwPKv                                               ,PCX   ,384079997    ,19680510,18510924,        1.37,VGhBMeHkpGZBxnGhQhTaecpCsRiIBJyRKuIUKNESBTXO                
+1993-12-30 12:57:00,AAAAAAAAAAAABRY,COMMON,ACTV,HVkGsVBuzfR nJmXJOeanSUKG                                             ,PCX   ,523972633    ,19041105,19591223,        1.21,QoXRBMfDnLbuNHNxKDhvSPQOzBFcmiECXB                          
+1993-12-30 14:19:05,AAAAAAAAAAAABRX,PREF_A,ACTV,SLPKczbnvX hdsDDwZCBK                                                 ,AMEX  ,461828771    ,18561106,19540609,        2.57,0000000409
+1993-12-31 01:53:05,AAAAAAAAAAAABRW,PREF_A,ACTV,CEbOweMBNIfgHUsqIamrzVyLWVjuwjbkIUC AzTFMQbOzFMEIVDs                  ,NASDAQ,520750590    ,18981126,18770330,        0.32,0000000566
+1993-12-31 04:29:01,AAAAAAAAAAAABRV,COMMON,ACTV,auAQtLTXMJDtvscBOZGsB oEXIjecCAjmGkiONLTkpRAcEuUUUEoTQXcNsxS          ,AMEX  ,922446431    ,19130828,18540311,        1.84,KOoRBLuVJAmbedckFhAQyRqTdgMMbJwtQJUMWiUWf                   
+1993-12-31 10:24:05,AAAAAAAAAAAABRU,COMMON,ACTV,KGBrpvMlkFcWMQCJDjvzPg Ei Dqd                                         ,PCX   ,968998281    ,18981231,19171004,        1.74,AqLqMQFQghwEpxPFIGOaoXDWwGkjedAN                            
+1993-12-31 18:34:05,AAAAAAAAAAAABRT,COMMON,ACTV,WYbLHGQjeHLLhnWuLBRBQsPORkCKmduOKiFXuTnaCyarIldKEKNWNUVrcvReu         ,AMEX  ,201813679    ,18811015,19720214,        1.26,YNouztDEEgVJnWzrV                                           
+1993-12-31 23:59:05,AAAAAAAAAAAABRS,COMMON,ACTV,TDUSXlIMplynPooIXXHkO                                                 ,AMEX  ,92288386     ,19190126,19140219,        1.32,NBwPpzQCkyfHwVHMPhhaEuovxWSVwfPWNzXkkURuUQzbT               

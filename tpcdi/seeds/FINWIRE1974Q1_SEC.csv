@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1974-03-24 15:50:05,AAAAAAAAAAAAAQH,COMMON,ACTV,NnIvSZDYIqDOwDfAXT                                                    ,PCX   ,180024634    ,18700401,18731206,        0.52,dGTSaPOJMHvtCCHelvrPOQXnY                                   
+1974-03-25 02:26:03,AAAAAAAAAAAAAQP,COMMON,ACTV, MN ugtXAtMpULSBNWzUmEwVKunCufngBmgQIJQXePwEAuNJxWHv                  ,NYSE  ,460219975    ,19281218,19670619,        0.18,0000000172
+1974-03-25 21:51:00,AAAAAAAAAAAAAQM,PREF_A,ACTV,xDnjQksfytTiyLWFijt                                                   ,AMEX  ,932659121    ,19491013,18710508,        0.35,mqFXQHGXTMiBfYGUYWQNXbNJhDVNzAztAmafbEocueUljhwVLF          
+1974-03-26 08:59:01,AAAAAAAAAAAAAQJ,COMMON,ACTV,PqJutIMp LYWsnCwPnXSoqVNbIKezI MuSyBeXcIRYXy KWanoSVAgX               ,AMEX  ,242644735    ,19171219,18950602,        2.73,XdCwDlGsXFstGqdCIcNOKJfTOQPnoEeELXbNmwOl                    
+1974-03-26 21:15:01,AAAAAAAAAAAAAKF,COMMON,INAC,ARaInDATQWULqPkUVyPQdkHABnqnWnNafUMOzVuIJSIa                          ,AMEX  ,973792915    ,19170625,19510220,        1.98,0000000104
+1974-03-28 12:34:02,AAAAAAAAAAAAAQO,PREF_A,ACTV,VXRGAzoTTkKQHWarJNCQYqkhSTAj                                          ,NASDAQ,830099084    ,19021221,19050704,        2.56,lRFFxbuSdaaOoGESnCUfCnNBiAPfzULXLkvvOKypCeBBGHyQXbghJLPQpGBX
+1974-03-29 01:16:05,AAAAAAAAAAAAAQL,COMMON,ACTV,NmIRLXQQmgK                                                           ,PCX   ,44975064     ,19280127,19590425,        0.91,mpCtHGHMzRmRSOWhCSWIitSDekVuZAVlHmMDCcBYd                   
+1974-03-29 18:50:01,AAAAAAAAAAAAAQI,COMMON,ACTV,HvGHzwEPrEUsjHqGPuURi dAZqNiz                                         ,NASDAQ,801745620    ,19210428,19280131,        2.08,ANKZqXnAPolCevVlalzEIxkMBL                                  
+1974-03-30 19:07:04,AAAAAAAAAAAAACO,PREF_B,ACTV,HMofJHTOTrAxBIEowiCPOPBuFYmcKGKuwWfMqBXCnhNY                          ,NASDAQ,347177833    ,19350122,19200413,        2.01,0000000069
+1974-03-31 07:33:02,AAAAAAAAAAAAAQN,COMMON,ACTV,uNUMbgzFn LQADLTGTCDvcie kmcgDVsxMFl                                  ,PCX   ,35912709     ,18930507,19410102,        2.97,jmClCXBcZwINVyetRxHbWYRbsYBIFkuIGtecXWIN                    
+1974-03-31 23:59:05,AAAAAAAAAAAAAQK,COMMON,ACTV,ZENQykCMNcHlEfVm                                                      ,PCX   ,897160541    ,19550422,19080801,        1.26,iAJNmDakgxlQcGOiloFqkXDmRxJezUSKSBPCvqFfSbAlV               

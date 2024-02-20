@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+2008-06-29 02:12:04,AAAAAAAAAAAACDO,COMMON,INAC,cKfctaUKLnPUgSNBXoivkDDKQZIADnuxH                                     ,AMEX  ,896557362    ,18750410,19680702,        0.02,CUGuqkwzTSMqejsbAELFRnqEulxOnOrKoSsNbxswdQNxNH              
+2008-06-29 07:15:05,AAAAAAAAAAAACLX,COMMON,ACTV,ZwTtGtHvwKejPPLCsKHKsiUPDfHmBGPZqrU iwRu PqpJLWR F                    ,PCX   ,522043943    ,19791116,19180819,        0.14,0000000529
+2008-06-29 09:46:03,AAAAAAAAAAAACLS,PREF_A,ACTV,bFsCPJuYvgUGzNymScSsqfJjtZBSfVDDHjTUCygTbWIERAUNQE                    ,AMEX  ,367056182    ,18680716,19750717,        0.49,AQBWvtAnnDuGRLDEPAB                                         
+2008-06-29 17:18:04,AAAAAAAAAAAACLY,COMMON,ACTV,foMtNH ATTDLzGlZcbKbKmINSmRYy GaJmOTIpTIP BVZxHQZUVvePPEHQwQsF        ,NYSE  ,125655699    ,19371130,19030319,        0.50,0000000719
+2008-06-30 02:13:01,AAAAAAAAAAAACLT,COMMON,ACTV,hJDkyXDGeCCdCRjj gkIKDRtBAqLhlcmJ                                     ,NYSE  ,183576408    ,18990220,18560103,        1.90,0000000016
+2008-06-30 02:36:02,AAAAAAAAAAAACLZ,COMMON,ACTV,GGCjsPmPUUEPgsPODkuLW                                                 ,NASDAQ,305901721    ,18920927,18550120,        0.52,0000000758
+2008-06-30 05:51:00,AAAAAAAAAAAACLU,COMMON,ACTV,DBOcibEYckFi                                                          ,NASDAQ,864994911    ,18631226,18810323,        1.51,LwQfJdKMLblBCJwyPIBOajIoiLkHDAloKOKBEMLH                    
+2008-06-30 09:32:01,AAAAAAAAAAAACMA,COMMON,ACTV,eYXPNzuFUp u suouhnlDSxkVugRVVEfJHDDC                                 ,AMEX  ,889719595    ,20021130,19810605,        0.01,SDPOfOXQQUJpzDMAjFvJhcQscRUtxyuaSIwQpFkqWSqHKFbvlEzuAAv     
+2008-06-30 18:25:01,AAAAAAAAAAAACLV,COMMON,ACTV,NGXAPXJfAFssATmTVSUOqCyXIRYxmwbKKo                                    ,NASDAQ,98468014     ,19040529,18660515,        2.68,vIgvncQnWqXiWTBjIr                                          
+2008-06-30 20:35:05,AAAAAAAAAAAABEO,COMMON,ACTV,NyLKOhgvrmVKLHxNPVDqIMMmOipN                                          ,NASDAQ,912952383    ,18640601,18530520,        0.16,zPZDFCVuwVXZJGMJAsRfXJ                                      
+2008-06-30 23:59:05,AAAAAAAAAAAACLW,COMMON,ACTV,zYEKwTGRPLHYJLYfzwCZzmgRuCZLNGMoRWpaBxAS QxAM NZFTnzjMoLJsCymwjNdWo   ,PCX   ,614290400    ,18890516,19560912,        1.72,0000000085

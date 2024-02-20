@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1990-03-29 02:31:05,AAAAAAAAAAAABMQ,COMMON,ACTV,eZpDaSoctzHIzXbBIbDMYFTjIIgbWsfOdUzhTONvMofvNKSTTaShPCNgXLySVlSTw     ,PCX   ,508027047    ,18631205,18840114,        1.41,mqFXQHGXTMiBfYGUYWQNXbNJhDVNzAztAmafbEocueUljhwVLF          
+1990-03-29 15:24:05,AAAAAAAAAAAABMS,COMMON,ACTV,JkuVNAZSDgGYEieWjgGbdEgzzuNbTZGLyRbBOlBIqUFKMTHkjALcBXgTNTWP          ,NASDAQ,847542942    ,19560419,18540615,        2.60,YlpflHftvhFRyvQtIBh                                         
+1990-03-29 16:53:02,AAAAAAAAAAAAALX,PREF_A,ACTV, VpkO hmAIlMVAqHIyIAvoloeuaPHCHSREboyPnQ                              ,PCX   ,97927366     ,19341214,19420502,        1.32,xhYWAJMSSSWWPScFejHjYyLLhHgxPNDOIRDlLOYTmuXhX               
+1990-03-29 20:53:01,AAAAAAAAAAAABML,COMMON,ACTV, zKMjOBmFI                                                            ,NASDAQ,118396791    ,19551030,18840702,        1.34,VutKBrtREhPYBSKkLOTCIJUhvoxNWXFGjStitIWXWGyN                
+1990-03-30 06:27:00,AAAAAAAAAAAABMN,COMMON,ACTV,rtRejKUzciUVUrJIQEZSVorRCJKjgMsRhKRXFy                                ,PCX   ,716139450    ,18820528,19040701,        0.31,DvbOuQtQhhIpCgicNoNmJJmIISOzXrHUBciK                        
+1990-03-30 14:48:04,AAAAAAAAAAAABMP,PREF_A,ACTV,bJaCJNjQLYEQtfLiVyUltfoDNXhvbKLAYzHeJREbsRHcPOGHWVHjyheNOl            ,NASDAQ,363873451    ,18730424,19650821,        2.30,PXnQrBoBIAwBnkhy                                            
+1990-03-30 16:45:04,AAAAAAAAAAAABMR,PREF_C,ACTV,sxvcULegTIuRSuuBNUEkYJgQA                                             ,NYSE  ,378407885    ,19580911,18950731,        2.18,fwgBnpdvTZOSgXdWcUTALKmnORwpMICpoFGGgQaSBRmAWVwGiExCPvmb    
+1990-03-30 17:39:05,AAAAAAAAAAAABMT,PREF_A,ACTV,KWkEQNCLJqKZvYLC                                                      ,NYSE  ,451768563    ,19221218,18591215,        1.69,RpEFmTSQLXsSTZRBOAJrhbGaiKtTejnrwRvygNqOXNKzS               
+1990-03-31 00:05:03,AAAAAAAAAAAAATP,COMMON,INAC,CkClLFgB QUlpxPgP                                                     ,AMEX  ,82272754     ,18721112,19040310,        0.89,0000000139
+1990-03-31 11:12:04,AAAAAAAAAAAABMM,COMMON,ACTV,ArgezvKUmDiDKaqtwsJozJZVYLRPuoDzBnXMcGUrIUoCKmEGnyYdpCdFFreRESiaOcBON ,NASDAQ,925759717    ,18600412,19710720,        0.02,KwjfmirRqfjJKRClFNxFXRUpUKSpCNxNadkYKRajlaHBFBFgLPbynOng    
+1990-03-31 23:59:05,AAAAAAAAAAAABMO,PREF_A,ACTV,xmRGpzCIHTPKQuChFdhmhRNWcAgPPJOKzWMnW                                 ,AMEX  ,804899236    ,19030828,19860901,        2.83,0000000304

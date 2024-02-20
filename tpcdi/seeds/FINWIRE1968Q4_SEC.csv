@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1968-12-18 23:54:00,AAAAAAAAAAAAAJI,COMMON,ACTV,BJjQMNIgfHLbk                                                         ,PCX   ,799298541    ,18640613,18750609,        0.89,0000000045
+1968-12-20 08:12:03,AAAAAAAAAAAAAJC,COMMON,ACTV,vIrbvehDEEUGab wmnqyHVxalLBgeJfAGWEUnFyqidGNwK                        ,NYSE  ,992306793    ,18610425,18581025,        0.30,rjkmNkyRrYnpSUDcOqIviweufHAQzFKBSXsYPAcKkbMbBVsEUWMNMRKJZK  
+1968-12-21 09:31:00,AAAAAAAAAAAAAJH,COMMON,ACTV,YbxkAGy SMqNNKmTTfeDVggMjkSxKkAAtlMtxRyhMnCVezeoTElIMGwOb             ,NYSE  ,341913869    ,19400417,19530424,        0.97,jaaLOswAWNHAAHrSJdoSSzDViOJjUjQtYhYJQkHMYPSJxGEVzPMFi       
+1968-12-22 21:08:05,AAAAAAAAAAAAAJB,COMMON,ACTV,XTHNOVSoFzndYcQtcPb EcZhNBzM                                          ,NYSE  ,66005828     ,18821028,18520320,        2.78,WCJJAitQbHnCKfmKEVEELEBjYtHsVGTBpOMMCLXEadMPRGRTA           
+1968-12-25 04:31:01,AAAAAAAAAAAAAJG,PREF_B,ACTV,RVGBRTCukOUshZF YElgNfR                                               ,NYSE  ,467588004    ,19460214,18781123,        0.81,0000000009
+1968-12-26 06:47:00,AAAAAAAAAAAAAJA,COMMON,ACTV,CIz GTPPCrlhTZJAzeIHV oesgSPgEQTyEHFOpmxI                             ,AMEX  ,154002494    ,19611031,19601015,        2.90,0000000013
+1968-12-27 11:22:03,AAAAAAAAAAAAAJF,COMMON,ACTV,FVWEeKYgkTjKUhgFjDeunEIbNY cJHOIluK                                   ,PCX   ,308595781    ,19110428,19060404,        1.77,KJhQqvrlpQBidNaiKSbeNNikTGFNyqfAokZNpWiMnQ                  
+1968-12-27 22:06:02,AAAAAAAAAAAAAIF,COMMON,INAC,IAvRVsOtEtvVHDGn                                                      ,NYSE  ,901322813    ,19160220,18610811,        0.16,0000000045
+1968-12-29 06:27:01,AAAAAAAAAAAAAJE,COMMON,ACTV,zOnCDPxbpvNy                                                          ,PCX   ,219832716    ,19320413,19441102,        2.77,0000000018
+1968-12-30 14:50:01,AAAAAAAAAAAAAIV,COMMON,ACTV,YJxeWbWxACmJGmWPjNpIGeONn                                             ,AMEX  ,304425984    ,19420406,18501111,        2.54,KRtMROFTkhVPydRKxEDtVV                                      
+1968-12-31 23:59:05,AAAAAAAAAAAAAJD,COMMON,ACTV,yKKOVzJpWZdNMnysF                                                     ,AMEX  ,335369046    ,18630813,19571226,        2.71,0000000092

@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1986-12-27 17:17:05,AAAAAAAAAAAAAWX,PREF_A,ACTV,dgdR UQUyQkAFuxWMMMxOzNjdMHmKYw                                       ,AMEX  ,97500076     ,19590321,19540728,        1.84,0000000383
+1986-12-28 11:41:05,AAAAAAAAAAAABIC,COMMON,ACTV,LpwFipfhGfU ry jONbBeeNJlFoSbRSwMs QUJhPUDhVUxIeJF                    ,PCX   ,62227917     ,19851102,18820115,        1.87,tvSFcCQtEywTlgDTDcLJCLU                                     
+1986-12-28 17:09:02,AAAAAAAAAAAABGE,COMMON,INAC,SjWbOUZSLiYvIJgFEHrjIIMoHbYes EBfoneeArRyMIDsDsiTNELQNaFix            ,AMEX  ,429892007    ,19270713,18881207,        0.05,0000000060
+1986-12-29 02:05:00,AAAAAAAAAAAABID,COMMON,ACTV,UB mJjHMVxkUNDFxLuJtZSNOlGsvSdAevOHLKa                                ,PCX   ,969422985    ,19181028,18590611,        0.92,POXQteLKsMZWDmEDyJCiKeVVEBpQSTYzZARMT                       
+1986-12-29 11:24:00,AAAAAAAAAAAABHY,PREF_C,ACTV,TlWZqiSeeKbAKTOtfFc eh                                                ,NASDAQ,85171316     ,19590628,19350228,        2.49,0000000382
+1986-12-29 14:01:00,AAAAAAAAAAAABIE,PREF_A,ACTV,VaJmVNFKkVzwUfNQdyuDZBu qusVtMTPVJULnJNsvDxsz BSHw                    ,PCX   ,573969479    ,19540208,19620903,        2.50,YNouztDEEgVJnWzrV                                           
+1986-12-29 20:43:04,AAAAAAAAAAAABHZ,COMMON,ACTV,MlWcydLPTdThCI b bUYRwPCNPPap                                         ,NASDAQ,616845557    ,18730227,19760308,        0.00,0000000380
+1986-12-30 07:08:01,AAAAAAAAAAAABIF,PREF_A,ACTV,IKpFUUKFUiedOabQIgNqMN lBsuiMAtZEN                                    ,PCX   ,419396774    ,19700729,18830714,        0.86,JGGCQbERQHXaNRDxRmZvCqEKWuyEqRebHVXkkTBTmOrqaDgcbAK         
+1986-12-31 01:26:02,AAAAAAAAAAAABIA,COMMON,ACTV,HhMIHLEFySqGytwIAabeWJjzGgtPUbevTP                                    ,PCX   ,469973619    ,19750817,18500910,        0.11,TfDdCuRCTQODcWhJKicTYcSKtaHxJvVCFpKSBBSLkfGdfRlGaVj         
+1986-12-31 05:37:03,AAAAAAAAAAAABIG,PREF_A,ACTV,TVPEHRPhEShMGPHFGUsKDxU nswITrMSFrbwDQPASsgvrKJWXFCBG                 ,NYSE  ,354845296    ,19100413,19270324,        1.95,JaBRAUCPDCLITNXXrADVCSIopfxogeRFkYFvBVlr                    
+1986-12-31 23:59:05,AAAAAAAAAAAABIB,COMMON,ACTV,kk jogVYTOBGFmspmAMMJMSAWnrNPPxczbnQJ                                 ,PCX   ,460375424    ,18970911,19090611,        2.25,eyGBByYTpoRbgjJdHtPbQdJTXrTbcWTJkSHlPvDAkK                  

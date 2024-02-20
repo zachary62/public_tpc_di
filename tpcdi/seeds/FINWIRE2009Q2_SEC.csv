@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+2009-06-29 05:02:02,AAAAAAAAAAAACNI,COMMON,ACTV,TDblVMbWUhJSH                                                         ,NYSE  ,666590897    ,19590208,19060704,        0.81,lGKCDPIplHUrWtxvMqWnCl                                      
+2009-06-29 07:42:02,AAAAAAAAAAAACNG,COMMON,ACTV,VAcjvEKeUDiQWTrUTxQDlfzDFzLIAFNMmPUVEkYN                              ,PCX   ,242143865    ,18510517,19840628,        1.08,0000000916
+2009-06-29 09:46:03,AAAAAAAAAAAACNE,COMMON,ACTV,GtLSHKAywx                                                            ,PCX   ,932928894    ,19450602,18760123,        1.95,0000000034
+2009-06-29 15:13:02,AAAAAAAAAAAACNC,COMMON,ACTV,mTtqaVUqMRAVLiMfDQoQJlRMfwW                                           ,AMEX  ,25698539     ,18580418,19600927,        0.90,VypTRNPibuJtFroLXOLVGEAJ                                    
+2009-06-30 00:47:05,AAAAAAAAAAAABEC,COMMON,ACTV,CgOhFEOgTNJSDSQzLWRWESnNLxWsSBsLhqXiGssJyADUcIHXjxlYmyfdKurPSdbkEDS   ,NASDAQ,230660890    ,19020228,19531020,        2.38,LzeQkvxJeQcqYYEKfiYLLxMUQQJLljyUjkuOqnPRNWVP                
+2009-06-30 01:16:00,AAAAAAAAAAAACNJ,PREF_A,ACTV,jaddwiynQEorMBiHDfKaPxO                                               ,PCX   ,60114516     ,19460201,19860325,        1.46,BBTPLFzPqhOgnMOuPGHFoQRyQBjPlAMHNrpYFHJxyDXofNbYXEjOaUVK    
+2009-06-30 02:37:00,AAAAAAAAAAAACNH,PREF_A,ACTV,JpwGAGZPEsUFUbOkCTBXEblDNBQRwOixFfNtoVaqQVf                           ,NYSE  ,460350846    ,18930620,19720531,        2.97,WRWDtKKtqdQOoNBZLOMfWTzNGUoTVEDfDRIXDhRud                   
+2009-06-30 08:03:02,AAAAAAAAAAAACNF,COMMON,ACTV,XSTDxwBUVGHdaDJBXpPgJRHv bBBRVFc rRSjQDboUBF                          ,NASDAQ,764119055    ,18791019,18530119,        1.93,0000000835
+2009-06-30 08:39:01,AAAAAAAAAAAACND,PREF_A,ACTV,BmmRQjkvAXKAZmXnnCzdihmLotdmdDjnkvPewcQbeyDSKXf                       ,NYSE  ,133608010    ,19080105,19600315,        2.53,KVDuWYdIUcWeuePAMMNHZJllrJBXkQeLGHXAHiGFCHzrOLzbJ           
+2009-06-30 19:09:04,AAAAAAAAAAAABRZ,COMMON,INAC,cNCUvhCAlaMITDLADoOEAPaOvUCchgALXYDCOIKvP                             ,AMEX  ,268408362    ,19501012,19970724,        2.34,0000000167
+2009-06-30 23:59:05,AAAAAAAAAAAACNK,COMMON,ACTV,gTENfLUOipBNRNajBjkIWGooAFatGyUCrceskKEYfUrFgzKgAYvwlwfRMFNCglR       ,PCX   ,526248691    ,20070318,18801008,        1.70,XXuPAoJvfWkvkBWPDHTknGdDcQcVGpuxlyooeBTuwDOhFBbzx           

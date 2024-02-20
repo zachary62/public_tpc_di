@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1986-03-27 14:30:01,AAAAAAAAAAAABHE,COMMON,ACTV,qAOESfBIVsaygAYLNaIOcOhqGBJSuICwkSYhVBNTGqKbPbEFkTgKCOJe XIKTG        ,AMEX  ,219825382    ,18800420,19310713,        0.76,CAKVWQkEDwoihBhy                                            
+1986-03-27 19:07:01,AAAAAAAAAAAABHD,PREF_A,ACTV,uBYDJYTDBATBpOlBKcy                                                   ,PCX   ,798466439    ,19050918,19840611,        2.52,0000000130
+1986-03-28 16:21:05,AAAAAAAAAAAABHC,COMMON,ACTV,RPdKWqGJXwINSb                                                        ,NASDAQ,86473613     ,18681029,19010818,        0.53,0000000203
+1986-03-29 14:35:01,AAAAAAAAAAAABHB,COMMON,ACTV,dBdemXjgzysKhaDPCYNGKirBHvALaBFbl                                     ,PCX   ,985500098    ,19530615,19480825,        2.14,0000000018
+1986-03-29 22:42:03,AAAAAAAAAAAABHA,COMMON,ACTV,WiKAkNSo ZErLhMKNIVGlNTN                                              ,PCX   ,322831514    ,18510217,19130723,        2.71,0000000241
+1986-03-30 09:02:04,AAAAAAAAAAAABGZ,COMMON,ACTV,gGrCMOrfFCWvZEgDaCGxcvLveQfQCoZzVfH                                   ,AMEX  ,99628525     ,19221108,18881202,        0.65,JGGCQbERQHXaNRDxRmZvCqEKWuyEqRebHVXkkTBTmOrqaDgcbAK         
+1986-03-30 18:27:05,AAAAAAAAAAAABGY,COMMON,ACTV,jEaNkeGuRFddZTCK QnaSwgqWQwGNifeJYgHVyGdEpPcOZMnOIrkSXVGTUtZTROeEK    ,NYSE  ,979264134    ,19671031,18861225,        0.05,XrWiboLxUQlnSBFaqKaSNnLmzFxabLyNHe                          
+1986-03-31 00:53:01,AAAAAAAAAAAABGX,COMMON,ACTV,VyHTbBUuIYUsdXsRFMihVXwtK                                             ,AMEX  ,733335911    ,19820731,18840219,        1.70,XiKcfZmoGQnBHAdYEzmdTwSdbIDPEXDvLJbgRSdkrsLGrsJIESgMl       
+1986-03-31 02:41:02,AAAAAAAAAAAAALV,COMMON,INAC,PLaffWQFKCZRHjNVfrDLYJkOqCzZLQzdtRSGaQcQBewQfHyVAShMYRjaknm FV        ,PCX   ,314244263    ,19491023,19440617,        0.11,EWLGmUGXPFpTzJHWSDhhEcNENrEWmoXjAnVAy                       
+1986-03-31 03:28:02,AAAAAAAAAAAAARN,PREF_B,ACTV,eIIhJwdQKPTrUZrSsAsVFDvOYcAODNUABlOqHZnCIDFJHsYLBnwHjFUy              ,AMEX  ,267745208    ,18790620,19100501,        0.52,0000000304
+1986-03-31 16:19:00,AAAAAAAAAAAABHF,PREF_C,ACTV,PZzKiircDTfPoJBRHmWHV xyPrLVDV                                        ,NASDAQ,49784351     ,19010223,19670420,        0.44,zSzyZVwpMSypTaf                                             

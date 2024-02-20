@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1977-12-26 00:53:04,AAAAAAAAAAAAAVT,COMMON,ACTV,RjflIYsSVBGIw                                                         ,AMEX  ,195720765    ,18670114,19630821,        2.48,XRVuyupUjWMbCbYQ                                            
+1977-12-26 16:26:04,AAAAAAAAAAAAAVR,COMMON,ACTV,UQJrpeRGVJnwTOCbK FObOeMMVSqQHhKGGKJTPwdPnGJtjPCXMDcNNFUhTRyZ         ,AMEX  ,276258890    ,19260830,19080607,        2.96,mPMQctNfdlYBGEJcUJMKsAYRADEUETYwjTnFsJLBCbNRKrGOaMiTuCx     
+1977-12-27 08:04:01,AAAAAAAAAAAAAVP,PREF_B,ACTV,TzJdAJRrcpueiOrFTlCYMTeFVuwtuMcOVStgnnzN                              ,NYSE  ,359687729    ,19481203,19270916,        0.52,uWKgnOcSallDwIGbzmHNnUNmZRbxItRcm                           
+1977-12-28 00:00:03,AAAAAAAAAAAAAVN,COMMON,ACTV,OVg p KYlAVwcKqOlfJMbDV                                               ,NYSE  ,941129828    ,19300703,19701225,        1.42,0000000004
+1977-12-28 09:45:02,AAAAAAAAAAAAAKR,COMMON,INAC,KFD JSjAxrmfArZ TPzG                                                  ,NASDAQ,190014139    ,18520830,18740416,        0.08,BgpLAjcrGOfvcVWNQfwxEAYgWIBcvFfUutkFvJS                     
+1977-12-29 01:12:02,AAAAAAAAAAAAAVU,COMMON,ACTV,aeCXDPIeVMmLOKyDKTfFnyxbb                                             ,NASDAQ,458919634    ,19520427,18720519,        0.99,TLOeJROVMacWuQLAOqTyEkblGNJmHaNXnFWPqeXGAI                  
+1977-12-29 15:45:00,AAAAAAAAAAAAAVS,COMMON,ACTV,BIgocIfVqAK                                                           ,AMEX  ,526499269    ,19300210,18590719,        2.06,RPUZTnurVHysAeUvfJCuQGKgkSuI                                
+1977-12-30 02:09:01,AAAAAAAAAAAAAVQ,COMMON,ACTV,cLsDSOVHvDHvKmyNuJUDMHRHpNLBPGCiLSN GT wNxiKkpY                       ,NASDAQ,323281704    ,19610817,18880823,        2.42,rMYOCCfxrxbXUzjoaqDGpXIEVWhiwMGOoMPICzcJfaiGilyTiF          
+1977-12-30 13:17:00,AAAAAAAAAAAAAVO,COMMON,ACTV,QNJfFORCGJSUg                                                         ,AMEX  ,557867801    ,18610612,18901231,        0.06,drtQyTTaYrFhVuUaKdIJHCACRLXgXRBYvRMIbpOlKUzGVYHTCZ          
+1977-12-31 09:04:00,AAAAAAAAAAAAAVM,COMMON,ACTV,ryIXpoZJgmPvULTSoSqMQPhpNSNUAdGkiqwXsMKv                              ,NYSE  ,305674272    ,18610521,19480131,        1.14,RtYhTNuAWQnCLSVfVKqPJlpCKMETs                               
+1977-12-31 23:59:05,AAAAAAAAAAAAAIB,PREF_C,ACTV,jOoGAvKDzcP ITUUCsVZNApFDomj lbeHMSCWAiNPsbu                          ,PCX   ,792552063    ,19511003,18721023,        1.02,0000000036

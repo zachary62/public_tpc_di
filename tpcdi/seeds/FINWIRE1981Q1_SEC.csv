@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1981-03-26 11:47:01,AAAAAAAAAAAABAC,COMMON,ACTV,LXLIgJCfpXSDfQAkjiMVGafY JfCJQlgaekhePOUt                             ,NYSE  ,360141543    ,18531210,18540620,        0.21,LHLtYYBVQKIMsKuLPRKpMFxNQ                                   
+1981-03-26 19:02:03,AAAAAAAAAAAABAE,COMMON,ACTV,LfMGcCKOCW                                                            ,PCX   ,249683912    ,19290328,18680425,        0.66,0000000185
+1981-03-27 08:01:02,AAAAAAAAAAAABAG,COMMON,ACTV,sNTuwNDQZiaGEThfHSMOpwEGiAmVPKhYY                                     ,AMEX  ,86175181     ,18700130,18810215,        1.80,0000000021
+1981-03-27 17:06:03,AAAAAAAAAAAAAED,COMMON,ACTV,aHb MZsTILCVHhxaWMEaaIeCwceMoAoMmNQOtIhJPz                            ,PCX   ,434105768    ,19290228,19470811,        2.76,0000000219
+1981-03-28 05:05:02,AAAAAAAAAAAAAZZ,COMMON,ACTV,BGFUIflkKVwFDkQIzBELIrPCMJwadHjlQBOXNXbAPSH omSXwNvjUDbEUXqOg         ,AMEX  ,368079248    ,18600809,19611120,        1.99,YKsCvZFRHKHIOMkwyDfOanJZ                                    
+1981-03-28 17:37:00,AAAAAAAAAAAABAB,COMMON,ACTV,efqfRrEEWfdZdMYjbjjZVgALLPcJ                                          ,AMEX  ,127084608    ,18851211,19030525,        0.85,0000000233
+1981-03-28 22:05:04,AAAAAAAAAAAABAD,COMMON,ACTV,FUhFwJuUSdbiA                                                         ,PCX   ,706714632    ,19551117,18720217,        2.74,TnPMmqcoMKrBqUTeZoJVRjSkgpexMUwNdREkBnO                     
+1981-03-29 23:09:02,AAAAAAAAAAAABAF,COMMON,ACTV,BMpbiGJMGJbdMpZjQSVGzzgtBXxlmRcaTSCsdChUKCmXCRGZbJNIPrEt              ,AMEX  ,626796435    ,19370710,19330605,        2.20,0000000326
+1981-03-30 11:38:02,AAAAAAAAAAAABAH,COMMON,ACTV,dtRZtmoo kZHhJxeqeDfeitL sptendFu                                     ,AMEX  ,876833400    ,19001207,19731002,        1.16,XbTdxPHplrvWLNnFQtOJgg                                      
+1981-03-31 00:22:00,AAAAAAAAAAAAATU,COMMON,INAC,xhgcxmzqlXVQHRkMoRPvWbaKnLydRoLTzhmBPROBluobSLY                       ,NASDAQ,786451420    ,19220613,18640226,        0.41,0000000205
+1981-03-31 13:13:02,AAAAAAAAAAAABAA,COMMON,ACTV, ujrgZUR LRjoImbvSPEVPFKnSJmOIdAURIDwDPMxArkl                         ,NYSE  ,616906708    ,19441007,19050324,        0.67,0000000063

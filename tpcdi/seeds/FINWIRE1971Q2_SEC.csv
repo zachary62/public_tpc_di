@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1971-06-19 07:14:05,AAAAAAAAAAAAAMO,COMMON,ACTV,CQXQEUrVaizKbSA AoQCeTVAQgu                                           ,NYSE  ,244788705    ,18610524,19260129,        2.22,yJZRFbHLdseBeTnJIpEmTJtfrrDaEFBWyS                          
+1971-06-21 14:45:05,AAAAAAAAAAAAAKT,PREF_A,INAC,boTXASRSkbGfbOREGSrHRfOFDM                                            ,PCX   ,196775425    ,18570726,18630505,        0.43,mPMQctNfdlYBGEJcUJMKsAYRADEUETYwjTnFsJLBCbNRKrGOaMiTuCx     
+1971-06-23 04:53:01,AAAAAAAAAAAAAMT,PREF_A,ACTV,qVJvrMpWzoAMlHA CFSrpY                                                ,AMEX  ,801191701    ,18590801,19360412,        2.92,WQvGWPoKbkVjgnaQgARkjKXk                                    
+1971-06-24 11:27:01,AAAAAAAAAAAAAMQ,PREF_A,ACTV,GIKbUHYBRhKPOXoBPPQuXRDvQyfsuGLZCpPwPpqWMaKdn                         ,PCX   ,347260689    ,18940128,19130107,        2.26,VNUMGRlTCSQKEfjLfhaUANwnlPAHDkoFxyHfydObCUUeDgBa            
+1971-06-25 11:34:04,AAAAAAAAAAAAAMN,COMMON,ACTV,RinbzrbEPCVBBbQSBEicc                                                 ,AMEX  ,732939053    ,18821221,19071222,        0.38,0000000156
+1971-06-26 12:25:03,AAAAAAAAAAAAAFQ,COMMON,ACTV,AsjAFpXaWkFffveufiNHvT                                                ,NYSE  ,159809388    ,18560919,19481115,        2.88,0000000009
+1971-06-27 15:02:03,AAAAAAAAAAAAAMS,COMMON,ACTV,wEvFPPpjeMqMUBdFwGYPMcKFQQFBXSLSVfEhmGOfcTIBkVufljzPq                 ,NYSE  ,114665041    ,19300526,18600410,        2.09,0000000036
+1971-06-28 09:46:00,AAAAAAAAAAAAAMP,PREF_B,ACTV,IJOSs OQzUxPgJvGxjJAfTGxJPJkuaHupuFbeHgDjyxrNw                        ,NYSE  ,909961075    ,19270313,19610113,        0.66,0000000047
+1971-06-29 20:18:00,AAAAAAAAAAAAAMM,COMMON,ACTV,SImkbEJDbBaDN OYbHwNdKNYkkJbtlnJpMZprHLTIGrQ                          ,AMEX  ,524046428    ,19040904,19301030,        2.55,YNouztDEEgVJnWzrV                                           
+1971-06-30 18:16:02,AAAAAAAAAAAAAMU,PREF_A,ACTV,ziNlkRmSjhUVMrKpyDRRQjFcbKMmyBLcTTivIxgCBPSvRhJKZAYYfCTJCOnFMIJjxyPoq ,PCX   ,288847399    ,19280202,18880409,        1.30,0000000109
+1971-06-30 23:59:05,AAAAAAAAAAAAAMR,COMMON,ACTV,kFPyKXjkHKJvqrbQCWCpiLgPobzUaAk                                       ,PCX   ,393890418    ,19471125,18931212,        1.63,CgViFZKPpZNMSWtbMiQVZMgDztWsdGDaGJryXETM                    

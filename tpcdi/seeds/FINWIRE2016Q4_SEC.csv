@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+2016-12-30 04:10:00,AAAAAAAAAAAACXR,COMMON,ACTV,UzPhUpJDtWxCswBZxznFgMHGVVbGvjgOpPcV                                  ,AMEX  ,26658905     ,18520702,19990809,        1.36,KEGJUmtiTGWgspzKcnMQoMWdhjwInvEnWkMEKuWaXSOGKhvGHoFlAuJVDXzs
+2016-12-30 08:54:00,AAAAAAAAAAAACXP,COMMON,ACTV,JlHDSEVGmBCQbPlWw                                                     ,AMEX  ,61982263     ,18961224,19030423,        1.03,0000000193
+2016-12-30 11:56:04,AAAAAAAAAAAACXN,COMMON,ACTV,FkuFWQBrQAEKegRSvKyDkOFClkHeEBqtzTUhroPLSQqH                          ,AMEX  ,888035006    ,18900117,18830204,        1.55,XrWiboLxUQlnSBFaqKaSNnLmzFxabLyNHe                          
+2016-12-30 13:33:01,AAAAAAAAAAAACWE,PREF_A,INAC,gRgHHXHUGC                                                            ,NYSE  ,136671288    ,19411006,19370207,        1.41,AymCgsDQrJQJukysPpRlqINZfVhBWIAaOxOSBNujK                   
+2016-12-30 22:16:03,AAAAAAAAAAAACXU,COMMON,ACTV,NBVlGdHepGtQXGsJdpPRGmiDKJnPI                                         ,NYSE  ,200630326    ,19150327,19150604,        1.28,AOUEDVXombADyRwbaCtIgakebE                                  
+2016-12-31 00:36:00,AAAAAAAAAAAACXS,PREF_B,ACTV,QvMcMtdHgxXtLX                                                        ,NASDAQ,692716974    ,19600729,19600611,        1.13,0000000269
+2016-12-31 04:11:03,AAAAAAAAAAAACXQ,COMMON,ACTV,QxKRyPvPSXkFOufrWVEgmWMtccuHDG                                        ,AMEX  ,233920518    ,19291104,18711129,        2.05,tvSFcCQtEywTlgDTDcLJCLU                                     
+2016-12-31 08:49:05,AAAAAAAAAAAACXO,COMMON,ACTV,BVPHIKlPiIkQMWaKRKMVFAyAnghTDUULyRVXGP                                ,NASDAQ,278994433    ,19370110,19520325,        1.27,zAESHdFRNaYdnpEDnmWOHkFx                                    
+2016-12-31 15:23:03,AAAAAAAAAAAACXM,COMMON,ACTV,RfAVbPZKBVVFAJIIQhYLqPJFvz                                            ,PCX   ,210414752    ,18690818,19150325,        0.41,0000000321
+2016-12-31 20:06:00,AAAAAAAAAAAACPK,COMMON,ACTV,hdUPMBwQYpsbRFQCClWmFYahpHSnMl nACFInmKqiAqQKgsVyAfJbRrFlcCVbFHXwT    ,AMEX  ,757982703    ,18881020,19260206,        1.38,0000001031
+2016-12-31 23:59:05,AAAAAAAAAAAACXT,COMMON,ACTV,jOMgZDywIUJWUjHkbfciyawMEEVTibvKESQesGK                               ,AMEX  ,312910182    ,19111114,20080819,        1.30,0000001054

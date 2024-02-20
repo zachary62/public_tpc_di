@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1994-12-28 19:30:03,AAAAAAAAAAAABTE,COMMON,ACTV,kfxVaDXqBSpcehVWviArMUVqOxe                                           ,AMEX  ,57848167     ,19391014,18960710,        1.19,hNmqLPzEQEuTARnnPKRhpbQDGTFD                                
+1994-12-29 03:29:02,AAAAAAAAAAAABTC,COMMON,ACTV,SSCSvSHhUrHGcubCalS                                                   ,AMEX  ,138424100    ,19150321,18710806,        1.55,0000000435
+1994-12-29 03:55:00,AAAAAAAAAAAABTA,PREF_A,ACTV,AaSLTXWafSUkIgMfUUYGWFZ RyrVaGnEuCJhBLhROdXNLDekvsBRezoWLjnxSpRrIjD   ,PCX   ,195232211    ,18550726,18841019,        1.52,0000000109
+1994-12-29 11:27:01,AAAAAAAAAAAABBP,PREF_A,ACTV,AHAbEWKLGAUshELQxKaUQTDtpLkJceXeQVKiFamosBxnGPSHawxmgQFyunEVqpARkhuV  ,PCX   ,769698508    ,19500729,18890215,        2.47,XdCwDlGsXFstGqdCIcNOKJfTOQPnoEeELXbNmwOl                    
+1994-12-30 05:28:02,AAAAAAAAAAAABTH,PREF_A,ACTV,gE gTtxNHPGzyHdRpHHhxKSdAS                                            ,AMEX  ,899218004    ,19800901,19381120,        2.10,0000000179
+1994-12-30 07:11:00,AAAAAAAAAAAABTF,COMMON,ACTV,xGIDixsSvU                                                            ,PCX   ,517553726    ,19400726,19700209,        1.57,0000000611
+1994-12-30 22:21:00,AAAAAAAAAAAABTD,COMMON,ACTV,NMDxEZGPzBV                                                           ,NASDAQ,37163792     ,19391009,19600905,        0.93,0000000090
+1994-12-31 04:05:05,AAAAAAAAAAAABTB,PREF_B,ACTV,TKKJuRKxlDUHJDwuJagbBxdEbFi                                           ,NASDAQ,421185048    ,19121118,19041020,        0.84,oEIGjLDiEiTTpvIzepEcsndnNtyNpCImIPhmdEBIXnllLDPjyBhJBeN     
+1994-12-31 10:33:04,AAAAAAAAAAAAAVT,COMMON,INAC,RjflIYsSVBGIw                                                         ,AMEX  ,195720765    ,18690426,19781110,        2.48,XRVuyupUjWMbCbYQ                                            
+1994-12-31 15:26:04,AAAAAAAAAAAABTI,COMMON,ACTV,AyVhxaPauIQNqFVELMRClF                                                ,PCX   ,72019471     ,19160909,19811129,        1.15,SFWYyFVjRXVbbJImeTwoVSiiVrmrQAMWErRpIjAkTLkjLFqQAEauVBZSF   
+1994-12-31 23:59:05,AAAAAAAAAAAABTG,COMMON,ACTV,AEQJGUeOJCqFhiVhVVpNZJ KzMGYKL b                                      ,NYSE  ,806897658    ,18570423,19620407,        2.33,WxxNZDKOUIphIDynLKAGWdWOHvjWKHX                             

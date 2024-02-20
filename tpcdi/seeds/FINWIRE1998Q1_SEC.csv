@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1998-03-28 22:56:05,AAAAAAAAAAAABXR,COMMON,ACTV,aELLVyCnHOTSlLTQUrSaoGGLozmMnuKqXare AHAR xGZoWvISIUGMNXzcMSUKiIHjZJ  ,PCX   ,670222193    ,19840420,18630729,        0.63,aCQQNXPURIMGBUmnCLKhOHTvAAG                                 
+1998-03-29 00:17:05,AAAAAAAAAAAABTB,PREF_B,INAC,TKKJuRKxlDUHJDwuJagbBxdEbFi                                           ,NASDAQ,421185048    ,19140419,19060113,        0.84,oEIGjLDiEiTTpvIzepEcsndnNtyNpCImIPhmdEBIXnllLDPjyBhJBeN     
+1998-03-29 13:26:01,AAAAAAAAAAAABXS,PREF_B,ACTV,fiNfQ qAPvbFeKHKDILiN                                                 ,AMEX  ,234220929    ,19821109,19430211,        0.41,0000000457
+1998-03-29 22:20:03,AAAAAAAAAAAABXN,PREF_C,ACTV,pErDMZzEnCvNM                                                         ,AMEX  ,606755481    ,19260905,18921005,        0.08,WxxNZDKOUIphIDynLKAGWdWOHvjWKHX                             
+1998-03-30 00:48:05,AAAAAAAAAAAABXT,COMMON,ACTV,JjAjMGpQHtXaNES                                                       ,NASDAQ,175069582    ,19580908,18841214,        0.01,zxhJtWQDJPxzwfHNsLCkDTcVeNStUKJSCGNJG                       
+1998-03-30 06:10:04,AAAAAAAAAAAABXO,COMMON,ACTV,gCLfrOBNNJTTKYyHOCRMBCdDUEGC                                          ,PCX   ,683398550    ,18810201,19000409,        1.63,WqyjZxfZCegnAiEm                                            
+1998-03-30 19:59:03,AAAAAAAAAAAABXU,COMMON,ACTV,vLSDAMtkADVSEAYoEGmgFwNQurwvzXqOWvFzjCFbCXkUNYTRwuMOStyPQwRQrdVPqkHI  ,NASDAQ,101976441    ,19160823,19231123,        2.80,SDPOfOXQQUJpzDMAjFvJhcQscRUtxyuaSIwQpFkqWSqHKFbvlEzuAAv     
+1998-03-30 21:42:02,AAAAAAAAAAAABXP,PREF_A,ACTV,PWfTVkCOeGOsGjtLdmiiOdBLRoZTJeHNBtXHNViVHELqQWgFZDmQGeKM              ,PCX   ,402814200    ,19050428,18520824,        2.90,0000000565
+1998-03-31 03:49:00,AAAAAAAAAAAABXV,COMMON,ACTV,GISox  DSrF ScIbPsSRWlJgNVhPwA siOYpCUPpYqgPNOs                       ,AMEX  ,307862946    ,19100815,19040110,        2.52,0000000447
+1998-03-31 10:07:02,AAAAAAAAAAAABXQ,COMMON,ACTV,ZJyDoGgs GbZrEnSdJGhufCVckerNYebLtlEPwupI                             ,PCX   ,387375437    ,18950109,19450804,        2.85,0000000616
+1998-03-31 19:13:04,AAAAAAAAAAAABCV,COMMON,ACTV,LsgMaE EwAcJuwjdqgVawlE TyPBgeB                                       ,NYSE  ,633524062    ,19960102,19161101,        2.35,0000000484

@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1981-12-27 05:58:02,AAAAAAAAAAAAAOH,COMMON,ACTV,HvNEdBuHysRHDkrFsjUOxDIdtDtZg                                         ,NASDAQ,616257309    ,18761225,19290821,        1.02,0000000163
+1981-12-27 08:10:02,AAAAAAAAAAAABBG,COMMON,ACTV,RUsPqhPfyHUMYBE                                                       ,PCX   ,967711970    ,18910612,19310227,        1.64,tVwRqtyZnGGmzjRUwFjQ                                        
+1981-12-27 15:53:00,AAAAAAAAAAAABBD,PREF_C,ACTV,UJmHvHezlnumoXEhHmyoaRBSDPeBuqRhuMs                                   ,NASDAQ,886136654    ,19780804,18840125,        1.11,0000000256
+1981-12-28 06:17:04,AAAAAAAAAAAABBA,COMMON,ACTV,MnDHbMSdASUmYLzoFMdtvBcjEdOGQCsTHoOrGlrtPNynJO                        ,NYSE  ,227134338    ,18630113,19781028,        2.36,0000000022
+1981-12-28 22:59:01,AAAAAAAAAAAABBI,PREF_A,ACTV,qzHUIhAgxIJhsvNhOOOppWfOVhNMaQvtwitBBUDSuFiaJFHsiRXETAgMkQr ucwCTBvNTA,PCX   ,500166443    ,19330507,19750911,        0.28,HUjtzDoCIFlMhxlznJUTHAFWmYdCArlEyI                          
+1981-12-29 07:57:05,AAAAAAAAAAAABBF,COMMON,ACTV,jlNVMnIOQCHgEk                                                        ,NYSE  ,732266491    ,19780714,18520118,        0.95,VKglnFBQTmHKbkhURWViVkJPWJMHHYGIvBBIOlSNDmPLWjCc            
+1981-12-29 23:45:02,AAAAAAAAAAAABBC,PREF_A,ACTV,mDSwuJjKNFrBsMGbvEjyYwQPIvmONlKyDxJLApJcKsdMjPWSc                     ,AMEX  ,12577966     ,19040604,19530911,        0.01,BELJVClFSUDWQNFrxaHxDDEMSOMNqTeWbFtIh                       
+1981-12-30 09:36:00,AAAAAAAAAAAAACT,COMMON,INAC,dqaSEsLRziQlgayTIaocAGODiLIAbQUdDmLCaKAEHwPyRooDAAUuGCHJ              ,PCX   ,554653419    ,19440621,19161202,        2.48,CVRXvUkWOxdMcWRMhABiVpiKwSnFEzHzbbeQ                        
+1981-12-30 14:42:02,AAAAAAAAAAAABBH,PREF_A,ACTV,SwYkDKEHWW                                                            ,NYSE  ,352633794    ,19010919,18670608,        2.83,eyGBByYTpoRbgjJdHtPbQdJTXrTbcWTJkSHlPvDAkK                  
+1981-12-31 07:09:02,AAAAAAAAAAAABBE,COMMON,ACTV,WDIFfR WnDkmezLhGQQbIUoIpgOKOSTF J                                    ,NASDAQ,650294685    ,18990617,19150808,        2.82,0000000173
+1981-12-31 13:19:03,AAAAAAAAAAAABBB,COMMON,ACTV,swKthFxYKvSPmERwnkPx iLaEGEVctleYVC                                   ,PCX   ,774021578    ,18521102,18821228,        0.30,BgpLAjcrGOfvcVWNQfwxEAYgWIBcvFfUutkFvJS                     

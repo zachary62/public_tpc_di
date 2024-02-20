@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+2004-12-29 09:53:01,AAAAAAAAAAAACHA,COMMON,ACTV, QvQeuSCoVU eRIUphQjzICSDlcUjMSftYlstAAwxGBVFJadzbBDrZcrdAHzHx        ,AMEX  ,125404873    ,19700912,19650429,        2.41,0000000585
+2004-12-29 20:30:00,AAAAAAAAAAAACGZ,COMMON,ACTV,RDJUCgGrahnnUBMdJNRlGMuLsiHJnirIvUY                                   ,PCX   ,685159134    ,19860526,19690524,        2.08,tgNeUOkSmbAglyKPapMsnBsVVRszAOehBPwbVSdGyvTDFYXnvxAVgWS     
+2004-12-29 23:35:02,AAAAAAAAAAAACGY,PREF_A,ACTV,BtlSfFuAJICyDXEtBxIvTrxcqIsjakGxMC                                    ,NYSE  ,645698705    ,18900207,20000227,        0.69,GXPlSMRxrwRWSQGoFU                                          
+2004-12-30 06:36:00,AAAAAAAAAAAACGX,COMMON,ACTV,qfiedkoflNsjbvR                                                       ,NASDAQ,616383750    ,19071117,18530621,        2.30,0000000202
+2004-12-30 17:44:05,AAAAAAAAAAAACGW,COMMON,ACTV,TdaSumRCIylODAOHfWgP rsfnvOHBKMx qKi                                  ,NYSE  ,557713416    ,19720122,19010207,        2.91,0000000112
+2004-12-30 20:58:00,AAAAAAAAAAAAAHT,COMMON,INAC,FKJDSyHVhLmkNcJQlYtNlUfVLhILENbKsutaGlsZNaT ZkWqQMWCOmYQvDGlrySyM     ,NASDAQ,127502577    ,18881015,19160109,        0.99,0000000209
+2004-12-30 22:47:04,AAAAAAAAAAAAAOV,PREF_A,ACTV,TuXQiduSeWqJktfVBMcXaGjMfp                                            ,PCX   ,872156972    ,19730521,18710705,        0.10,0000000426
+2004-12-31 09:09:03,AAAAAAAAAAAACHE,COMMON,ACTV,gkDroHECmLqaOW                                                        ,AMEX  ,1686630      ,19160707,19850823,        2.10,nJdFvuivCQsWRFyFGbVTkPWytNSJNtYxlXTETaZDzAd                 
+2004-12-31 13:23:05,AAAAAAAAAAAACHD,COMMON,ACTV,TwdWRIGQyYMrKhoDIegA                                                  ,AMEX  ,524609967    ,20020417,19600531,        0.17,ZsIiCYMAkKPADJIRWgANeoNGBbjoXhvFffEtTPYaCU                  
+2004-12-31 13:41:05,AAAAAAAAAAAACHC,COMMON,ACTV,tPXSTnUFwrqVwhjq                                                      ,NYSE  ,669301904    ,19850319,19890527,        1.31,0000000652
+2004-12-31 23:59:05,AAAAAAAAAAAACHB,PREF_B,ACTV,jPAVHpolqGshIIMjhxLUW                                                 ,AMEX  ,576066555    ,19181027,18870704,        2.48,MHoGxeThDkARUCQIHyJqVPJEpRanvLkh                            

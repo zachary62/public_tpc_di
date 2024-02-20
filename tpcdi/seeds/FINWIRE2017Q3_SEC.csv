@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+2017-07-07 21:07:01,AAAAAAAAAAAACYU,PREF_A,ACTV,QFshjBTElyxHuSzOXpZeOnTWV                                             ,NASDAQ,960709737    ,18930618,19161102,        0.28,0000000729
+2017-07-07 21:25:02,AAAAAAAAAAAACYS,PREF_B,ACTV,rhKGCQpsOOCCrdhaIjhSSPTjzLJzHUMGT                                     ,AMEX  ,99152906     ,19520304,19820423,        1.93,XlMstoSukZznSjBWsWA                                         
+2017-07-07 21:27:03,AAAAAAAAAAAACYQ,PREF_B,ACTV,NWQzcUqEpVXbBQOEwGElr                                                 ,PCX   ,627181514    ,19560517,19551122,        1.43,0000000998
+2017-07-07 21:50:04,AAAAAAAAAAAACYO,PREF_B,ACTV,TouNDINYjivhTHRBwbLdib                                                ,NYSE  ,708636748    ,19400407,19720728,        1.22,0000000949
+2017-07-07 22:18:04,AAAAAAAAAAAACNU,COMMON,INAC,tTRwEBEVCcFiJndRppARJRK                                               ,AMEX  ,835781161    ,18670317,19911024,        1.66,0000000725
+2017-07-07 22:37:04,AAAAAAAAAAAACYV,COMMON,ACTV,VDEmZBxmhOCfHjLUBdPhDoyIr HhxgIjokJYDAnohJCQENEqOTolDvUNG             ,AMEX  ,119942055    ,19450412,19201114,        2.98,vjoxmFyUBmPAvNqUOLzFJRVALGIe                                
+2017-07-07 22:43:01,AAAAAAAAAAAACYT,PREF_D,ACTV,CMdoESARPLtZboHMkafNOSIqiQdOuiGnOnIgqHFPjup                           ,NYSE  ,498967374    ,19160426,19890124,        2.52,0000000666
+2017-07-07 23:21:03,AAAAAAAAAAAACYR,COMMON,ACTV,GCHPwoLRhKjmQmmqDUCKr                                                 ,NASDAQ,379443765    ,18500206,19240818,        1.07,tXuUfntJgrxYaMaSjZVXXQIcxTYzWyiecYHvqZzOYqDOHdFPjXGZhQ      
+2017-07-07 23:28:02,AAAAAAAAAAAACYP,PREF_B,ACTV,LtywXVIQDnnRkKE                                                       ,AMEX  ,865013067    ,19740912,18721202,        1.64,IaIJkJbThYSCqPmZqGFESRtOvhVxcLlZsBRXICTFtkvM                
+2017-07-07 23:58:01,AAAAAAAAAAAACYN,COMMON,ACTV,cFRtVQgjbvfCkyApCS KnS                                                ,PCX   ,371656067    ,19200711,19210328,        1.91,lbDjHZNgQbBNbMfqAToWMEQSctFarRUaHnsDlGmCoBRMEUHNbOUMTHQgAYXC
+2017-07-07 23:59:05,AAAAAAAAAAAAAFX,PREF_A,ACTV,MRkQFITQREXV MPRJdLIaYNCCN                                            ,NASDAQ,643378000    ,19390430,19060514,        2.94,0000000283

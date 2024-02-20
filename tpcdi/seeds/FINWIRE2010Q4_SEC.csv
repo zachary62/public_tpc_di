@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+2010-12-30 09:13:01,AAAAAAAAAAAAAQA,PREF_B,INAC,RWuZrPALfMDDTHAXKyqELITLDx                                            ,NYSE  ,730605758    ,19050908,19700716,        1.63,EuuMCERLkMvngHuMBGDyOvreRutY                                
+2010-12-30 13:34:05,AAAAAAAAAAAACPM,COMMON,ACTV,UVmSoVxJEn                                                            ,NASDAQ,567556739    ,18560405,18701122,        1.23,0000000634
+2010-12-30 16:06:05,AAAAAAAAAAAACPK,COMMON,ACTV,wspyLtNrxtVHJPVOVSuvvXCZOEcJSmtQIEjtPRoqJfURsXmHuNwhASMiPytA          ,NYSE  ,425831551    ,19720509,18680418,        2.33,IaIJkJbThYSCqPmZqGFESRtOvhVxcLlZsBRXICTFtkvM                
+2010-12-30 22:22:00,AAAAAAAAAAAACPI,PREF_B,ACTV,LudcUIzAXLtSlvvBllBAKey xCkbKFsUDqXSRIecCiVYiHsQ                      ,NASDAQ,851687953    ,20040208,19460328,        2.46,WwXQNkQAqANEBHnihrVhCfRtBAoaKSMATszCV                       
+2010-12-31 04:00:04,AAAAAAAAAAAACPG,PREF_A,ACTV,DliTSBIobFF iiAZo TXlDPKeWFdeYRKgy                                    ,PCX   ,417342143    ,19020307,19790110,        1.70,0000000082
+2010-12-31 09:29:01,AAAAAAAAAAAACPE,COMMON,ACTV,ThIEcnVWltKZCp IJbIOpUBtDPMEcTiyPHVTl NnUqsMcCsKnjLneJrmrZzjNVCYH     ,NASDAQ,723205442    ,19050518,19020608,        0.98,CRsqPtJcQxMMUOORXpRAJWPqXLesY                               
+2010-12-31 11:20:05,AAAAAAAAAAAACNO,COMMON,ACTV,zEmRZferNKNTp                                                         ,NYSE  ,264290544    ,19830228,19450321,        2.17,0000000308
+2010-12-31 13:07:03,AAAAAAAAAAAACPL,COMMON,ACTV,HUrVhhfqREeQtKDKIQ                                                    ,PCX   ,572835120    ,18581007,19291209,        0.36,0000000256
+2010-12-31 16:45:01,AAAAAAAAAAAACPJ,PREF_C,ACTV,xmQxMwqSzpzwOYVup                                                     ,NASDAQ,392926535    ,18931031,19160212,        0.92,IwKGMglysFlBzYirJMhjkeKeBJEGrUcxwHHBppgnKtWLJGnA            
+2010-12-31 19:30:00,AAAAAAAAAAAACPH,COMMON,ACTV,STBPnMoVIPmITpcaUrk                                                   ,PCX   ,178625453    ,19780131,18790208,        0.86,0000000796
+2010-12-31 19:51:02,AAAAAAAAAAAACPF,COMMON,ACTV,chyIfVYZRIdUSewbGXsTYGuDJGvTLt                                        ,NYSE  ,722043251    ,20081024,19680319,        2.52,CRyPOAnOIPeeJCZVYkXfpfKBRpEGIwcPBPqYAsgjEVjlscea            

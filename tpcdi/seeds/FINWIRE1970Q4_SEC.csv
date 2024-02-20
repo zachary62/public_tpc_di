@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1970-12-25 01:21:04,AAAAAAAAAAAAALZ,COMMON,ACTV,NASeOM VEnIxvHkPGlM                                                   ,AMEX  ,157841812    ,19131209,18880622,        2.92,eyGBByYTpoRbgjJdHtPbQdJTXrTbcWTJkSHlPvDAkK                  
+1970-12-25 11:18:03,AAAAAAAAAAAAAKE,COMMON,INAC,KNlUbAJQnD                                                            ,AMEX  ,471828513    ,18950924,19000903,        2.26,KOoRBLuVJAmbedckFhAQyRqTdgMMbJwtQJUMWiUWf                   
+1970-12-26 21:53:05,AAAAAAAAAAAAALY,COMMON,ACTV,sKWJZlTHPTD zspFqSqtrpFhRwXphIaRAEQQPxLHtDlSSs                        ,PCX   ,531097743    ,18510924,18520415,        2.77,XUUnTsXPEMNKfGFLNSCxNBJWLSEC                                
+1970-12-27 00:54:05,AAAAAAAAAAAAAJF,PREF_B,ACTV,oZHMPGGqmUWKDOmBBfnS LJ                                               ,NASDAQ,138082173    ,18800723,18540505,        2.01,nUSbwozHKnjEMwDGEwifsBDVkWMEUCXcZRAlqaRyXugMDSPCvILEtSe     
+1970-12-27 09:17:04,AAAAAAAAAAAAALX,PREF_A,ACTV,cJIRJGXEJATJmpbTJhKbESColrjTVSnBQsTMt wBmNTMPFCOLWNcjeAVMWPsTPp SRMprT,NASDAQ,578856199    ,19480714,19080902,        2.93,LawPVRQMaKJxZlvIWZkIUpFJdEJZVBFJMqsfXESdjgxXNcRr            
+1970-12-29 00:17:01,AAAAAAAAAAAAAMC,COMMON,ACTV,RiEzxTQJLDfzQWXBpRlCANMNZQuVVHRXULMx                                  ,NYSE  ,986345074    ,19240224,19090131,        2.28,qNBRLBcNHRMNCOGgoLutSmLjluU                                 
+1970-12-29 10:04:03,AAAAAAAAAAAAALW,PREF_A,ACTV,dfmMOlnfRBDFYrHphLu                                                   ,NYSE  ,27768184     ,19050912,19560918,        2.29,TGfFOOldnTHLjuAaQqJBgbibktVyiLStkrLCynHAZNCp                
+1970-12-30 00:18:05,AAAAAAAAAAAAAMB,PREF_B,ACTV,CwiZSyAwIRHPXZHTMMQATBQhLDxjNFUPolDDrWvppVyKl                         ,NASDAQ,52903798     ,18640106,18630328,        2.13,0000000026
+1970-12-30 07:51:02,AAAAAAAAAAAAALV,COMMON,ACTV,PLaffWQFKCZRHjNVfrDLYJkOqCzZLQzdtRSGaQcQBewQfHyVAShMYRjaknm FV        ,PCX   ,314244263    ,19380722,19331023,        0.11,EWLGmUGXPFpTzJHWSDhhEcNENrEWmoXjAnVAy                       
+1970-12-31 02:24:05,AAAAAAAAAAAAAMA,PREF_A,ACTV,cfdUzgDwEHBXFsSgAcmFNXYHZTJHLTCxCqZhypRhQaryZLXKPwrqOBifbA            ,NYSE  ,264474673    ,19140519,19381002,        1.19,JGWTufGSpPEdVbXtBdURoSBdVLsGNGsGOIm                         
+1970-12-31 23:59:05,AAAAAAAAAAAAALU,PREF_A,ACTV,HNITBvfgPcDXgpUhRL QgvgYOceSUUvdN                                     ,NYSE  ,62088780     ,19161208,18560213,        2.52,0000000044

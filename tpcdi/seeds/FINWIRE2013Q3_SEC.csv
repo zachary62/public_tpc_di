@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+2013-09-29 10:24:00,AAAAAAAAAAAACTA,COMMON,ACTV,XYEiCSuKVbePsCyaQiJlReQDvqDHHuliLCN                                   ,PCX   ,279675515    ,19230721,20110510,        2.37,WAoGPkvEWhOmPxhBiQlyWpTJJCWgJojs                            
+2013-09-29 10:57:02,AAAAAAAAAAAACTF,COMMON,ACTV,EMapRQkRkNGdfYQGSVAocFJFHWCwPwMvKIVzlHkLVWsohhqbJYJkOQoIRMVKZZ        ,NYSE  ,184290344    ,19320523,18741005,        2.60,0000000928
+2013-09-29 12:03:01,AAAAAAAAAAAACSZ,COMMON,ACTV,pImYFM VMjoIeMHEGJcTOipU                                              ,AMEX  ,274415078    ,19721202,19680713,        2.93,0000000829
+2013-09-29 15:10:00,AAAAAAAAAAAACTE,PREF_C,ACTV,YPVBCk QZFJtGngWGFQkkssIbz                                            ,AMEX  ,718540239    ,18580621,19520210,        2.17,0000000728
+2013-09-29 19:37:00,AAAAAAAAAAAAAYI,COMMON,INAC,wZeEjMMQShTEgFiXFkAii                                                 ,AMEX  ,832179373    ,19830505,19091001,        1.89,0000000168
+2013-09-29 20:01:05,AAAAAAAAAAAACTD,PREF_B,ACTV,HTlMHFsSleNYbA                                                        ,PCX   ,968779342    ,19690916,20080816,        0.22,BKtEXykIScHFitXfOz                                          
+2013-09-29 22:22:04,AAAAAAAAAAAACCZ,COMMON,ACTV,GLrGxTWNgENIgynMWdJrnhMohbATgJxhLHBUVripVbBioNNQm                     ,PCX   ,880314987    ,18510101,19390612,        2.03,TOfHoJBtGhRZGCWMUythRGGbQqkFVMERhImhrWpZVlNjvvLgKNKyscdEdQok
+2013-09-29 23:22:04,AAAAAAAAAAAACTC,COMMON,ACTV,MMCMFkmTrvZ aqBFMP GERsSGQcHKiJmPERIKRndZRbPMKVIyJKuDlg CPI           ,AMEX  ,456260425    ,18540205,18720211,        0.48,LMktzXgdurfauyKikioJYWWvsPBPvMvGtgqDvBAVEoeWsENCss          
+2013-09-30 05:25:01,AAAAAAAAAAAACTH,COMMON,ACTV,OJGCadelDoaUlyhWGNKUCpGatVCtCLZUABBGO                                 ,NASDAQ,885549167    ,18970908,19170915,        1.27,0000000993
+2013-09-30 11:28:02,AAAAAAAAAAAACTB,COMMON,ACTV,Opi oyAWoYtE                                                          ,AMEX  ,24285600     ,19810215,19030524,        1.33,0000000848
+2013-09-30 23:59:05,AAAAAAAAAAAACTG,PREF_C,ACTV,BvkUrnIstbDeSDYJucuvvwXtmTXxWuQIQI                                    ,AMEX  ,859926297    ,19740522,18700408,        0.19,0000000540

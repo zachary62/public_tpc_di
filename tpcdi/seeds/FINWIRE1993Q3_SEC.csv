@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1993-09-28 11:40:04,AAAAAAAAAAAABRO,PREF_A,ACTV,nBYCUbSqwMHkAuTeRDmUoTRyxb LP kTB                                     ,NASDAQ,331040520    ,19190104,19480217,        2.02,wUqsVTbOAHqQHWZR                                            
+1993-09-28 15:56:01,AAAAAAAAAAAAABK,COMMON,ACTV,EDGEdIYMsaoSUGLdKOFPIJd                                               ,PCX   ,273762163    ,19570617,18641202,        0.95,0000000592
+1993-09-28 19:00:00,AAAAAAAAAAAABRH,COMMON,ACTV,EEUTbDhfhv vvhzKWZZBmJWYAtRByFSSfyqJROnpTwMjr K                       ,AMEX  ,792630790    ,19620612,18660909,        2.52,YKsCvZFRHKHIOMkwyDfOanJZ                                    
+1993-09-28 21:59:01,AAAAAAAAAAAABRJ,COMMON,ACTV,YjZEyeHzODGeXJMItLuiAxhKnLZEqlxfBEQrVwc IHRClJdDSUPHuVCIVeSMCHQadzv   ,NASDAQ,965622791    ,18520128,19090221,        2.04,0000000417
+1993-09-29 06:08:03,AAAAAAAAAAAABRL,PREF_D,ACTV,IcVcKvnKsNCRaOdzRXYvKe                                                ,PCX   ,451534911    ,19231109,19411123,        1.42,wsZWtFCSAzHKmphBa                                           
+1993-09-29 06:21:03,AAAAAAAAAAAABRN,COMMON,ACTV,hYHYeACSHMIsMKoRSGPk                                                  ,NASDAQ,808171657    ,19270110,18940328,        1.68,0000000585
+1993-09-29 09:41:02,AAAAAAAAAAAABRP,PREF_A,ACTV,KpifJWzGzdHWMcSSY AgnjtBNaN                                           ,AMEX  ,684439889    ,19870608,19470502,        0.69,0000000025
+1993-09-30 01:45:03,AAAAAAAAAAAAAQE,COMMON,INAC,XyVRoeqvOfrHRTtPYUHuBDz BrrIPvkmkKSmyRPECfUMyrQfgHCmMCHUL             ,AMEX  ,797650743    ,19240805,19331023,        0.72,0000000115
+1993-09-30 03:03:04,AAAAAAAAAAAABRI,COMMON,ACTV,ddbpfkMieOoSGUJSYQBILfIS                                              ,NYSE  ,271917253    ,19260130,18881029,        0.98,RPUZTnurVHysAeUvfJCuQGKgkSuI                                
+1993-09-30 13:59:02,AAAAAAAAAAAABRK,COMMON,ACTV,YRgUqeUNONXBPe JtywQNDJANEy                                           ,NYSE  ,697481199    ,19820922,19030117,        0.54,FVOrUHffvqAGgtyexHslNcmNkMVeuJAELmriAAtkyPXM                
+1993-09-30 15:05:00,AAAAAAAAAAAABRM,PREF_A,ACTV,sFM IsIQYu                                                            ,AMEX  ,607077382    ,18770509,18760727,        0.90,0000000307

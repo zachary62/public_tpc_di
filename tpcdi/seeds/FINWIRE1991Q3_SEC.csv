@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1991-09-27 07:39:03,AAAAAAAAAAAABOR,COMMON,ACTV,DpFXTzCOOHNOPabPGODDxbQqZoqTuEuUJAGiXTPGxCTbWF TzDJKxpp               ,PCX   ,909761205    ,19110516,18770117,        1.83,0000000355
+1991-09-27 08:36:04,AAAAAAAAAAAABON,COMMON,ACTV,DPhF GcJHQXQwGxqBMTIpSGNAjPMwXJIbFKw RAmnRewTETgaFqF                  ,NYSE  ,505196023    ,19110314,19740728,        1.07,0000000197
+1991-09-27 14:58:03,AAAAAAAAAAAABOU,COMMON,ACTV,KKxbLcmwUFkFNVkWBTfpfsSeDQBpLJFP                                      ,AMEX  ,488629498    ,19580515,19520217,        0.42,lIRsVCjCGyLYVBLBOyudOxlQksDSOrdlP                           
+1991-09-27 21:32:03,AAAAAAAAAAAABOQ,COMMON,ACTV,fbtEVxvhJKBEyLmJsTEEywauHSqbRAvxKTYSMe                                ,AMEX  ,982933447    ,19250418,18510314,        1.55,0000000349
+1991-09-28 03:13:01,AAAAAAAAAAAABNN,COMMON,INAC,kedQbwhpzMXEExrCIEKsQcIxbAeHLztASOWLkpqqDjgWu sQCl                    ,NASDAQ,596503334    ,19250620,19580916,        1.24,APIemUAnWYRCcEsLL                                           
+1991-09-28 19:09:05,AAAAAAAAAAAABOT,COMMON,ACTV,HDEoTUizVlrNNiVhLIBsWeIEavIFGrhHRIbWsVEpquYqZqyCoCxEGbpRVlGq          ,NYSE  ,460969651    ,19610512,18541220,        2.55,iMnAsQoUDsGnBmeKGnnDkaCNBQEmFJADUWfWk                       
+1991-09-29 02:07:00,AAAAAAAAAAAABOP,COMMON,ACTV,aJoaCFZIXQxz                                                          ,NYSE  ,881592442    ,19550306,19151226,        0.45,mlhrQFEzUSUQLWIabxZiVFIHOGfiQGlFcyrqwtZVYWGaUJiJY           
+1991-09-29 03:56:05,AAAAAAAAAAAAAXB,COMMON,ACTV,fjrjAsBeBCsnNPKfLOLQTIyETXyVnY                                        ,PCX   ,926431389    ,19720503,19080313,        1.45,0000000517
+1991-09-29 12:35:03,AAAAAAAAAAAABOS,COMMON,ACTV,FgWwROFvBuDEgWzREizyVXoaMSMcTENHEPHqdDiuNc                            ,PCX   ,616976762    ,19510709,19290410,        2.30,0000000487
+1991-09-30 15:09:05,AAAAAAAAAAAABOO,PREF_C,ACTV,NQmHdGNZSElAbfzTr                                                     ,PCX   ,746657190    ,18941229,19491227,        0.02,XrWiboLxUQlnSBFaqKaSNnLmzFxabLyNHe                          
+1991-09-30 23:59:05,AAAAAAAAAAAABOV,COMMON,ACTV,VOCmXJTJjlHO sGcQOKXG nUBCOfCLLnAyPdz                                 ,NYSE  ,372048069    ,18941023,18740531,        2.22,BlzKUNpcdbxQGHwUAaQlIXGgyZmHnyRREOKBwpXvXwwWEOWiNJVMXWALS   

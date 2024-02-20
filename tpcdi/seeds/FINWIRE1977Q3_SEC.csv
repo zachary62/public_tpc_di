@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1977-09-25 05:13:01,AAAAAAAAAAAAAVK,COMMON,ACTV,NIAGPAqtBtWgZuPNYnIUUmdpGQ                                            ,PCX   ,741950454    ,19601222,18800527,        1.80,0000000167
+1977-09-25 21:23:05,AAAAAAAAAAAAAVH,COMMON,ACTV,WmA BlqeYnqTVeLRVvDalOIfOWLBhPaMW                                     ,AMEX  ,48837840     ,18841114,19021027,        1.06,eZlLWpFaTkvIFsSXlAj                                         
+1977-09-26 13:02:04,AAAAAAAAAAAAAVE,COMMON,ACTV,ZqUVrlPZk mhcASsQe lnU                                                ,NYSE  ,961711009    ,19570416,19640308,        2.87,KEGJUmtiTGWgspzKcnMQoMWdhjwInvEnWkMEKuWaXSOGKhvGHoFlAuJVDXzs
+1977-09-26 18:15:01,AAAAAAAAAAAAAOR,COMMON,ACTV,OTuZbmsKIzjOG                                                         ,NASDAQ,244059531    ,19090123,19030602,        2.12,0000000116
+1977-09-27 10:37:03,AAAAAAAAAAAAAVJ,COMMON,ACTV,bV WxEDwQ                                                             ,NASDAQ,292939139    ,18511113,19110412,        1.66,PjAsFFDwrzbCWsxvBvIUzi                                      
+1977-09-28 08:36:03,AAAAAAAAAAAAAVG,COMMON,ACTV,UeRomlmTPbydyATRQdVazPUZkHIOQHOZsp                                    ,AMEX  ,154591289    ,18841211,19751004,        0.83,0000000164
+1977-09-29 02:43:01,AAAAAAAAAAAAAVD,PREF_B,ACTV,hvSYzvuvWGuvVJ                                                        ,PCX   ,366411195    ,19640119,19460719,        1.04,0000000128
+1977-09-29 10:05:01,AAAAAAAAAAAAAVL,PREF_A,ACTV,AdHeNBj LnvXPCvjLnApErwNdgSOJdLwkCDPnaGgNqUXfdrDdAjYIRHkhWTynNiHFO    ,NASDAQ,635404865    ,19081213,18681113,        2.15,WHFYghmChGZswuqDYuIByXJFzcBBBjERqKNTxSqoYQSH                
+1977-09-29 19:41:00,AAAAAAAAAAAAAVI,COMMON,ACTV,tVSScUnNucxINjisKAaGPAzdbvaNUCHIUhbtwx                                ,AMEX  ,988710899    ,18790418,19730503,        1.01,0000000165
+1977-09-30 10:53:02,AAAAAAAAAAAAAVF,COMMON,ACTV,vVXfzRuIaEbvEqVxLJNHCZCKYG                                            ,AMEX  ,40067764     ,19520628,18920726,        1.17,mPMQctNfdlYBGEJcUJMKsAYRADEUETYwjTnFsJLBCbNRKrGOaMiTuCx     
+1977-09-30 23:59:05,AAAAAAAAAAAAAKZ,COMMON,INAC,WvUCOJGJBKKqSACRQArbbQdUNjdyQOYBDgoMreBlqXuDoMDyCgoMVTEDHBBB          ,AMEX  ,785090290    ,18790825,19631006,        1.95,PJMdSzrJLCQOEjBzsCfSLWNE                                    

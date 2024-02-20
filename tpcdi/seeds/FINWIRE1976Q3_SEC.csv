@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1976-09-25 01:44:01,AAAAAAAAAAAAATY,COMMON,ACTV,AvoNbIgMjBDNBcBaoTRVTTCrYDknpwRPaUFisoHiLrrjGITGOCKvISU               ,NASDAQ,313898691    ,19511110,18980902,        0.18,cbOBYMxWQHmHPdBYbLJCDSnTUlNTvGmLYmpMW                       
+1976-09-25 22:09:03,AAAAAAAAAAAAATZ,PREF_B,ACTV,YEpNDvmmACydcmovDBey                                                  ,NYSE  ,427270223    ,19300629,19401003,        2.64,WKHSDaFEDSYXOynePKHWBGLeJ                                   
+1976-09-26 15:13:00,AAAAAAAAAAAAAUA,COMMON,ACTV,YAEtI UKS odcBmSDJrQMVGD                                              ,AMEX  ,292368508    ,19741112,19450302,        1.14,lGKCDPIplHUrWtxvMqWnCl                                      
+1976-09-27 02:48:04,AAAAAAAAAAAAAUB,COMMON,ACTV,WECNICEtuyaNOCnjcBxEcjeBHIg IcpxlDAIfAK                               ,NASDAQ,567848609    ,19650912,19570219,        2.77,UXKSWgGTVwuzWNnUV                                           
+1976-09-27 16:12:02,AAAAAAAAAAAAAOB,PREF_B,ACTV,saxzHVDStBQOKcFlOPZNLRyRBLuVTrYAuGokybaMmnUjEAXAKXdJyUQUVuJNmrW       ,AMEX  ,627313844    ,18731224,19120115,        2.94,0000000114
+1976-09-28 00:17:03,AAAAAAAAAAAAAOC,COMMON,INAC,iSGMBJMBcXJumAT                                                       ,NYSE  ,638517238    ,19050605,19710106,        2.46,0000000091
+1976-09-29 11:09:05,AAAAAAAAAAAAATT,COMMON,ACTV,GmCVHazIbOsbxTJTARmkYoDtlJnTlbSRLBnnOxZgVRTXWEIGvH                    ,NASDAQ,586579154    ,18580707,18661120,        0.62,PqHHQPtFmLMYtaQZeCPyWOpeDGcHWjGJJWGnpUVWYUbRjsNExvioDRDUsgU 
+1976-09-29 12:18:00,AAAAAAAAAAAAATU,COMMON,ACTV,xhgcxmzqlXVQHRkMoRPvWbaKnLydRoLTzhmBPROBluobSLY                       ,NASDAQ,786451420    ,19191211,18630901,        0.41,0000000205
+1976-09-30 00:58:02,AAAAAAAAAAAAATV,COMMON,ACTV,RLoZVElHSgUJhrCgIdVJDSlvXyFmVLDm tsTYsqGdIjJAVV                       ,AMEX  ,203185046    ,18601102,18621011,        2.23,eWFjEoJAZOrJGuIHFpAAfiYQPntYtvHfuAwHTMB                     
+1976-09-30 16:51:04,AAAAAAAAAAAAATW,PREF_A,ACTV,IEuKONnERINranwzxIbqHzenLyVINOEejrTnMChvZMIbY                         ,NYSE  ,738684089    ,19291031,19250908,        1.64,0000000113
+1976-09-30 23:59:05,AAAAAAAAAAAAATX,COMMON,ACTV,gORdAvvcAhqtQhfRlzDNgrhrqoUfsgaa                                      ,NYSE  ,503266464    ,19210909,18940915,        1.16,EPHKRuDanPcFNDLwHqQZwFQsotdnvyg                             

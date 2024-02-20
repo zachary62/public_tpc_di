@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1969-09-19 14:32:03,AAAAAAAAAAAAAKF,COMMON,ACTV,ARaInDATQWULqPkUVyPQdkHABnqnWnNafUMOzVuIJSIa                          ,AMEX  ,973792915    ,19150104,19470608,        1.98,0000000104
+1969-09-21 12:48:04,AAAAAAAAAAAAAKC,PREF_B,ACTV,GGNmkKkwbgAGLO                                                        ,PCX   ,950238999    ,18520727,18810118,        1.68,OSvBGFNHvlSDUkAncnHMlgQLV                                   
+1969-09-21 18:51:00,AAAAAAAAAAAAAFN,COMMON,ACTV,OOMNNcJQ UxcbDgweVmglzFLKjEN PqGQcknQkMISSqMdjcIHDjPAoubt             ,NASDAQ,814700908    ,18520609,18870817,        2.49,kdkMSIAUXjfEwPBQSgTKSIKmszCtWWXwKGVRUzPODH                  
+1969-09-22 12:43:04,AAAAAAAAAAAAAKH,COMMON,ACTV,macoVFrHnRXMnafbfEqSUItJwPnFFooWjqIrufYpDs                            ,AMEX  ,208749343    ,18711225,19590103,        2.79,lRFFxbuSdaaOoGESnCUfCnNBiAPfzULXLkvvOKypCeBBGHyQXbghJLPQpGBX
+1969-09-23 02:39:02,AAAAAAAAAAAAAKE,COMMON,ACTV,KNlUbAJQnD                                                            ,AMEX  ,471828513    ,18950402,19000222,        2.26,KOoRBLuVJAmbedckFhAQyRqTdgMMbJwtQJUMWiUWf                   
+1969-09-23 03:59:03,AAAAAAAAAAAAAKB,COMMON,ACTV,AyFBrAnvJpPHcCNMUDmpvaqiUWnvVqbUMRtQwnjKBZzVEIGWeOhKJW                ,NYSE  ,186932176    ,18520915,19530403,        1.39,0000000091
+1969-09-23 22:55:00,AAAAAAAAAAAAAKJ,COMMON,ACTV,nMLzQnDulpSiIMJurwytHoeDYNzBPSDlOGKuVoraCFJcTopclebUMSyAnsM CgxsIV    ,PCX   ,165461541    ,18980503,19650821,        0.56,DvbOuQtQhhIpCgicNoNmJJmIISOzXrHUBciK                        
+1969-09-23 23:45:00,AAAAAAAAAAAAAKG,COMMON,ACTV,OmGUDdLgyObEaGj                                                       ,NASDAQ,561464       ,19470409,19550819,        0.10,gDqcCBxupXLOeBnjyoDuJKKpXXazMTBejzLaoxVkzpfVHbeQYNnEL       
+1969-09-24 21:18:04,AAAAAAAAAAAAAKD,COMMON,ACTV,CdhTtGSsDNmAOYjVlN pdiLMKNbaQNhGB                                     ,AMEX  ,227468557    ,19141212,19040614,        1.86,0000000032
+1969-09-28 04:59:05,AAAAAAAAAAAAAEX,PREF_A,INAC,rXXqIXUudvLsJzyySqDmCiOmUIhEkFcmJWUKM zeTFtQCSYObBgjXbFRWMkNtvM       ,PCX   ,295217815    ,19111128,19281119,        2.76,0000000050
+1969-09-29 19:23:03,AAAAAAAAAAAAAKI,PREF_A,ACTV,zmfTCCfbRRutmMHkSinIqeRBvpNhSmUxaBTOHeTqPgKnaV                        ,NASDAQ,465473209    ,18820707,18511001,        0.55,tVwRqtyZnGGmzjRUwFjQ                                        

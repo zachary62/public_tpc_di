@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1999-03-30 02:16:02,AAAAAAAAAAAABZF,PREF_A,ACTV,BsSIzLxoqIUNSTATtudHvHaotEJNNJgUiqR                                   ,NYSE  ,535340933    ,18950623,19360508,        2.89,BBTPLFzPqhOgnMOuPGHFoQRyQBjPlAMHNrpYFHJxyDXofNbYXEjOaUVK    
+1999-03-30 03:59:01,AAAAAAAAAAAABYZ,COMMON,ACTV,KFrZLmdgvIBwHBNKKssEyoFYT                                             ,NASDAQ,833322522    ,19720830,18530130,        0.56,JuHDDpOBOrGTvGNBSbgrTGHFwDYMlhVhVIzTSLSTdZkxdbxEOOA         
+1999-03-30 11:42:00,AAAAAAAAAAAABZE,COMMON,ACTV,lqkSkGGhjnMHGXbAtCjwdpBG p aFmASbPhWesuLWSDtZkquZmFRXTs               ,NASDAQ,701911680    ,18590609,19550306,        1.54,pKOuBCTLGQgLNoxCSjppVInLk                                   
+1999-03-30 19:20:04,AAAAAAAAAAAABYY,COMMON,ACTV,SSCxJSGLVYNhadhsiJgLHSDtkLJLMIyNtOElWNpaFzlPabPs ZITVheU              ,AMEX  ,980512926    ,18750809,19980124,        1.31,BDIjuGRKsdKntdoOHrGTdEpEMPxba                               
+1999-03-30 21:29:01,AAAAAAAAAAAABZD,COMMON,ACTV,vzIBLqyKlJQPKkkEOkrxxDpKj                                             ,NYSE  ,37197847     ,19141126,18891123,        2.88,LHLtYYBVQKIMsKuLPRKpMFxNQ                                   
+1999-03-31 01:20:00,AAAAAAAAAAAABYX,COMMON,ACTV, dzBPePQcKYLGHRKiIx                                                   ,NYSE  ,177738747    ,19920214,19501106,        2.60,SNCEHLBnIMuIKRWTkgVGTPrBzGYEvnyToXmGISgT                    
+1999-03-31 04:03:01,AAAAAAAAAAAABZC,PREF_A,ACTV,kmHpmLKAFHKohHZwKeZWlTXYj QTxASgFDFvqEctWLPQhBjs                      ,NYSE  ,235317274    ,19930529,19350701,        0.78,BQEIIPAhiMMCJJCWPXSgPuVDQdvyVcBJKKx                         
+1999-03-31 05:59:01,AAAAAAAAAAAAAXA,COMMON,INAC,Jc aDpXDOaLINEF                                                       ,AMEX  ,696974339    ,19851006,18890409,        2.98,0000000164
+1999-03-31 14:29:00,AAAAAAAAAAAABZB,COMMON,ACTV, QrIUJwKDnnAfUzeAf                                                    ,NASDAQ,172441727    ,19230502,19950216,        2.09,0000000407
+1999-03-31 17:07:04,AAAAAAAAAAAABXN,PREF_D,ACTV,jEyLVVRyPErWF                                                         ,NASDAQ,781156454    ,19350511,18641221,        0.98,0000000603
+1999-03-31 23:59:05,AAAAAAAAAAAABZA,COMMON,ACTV,bEXRtKSQnRmRgFJTjKJzRalVNBScfkm                                       ,NASDAQ,34149881     ,19900313,18580110,        1.44,0000000434

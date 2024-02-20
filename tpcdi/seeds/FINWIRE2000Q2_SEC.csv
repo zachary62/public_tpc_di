@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+2000-06-28 22:04:02,AAAAAAAAAAAACAT,COMMON,ACTV,OVNNvbVIOBrXqzxBfSHBLA hIjsLlPMMGiQVEEqKziXE                          ,NYSE  ,716532468    ,18600519,18800407,        1.52,YCmHMrlCgmfVKmzzPrAlepDA                                    
+2000-06-28 23:04:01,AAAAAAAAAAAACAW,COMMON,ACTV,HTJMSYkATHqNQ                                                         ,NYSE  ,368111725    ,18540813,19751205,        1.86,hBElaBVPKkVMSVdeHNMVCNSloGxdlCvheAexXHriIZGCukSEhLWsZ       
+2000-06-29 04:33:05,AAAAAAAAAAAABKB,COMMON,ACTV,ECGeJqDTpCaGLHvyKJDiWXD                                               ,AMEX  ,936638924    ,19680827,19430512,        0.32,0000000109
+2000-06-29 08:23:03,AAAAAAAAAAAACAR,COMMON,ACTV,TIhTthBmRAAHUSlDroWagJUkhkqbY                                         ,AMEX  ,663040104    ,18700320,18550119,        1.61,MzAGqAQHGdyShXHdOZbwyEeYPwdPyhyRoFXQmInjcPG                 
+2000-06-29 14:05:03,AAAAAAAAAAAACAU,PREF_A,ACTV,UDFMaNDeGYcvTbMtRyjrGLyjyIJSFLVT YyXgj                                ,NASDAQ,348652856    ,18660720,19890520,        1.95,CMbRIDVtDBphXwzVGNYxbPKLdRbPC                               
+2000-06-29 16:39:05,AAAAAAAAAAAACAX,COMMON,ACTV,OvBwDCUbtQaCwEgrGoOqRfeAeLNUiXBVK                                     ,AMEX  ,840758637    ,18731216,18500211,        0.16,vSHXKQlebfEDsXHbAX                                          
+2000-06-29 17:30:04,AAAAAAAAAAAABVN,PREF_B,INAC,bPfUoJqXdyEhgGOWOPMjTHtMSP                                            ,AMEX  ,195612866    ,19430525,18981116,        2.28,NBwPpzQCkyfHwVHMPhhaEuovxWSVwfPWNzXkkURuUQzbT               
+2000-06-29 19:19:01,AAAAAAAAAAAACAS,PREF_C,ACTV,QWKyRSKL FyNIsDnHZQHfFBRbDHVlrOBRgZwDKQ FOjaOKgRXNv                   ,NYSE  ,98560129     ,19090926,19250516,        1.00,0000000462
+2000-06-30 09:49:02,AAAAAAAAAAAACAV,COMMON,ACTV,AELCOa OOuNybMSPVo dEiFItzEFWnbK FfUwWJSJlIxEwRcpR                    ,NASDAQ,657739575    ,18920421,18931208,        0.16,0000000082
+2000-06-30 13:34:00,AAAAAAAAAAAACAY,COMMON,ACTV,kXvlxzGrWFv KFreDsqvAgXHRwBNjWzTWJUdTKLOITpGxqJc EKJVTTusNEGrMr       ,NYSE  ,80013295     ,18970824,19831014,        2.50,CBFjUnnNdQNvCEERxX                                          
+2000-06-30 23:59:05,AAAAAAAAAAAACAQ,COMMON,ACTV,DJHPJUQqctr QFHGmLIEMZuv YmCHShKRPVLHXQIaI                            ,PCX   ,346343980    ,19731205,19360324,        2.88,EfgXVYSUFKShXwJjrYSEWOFdkrRJWhqJOHHUETzZDAOwK               

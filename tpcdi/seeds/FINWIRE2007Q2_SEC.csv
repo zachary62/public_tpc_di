@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+2007-06-28 17:51:00,AAAAAAAAAAAAATN,PREF_B,INAC,LrvsCaVOSGER muQZIjnbYhGOhwN                                          ,AMEX  ,549835778    ,19620716,19040719,        2.42,TLOeJROVMacWuQLAOqTyEkblGNJmHaNXnFWPqeXGAI                  
+2007-06-29 01:44:03,AAAAAAAAAAAACKK,PREF_A,ACTV,VZNtqpqIpEYEolgpWybOAvTzPKFExEdTKzGhOTnwOLDRrREkSnPhqP                ,PCX   ,367435177    ,18760925,18930715,        0.44,BlezJnYvpFpHOIkdHLztuDIJeyvTrf                              
+2007-06-29 08:30:02,AAAAAAAAAAAACKN,COMMON,ACTV,NvCCHluyHVDyQqqLxiGqlGe                                               ,NASDAQ,536020623    ,18990206,18681218,        0.95,0000000820
+2007-06-29 14:04:04,AAAAAAAAAAAACKQ,COMMON,ACTV,HJIqRG UPrAHjEAdkbKgeDRTLbAjfAeVBOXNcBoIQwRD                          ,PCX   ,881465590    ,20030607,18650604,        2.71,DXYhrWaQcubzCELw                                            
+2007-06-29 19:45:03,AAAAAAAAAAAACKI,COMMON,ACTV,CDPlPSwAkiDPVJbKOzlRQQULPnIFigYefdFyyqSZnNiNSQQRKOpbKC                ,NYSE  ,767626265    ,18530321,19280501,        0.81,0000000869
+2007-06-30 02:22:05,AAAAAAAAAAAACKL,COMMON,ACTV,OZfeObVjCz                                                            ,NYSE  ,13242544     ,18540324,19490426,        2.10,0000000789
+2007-06-30 04:58:03,AAAAAAAAAAAACKO,COMMON,ACTV,iuwWaTUYfRAyOesUZUaFzgTvdRSCJnQElEMIi                                 ,NASDAQ,929561546    ,19860823,19891002,        2.56,0000000417
+2007-06-30 10:30:02,AAAAAAAAAAAAAQK,COMMON,ACTV,VjtGWfWuqfjMK                                                         ,AMEX  ,771806560    ,19340122,19880818,        2.97,kTRCSlnyVeYqQzHityJUECQLrhYRSYLXypldVZMdbQvGHVYfEaxjqkHG    
+2007-06-30 13:39:01,AAAAAAAAAAAACKJ,PREF_B,ACTV,RLDXGrwgNELdnKUhuJSixJWKXOEWWghPROohBQMxZtQFkuFQNQ                    ,AMEX  ,715641230    ,19001001,19630403,        0.17,GXPlSMRxrwRWSQGoFU                                          
+2007-06-30 20:22:00,AAAAAAAAAAAACKM,COMMON,ACTV,CIUaFfPvdRTlRrVawkRmIpLHuovuSzLxWbZRMDpfwRYBMFtJ                      ,AMEX  ,845861966    ,19900226,18671205,        0.38,0000000858
+2007-06-30 23:59:05,AAAAAAAAAAAACKP,COMMON,ACTV,bwJuGxEvMvRsIYrBCyCANpQ HQcTlihJdF                                    ,AMEX  ,542224626    ,18830414,18560214,        2.06,0000000625

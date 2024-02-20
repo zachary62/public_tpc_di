@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1988-09-28 03:33:03,AAAAAAAAAAAABKJ,COMMON,ACTV,ETkHpJqGxdSlmRFDvbsDYaEg                                              ,NASDAQ,4212246      ,19211214,19251106,        0.49,WqyjZxfZCegnAiEm                                            
+1988-09-28 08:25:00,AAAAAAAAAAAABKM,PREF_A,ACTV,aTbeYu uWUI                                                           ,NASDAQ,165433863    ,18600808,19330908,        2.20,0000000362
+1988-09-28 11:59:03,AAAAAAAAAAAABKP,COMMON,ACTV,DoCLmUSuMgoQQozcVQjqeB KpURuy XQVMMOkScxapEItT                        ,NASDAQ,777282759    ,18891023,19031209,        1.27,MFbhTxRgbYIPZIEQDVUFaGQjRSJOLbsQQYPxfYvYi                   
+1988-09-28 21:18:00,AAAAAAAAAAAAAFU,PREF_B,ACTV,DmHdMMqVAd                                                            ,NYSE  ,482434673    ,18540728,19060620,        0.04,lShXFZIoCoSMbiPefLPHHOjGHvkdLoNXkUBBv                       
+1988-09-28 23:40:05,AAAAAAAAAAAABKK,COMMON,ACTV,WHaARBOpyFJDWOBnT NIHixDicCniMV ExSJPnr                               ,PCX   ,470034392    ,19350801,18740618,        1.65,vGfOKrNJceWSPNOENDMrsRdEHfYVEvkLfQUhTYXQBhEWTlxtFhYsm       
+1988-09-29 08:03:04,AAAAAAAAAAAABKN,PREF_A,ACTV,jouSZWvEQTHMqHExoVGOGvcIqwSLVXSCZJQgRKmNuxwIYxaZXAOroCC               ,NASDAQ,182783154    ,18890217,19730319,        2.02,0000000281
+1988-09-29 10:09:05,AAAAAAAAAAAABKQ,COMMON,ACTV,oIDwrpSNsyHGVPYkrTdGLLDzuiDOkjTrQEJzRAhsAMSBudWFHbRWU                 ,NYSE  ,647924742    ,19810726,19800809,        0.51,0000000184
+1988-09-29 17:50:05,AAAAAAAAAAAABJN,PREF_B,INAC,vjXymgUauSAUYAITDAuPHkZmONN oMeFEDfpvqwUUEISPlEWAZUHJqAHAK            ,NYSE  ,982975111    ,19380716,19510213,        0.11,YhXLpLlUxNqudIbhviMnZGJKHOHYY                               
+1988-09-30 01:26:01,AAAAAAAAAAAABKL,COMMON,ACTV,MSOAcLI lFANqEOIPwwiXSwOGlrERfIDzRPoOgCnUiQpiSwahg                    ,NYSE  ,470597920    ,19221220,19040403,        0.76,0000000004
+1988-09-30 10:20:05,AAAAAAAAAAAABKO,PREF_B,ACTV,HHEFjfPSnjcvNspUdEPIjjgnJuUBbIQzvNUiIoFjVCZfjhlYP                     ,AMEX  ,594200591    ,19530106,19150511,        2.02,uFNuWaQIWkYUHsFLToKToNV                                     
+1988-09-30 15:52:04,AAAAAAAAAAAABKR,COMMON,ACTV,PgKtMVPNFmsHIcielLQYGqSsvkVKi vGwNkk qTnTzBNKPE                       ,NASDAQ,591415124    ,19010215,18530121,        2.89,0000000273

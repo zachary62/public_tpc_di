@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1996-06-27 22:56:00,AAAAAAAAAAAABVD,COMMON,ACTV,wOHBsEnMatmpAhtJz                                                     ,AMEX  ,770433942    ,19490902,18530128,        0.43,0000000270
+1996-06-28 18:12:02,AAAAAAAAAAAABVH,COMMON,ACTV,SvJGxcBmFnqPrCQjPFQIzLweBJDWRsPGEavdJKLvyGIxnl                        ,NYSE  ,176808471    ,18840322,19100816,        0.61,fSGmRkBTWQDFUCUdiiAkNOLfhsANyUXk                            
+1996-06-29 00:50:03,AAAAAAAAAAAAATL,COMMON,ACTV,EGzZJNGzRZNMMAqJMyOZoGkZkNsNQDAPkJLnQzuVmMEqVDrEWSiEt                 ,NYSE  ,666006417    ,19850130,18721120,        0.52,siRgQEhFByzByReAqGwsEpRSjnGOJWCcvvMLxnFyuRRnVxHcfFskDSRKPCK 
+1996-06-29 08:58:03,AAAAAAAAAAAABVE,PREF_B,ACTV,LHgFxbCHtUKAARKwSwMTCD                                                ,NYSE  ,521903989    ,19650511,19870212,        1.69,MLENgbuziaOQGjzpNT                                          
+1996-06-29 21:08:01,AAAAAAAAAAAABVI,PREF_D,ACTV,zDoBJbBJQKHOMWgPQHLoIiCufTZv                                          ,NASDAQ,913448347    ,19680123,18610718,        0.75,0000000308
+1996-06-30 04:05:04,AAAAAAAAAAAAASV,COMMON,INAC,vCiGJKKAhPrECwBKTDNzNDGfX qmoHvFtZkXGheVkhSdRceQSfKQfGWOjN            ,PCX   ,953232845    ,19640414,19560807,        2.43,0000000129
+1996-06-30 04:35:00,AAAAAAAAAAAABVF,COMMON,ACTV,wshYNmNNqzyzgQCxAKibvhcMJkimsOoiCPOtgOPJDEGata                        ,PCX   ,791365211    ,19170316,18580124,        2.52,YUWtBaXTbSCZJSUdRrjrPndChMPGtJwEIWyPrXM                     
+1996-06-30 05:18:01,AAAAAAAAAAAABVJ,COMMON,ACTV,aQjeRlOFEJNDNOMSI                                                     ,PCX   ,594355316    ,18650930,19660516,        0.83,PKoQbpXYaUpnSupspSsLCZsyfTaRykUwFQAWLvp                     
+1996-06-30 08:13:00,AAAAAAAAAAAABVC,COMMON,ACTV,zbTqFrLAKcSnQuEpKbZZWcJXlo qSSIvQnLQglOl                              ,PCX   ,702028704    ,18690123,19710810,        0.85,0000000078
+1996-06-30 09:19:00,AAAAAAAAAAAABVG,COMMON,ACTV,BANnIfpLGjfCtTtzCGLJyPNtuMaTABjrItUTDJYOkSNkdicHzzWhQQfXq             ,NASDAQ,755788506    ,19551126,18810412,        0.72,HEEdQmAOtAKZHpIQIKHhILSOXfXLIJGxIPEV                        
+1996-06-30 23:59:05,AAAAAAAAAAAABVK,COMMON,ACTV,xiOKjSMsYwLcnaTHuILy  YoSQ                                            ,NASDAQ,483927565    ,19371109,19870322,        1.51,YCmHMrlCgmfVKmzzPrAlepDA                                    

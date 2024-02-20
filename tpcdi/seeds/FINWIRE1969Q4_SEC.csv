@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1969-12-22 00:20:05,AAAAAAAAAAAAAJV,COMMON,ACTV,DlTyomTTgcAzGIRPicOqlxIBlVcuHSSHwcMtqOhGMKTMmPebxYbDQtmkK             ,AMEX  ,705501639    ,18671230,19300111,        2.88,0000000040
+1969-12-23 02:40:04,AAAAAAAAAAAAAKN,COMMON,ACTV,OdyLmlhwBlCJZQCLzUyNgocOQiuvEDMDGGGpJv                                ,NYSE  ,444559771    ,19061025,18971221,        2.85,0000000038
+1969-12-24 19:16:05,AAAAAAAAAAAAAKS,COMMON,ACTV,tUrsXxjoWeJiTBxAHGBnhOWmO                                             ,AMEX  ,250952243    ,18530806,18940428,        2.50,aoTgMQQOVPapOXWxUW                                          
+1969-12-25 03:12:02,AAAAAAAAAAAAAKM,PREF_A,ACTV,JCFIvSFuQJi                                                           ,NYSE  ,502502586    ,19330414,19640319,        1.97,UYPksfvvLGxGXaw                                             
+1969-12-26 16:01:01,AAAAAAAAAAAAAKR,COMMON,ACTV,KFD JSjAxrmfArZ TPzG                                                  ,NASDAQ,190014139    ,18520629,18721004,        0.08,BgpLAjcrGOfvcVWNQfwxEAYgWIBcvFfUutkFvJS                     
+1969-12-27 07:26:00,AAAAAAAAAAAAAKL,COMMON,ACTV,JgsCoOZHURVPrMIyPSgiFCfAZaLesqQIjkLwACeGHQoVABwW                      ,NASDAQ,375820043    ,18530724,19021208,        2.96,0000000035
+1969-12-29 09:31:00,AAAAAAAAAAAAAKQ,COMMON,ACTV,hQycAKOeXx NCN tbuSWQKXYfkvVhZXyJiuDuFPRDndMykajnF zbKBEpmitMyPMjKu   ,NYSE  ,13913237     ,19330322,18640416,        2.20,0000000009
+1969-12-30 17:18:01,AAAAAAAAAAAAAKK,COMMON,ACTV,IzllmiKasAVMVdfyFwrZcZGGgJolQjUVqEZsvHBgiKcWNtGJlReAlyOB              ,NYSE  ,392391809    ,19490130,18690624,        2.10,JaBRAUCPDCLITNXXrADVCSIopfxogeRFkYFvBVlr                    
+1969-12-30 19:01:04,AAAAAAAAAAAAAKP,COMMON,ACTV,faewAKHkzXxO hVYPDAsw                                                 ,NYSE  ,561264199    ,18761101,19200310,        0.73,0000000010
+1969-12-31 17:32:02,AAAAAAAAAAAAAJB,COMMON,INAC,XTHNOVSoFzndYcQtcPb EcZhNBzM                                          ,NYSE  ,66005828     ,18830209,18520327,        2.78,WCJJAitQbHnCKfmKEVEELEBjYtHsVGTBpOMMCLXEadMPRGRTA           
+1969-12-31 23:59:05,AAAAAAAAAAAAAKO,PREF_B,ACTV,gJacICBTOyNPJLmeivJNvIMdkSdmRTcbFpTfMUATDkdWQVEcHUyVSWhkmXbPlRRIRH    ,NASDAQ,301251695    ,19640223,19461124,        0.61,NiBcGbDvQsFXSbRxOUPzUvEKLCXRVlDFrhOUHduBWHC                 

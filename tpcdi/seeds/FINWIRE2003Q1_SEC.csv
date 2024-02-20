@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+2003-03-29 22:40:01,AAAAAAAAAAAACET,COMMON,ACTV,fMNSFVXuzZTwjRTCMnKwaaLECuqZAyWROEYIjdPOUvihzneBQmnftne               ,NYSE  ,484407756    ,19040916,19830108,        0.50,0000000781
+2003-03-30 02:53:01,AAAAAAAAAAAACES,COMMON,ACTV,OOoiXttKdvDsV                                                         ,NYSE  ,346257807    ,19610202,19750821,        1.57,0000000333
+2003-03-30 12:20:05,AAAAAAAAAAAACER,COMMON,ACTV,fdwzeTxiDZReqfaGDuoBJMFPOPmQaHwVQl                                    ,AMEX  ,456107446    ,19010613,19911022,        2.19,0000000071
+2003-03-30 13:25:04,AAAAAAAAAAAACEQ,COMMON,ACTV,cHoxEWvfyRYYEYVgvV                                                    ,NYSE  ,597405200    ,18650828,19470707,        1.17,0000000377
+2003-03-30 18:14:02,AAAAAAAAAAAACEP,PREF_A,ACTV,PDtbsNswCvdfR                                                         ,NYSE  ,2630553      ,19050214,19520320,        1.83,FxDurNHyyBelMQXMvOECJeCOYdRE                                
+2003-03-30 19:02:02,AAAAAAAAAAAACEO,COMMON,ACTV,ByYUQYQxSTMGKh                                                        ,NASDAQ,631817016    ,18631102,18900119,        1.64,0000000152
+2003-03-30 20:56:02,AAAAAAAAAAAACEN,COMMON,ACTV,plQdmQrseGRfsXxBffYIJkuRlYNnw                                         ,NASDAQ,432170398    ,18910617,19700525,        1.41,EWLGmUGXPFpTzJHWSDhhEcNENrEWmoXjAnVAy                       
+2003-03-31 00:22:01,AAAAAAAAAAAACEM,COMMON,ACTV,HrBdz QQiAQDP                                                         ,AMEX  ,818071475    ,19110729,18750720,        0.66,YtvHEQBjudJlIIctWcFxmnzyLLXwZIjQbTYYSJjShQPPW               
+2003-03-31 14:07:03,AAAAAAAAAAAACEL,COMMON,ACTV,BKdKHkoKfKKrLzCnkFZSVgpEVrUDXmUFllMQMdD                               ,NYSE  ,644927687    ,19031024,19060211,        2.83,EgISFAyLpEKukUNvVAyxDJRbXPnJUSdD                            
+2003-03-31 15:04:01,AAAAAAAAAAAAALG,COMMON,INAC,AgFvLpmcTVPtkjOzPXaOJyDCkmSSJoBWlALSbVkDJFygBLMdlbHGSRuLFYMure        ,NYSE  ,40894878     ,18830819,19141015,        0.72,zSzyZVwpMSypTaf                                             
+2003-03-31 17:58:01,AAAAAAAAAAAABZF,PREF_A,ACTV,SN Y hYuKxIMfSracMLKKsvsCoKqRSCgexIVSXveRnTVyRMRpQJaG                 ,PCX   ,219676997    ,19631119,18940907,        1.15,0000000417

@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1992-09-27 04:32:05,AAAAAAAAAAAABQF,PREF_A,ACTV,OTVUcGECUIYAFpqnnowjfTCIPZDpmgGZMoXPCUHSZxKuniLONdTGVG J              ,AMEX  ,117349986    ,18970702,19060319,        0.65,ODMJAOEtZTTMHOSlEvxTQJGKTRjpGLBRILIsO                       
+1992-09-28 02:24:00,AAAAAAAAAAAABQB,PREF_D,ACTV,TOGImhnleE                                                            ,PCX   ,604487501    ,19070420,19230711,        1.06,WKHSDaFEDSYXOynePKHWBGLeJ                                   
+1992-09-28 03:15:02,AAAAAAAAAAAABPX,COMMON,ACTV,qRzFBlvwct                                                            ,NYSE  ,652319300    ,19321031,19291112,        2.41,SAFZEJLLiMLuOrGrCmR                                         
+1992-09-28 15:33:04,AAAAAAAAAAAABQE,COMMON,ACTV,KvucLLuw PrKKEVmMdDTEEzvveEPDNBUPviUSHmPdbFOfQEhDkpIOOPlYSHcqDqvdETJ  ,NASDAQ,774371628    ,19440204,18660606,        1.16,dTpthWoaQBLMBRCRNonpuyzduOcCjNK                             
+1992-09-28 20:42:00,AAAAAAAAAAAABQA,COMMON,ACTV,aVphAdnNTrL QRGSotSJBmlhaIpCoLQVyYVdwvkGCsAUVlbXsObVaOFgJmFWTZJSmU    ,NYSE  ,894698732    ,19460921,18680317,        2.46,BUJliDksNtDYNWtXQNvxDqRcgLvBFezlasHGMAKJNGW                 
+1992-09-29 12:40:05,AAAAAAAAAAAABPJ,COMMON,INAC,aBxDbjPsQfol                                                          ,AMEX  ,458648690    ,19610812,19480529,        0.67,0000000279
+1992-09-29 18:13:00,AAAAAAAAAAAABQD,PREF_B,ACTV,NMfQy kkkglFLNYnIgeGDYxxMSuZ                                          ,PCX   ,351483894    ,18820929,19000413,        0.45,0000000285
+1992-09-29 23:38:01,AAAAAAAAAAAABPZ,COMMON,ACTV,HaDKOVNXDOjBKNRoFak                                                   ,AMEX  ,910185040    ,18760923,19250202,        0.51,HZpXLmriSYSeQKhQML                                          
+1992-09-30 11:19:00,AAAAAAAAAAAABET,PREF_B,ACTV,EBLVSp UojVpDjuIdFNjNUt                                               ,NASDAQ,559864345    ,18650330,19070630,        2.97,0000000428
+1992-09-30 15:03:02,AAAAAAAAAAAABQC,PREF_C,ACTV,QPnfjXzFWDIK                                                          ,PCX   ,148248098    ,18621215,19720822,        0.23,0000000198
+1992-09-30 21:52:02,AAAAAAAAAAAABPY,COMMON,ACTV,KuvpjmXecYSWnRsvYlTpTCVRAJKp                                          ,NYSE  ,841336096    ,19050201,19250325,        0.62,0000000369

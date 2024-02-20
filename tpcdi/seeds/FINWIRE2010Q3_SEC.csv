@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+2010-09-28 20:38:03,AAAAAAAAAAAACOZ,COMMON,ACTV,cfSLUkiNdzJcFNTfkDTRujcxvUyBbXEWUBmhuAlsOlDcIVN                       ,NASDAQ,47706655     ,18830322,18521201,        0.43,YwfZSzCHnIqSMrTYCCEtVKrNxTKQsq                              
+2010-09-28 23:11:05,AAAAAAAAAAAACOX,COMMON,ACTV,UbmGNjzxDmEMqLrMDR                                                    ,PCX   ,323962758    ,18990805,18850314,        1.04,tXuUfntJgrxYaMaSjZVXXQIcxTYzWyiecYHvqZzOYqDOHdFPjXGZhQ      
+2010-09-29 06:39:02,AAAAAAAAAAAACOV,COMMON,ACTV,dFHlnCIilnQHMfeAhYfbuCOLHEFVexOMmrVhAaBzBqSadxfLi                     ,NYSE  ,597491607    ,19250614,18730716,        2.68,0000000054
+2010-09-29 11:05:00,AAAAAAAAAAAACAS,PREF_A,ACTV,NiGyHlhCrBdaCQNyeDCsDxhBkaFIWgKUVXvfJZeKvdNvfBtSlERDGE                ,NASDAQ,491611753    ,18550914,19600929,        1.16,0000000266
+2010-09-29 19:48:03,AAAAAAAAAAAACPC,COMMON,ACTV,ufDuqJPxaYEedrQA nmAiUmTwRKknOfNBUAOEHAnaCiuLTIDGeVFS                 ,NYSE  ,475815298    ,18710507,19101128,        0.66,0000000690
+2010-09-30 02:07:00,AAAAAAAAAAAACPA,COMMON,ACTV,OLJjMqOSVUkRXDTqqXtKRkR lTVKIDiYMYUxZiDUFur                           ,NYSE  ,281129189    ,19090928,19130127,        1.18,uNqVeLWZmRaMlsCcNwPaGpYLLv                                  
+2010-09-30 05:31:02,AAAAAAAAAAAACOY,COMMON,ACTV,jirfglvQmayJZZElNXEUQQiXnQwSEVLa                                      ,NYSE  ,911135153    ,18690916,19201024,        0.18,0000000063
+2010-09-30 13:09:04,AAAAAAAAAAAACOW,COMMON,ACTV,SkRCi  EHFfQHkaufDbCwUALrDVKZvYNtTVqpLRQoFMPSETSqxJuJCMysEiCDNYNDp    ,NYSE  ,804068656    ,19381011,18990203,        1.50,yekwLKzwWxQVRxoHetMlPaBEdhxeWSNcUVqNJGoqniLWG               
+2010-09-30 18:23:00,AAAAAAAAAAAABKS,COMMON,INAC,vkySoFCwEmWZKbEwPznKMbsaGvtWM                                         ,NASDAQ,943398507    ,20051112,19780417,        1.97,0000000342
+2010-09-30 20:16:05,AAAAAAAAAAAACPD,COMMON,ACTV,cNyKaRNLHpWRQGmQyJYkaTz                                               ,NYSE  ,11158480     ,19870128,19970403,        0.30,0000000126
+2010-09-30 23:59:05,AAAAAAAAAAAACPB,COMMON,ACTV,UTvDI slri zD                                                         ,NASDAQ,586310326    ,18820920,19430723,        0.78,eTTydbLcAjZCOWWbBKegOKvE                                    

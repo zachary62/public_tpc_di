@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+2012-12-30 03:56:01,AAAAAAAAAAAACSC,COMMON,ACTV,duIwobycAheBFBVInW                                                    ,NASDAQ,970178062    ,19871217,19570423,        1.42,0000000333
+2012-12-30 05:41:05,AAAAAAAAAAAACSB,PREF_A,ACTV,lTWgoGeHLhBBRISUhfSlItyIjnAGRxCAgXsebBQHJYTLqBeDHzSMfq                ,NYSE  ,483780378    ,19880107,18820617,        2.71,kVkWHqlwgJHEWSG                                             
+2012-12-30 10:21:00,AAAAAAAAAAAACSA,COMMON,ACTV,ndoPYEtektOIAIpcFWtLkIKyAE                                            ,PCX   ,502050108    ,18711229,19610809,        1.89,0000000525
+2012-12-30 14:45:03,AAAAAAAAAAAACRZ,COMMON,ACTV,JBizdlpMUqGryOyDDKiaTusaxWIJpHYtHVQPHiwpdpFbBxez                      ,PCX   ,562460084    ,18870414,19280410,        0.67,XXuPAoJvfWkvkBWPDHTknGdDcQcVGpuxlyooeBTuwDOhFBbzx           
+2012-12-30 15:34:05,AAAAAAAAAAAACRY,COMMON,ACTV,QYuAqASVfSCwRqVclaGdAQAGYbCngJOvASf                                   ,AMEX  ,419473014    ,19860228,18660320,        1.89,0000000290
+2012-12-30 16:13:05,AAAAAAAAAAAAADF,COMMON,INAC,VggeEkcloKgvwjLOBtPSqNMfKiEHslXJUMfKUbTBavhwOCn                       ,NASDAQ,350739172    ,19251118,18890713,        0.39,0000000031
+2012-12-30 18:49:00,AAAAAAAAAAAABBW,COMMON,ACTV,RgEmUKDaUxDTrDQYncKYvsuyiZgZTVDOI                                     ,NASDAQ,730591932    ,19780312,19990107,        1.92,AChNrBRFTkjZjDXSGVlG                                        
+2012-12-30 21:24:01,AAAAAAAAAAAACSG,COMMON,ACTV,BVMZUxMksEEUgCOpNuwwJHAJSAIEbNgC                                      ,NASDAQ,522513238    ,19850320,19260530,        2.84,BdBeFzlIGNbTGFMGeisQvHpnoNTnwtoIR                           
+2012-12-31 01:28:01,AAAAAAAAAAAACSF,COMMON,ACTV,gQX cLrgpQJGEVkXHD                                                    ,NYSE  ,497369016    ,19740612,19980302,        2.44,0000000978
+2012-12-31 03:46:02,AAAAAAAAAAAACSE,PREF_A,ACTV,LpSEXxWaqmqrVGolHahLoyrZMO                                            ,PCX   ,993249919    ,19011116,19110722,        1.39,0000000095
+2012-12-31 18:46:02,AAAAAAAAAAAACSD,COMMON,ACTV,HHENcXxKIRINgnipsiVT                                                  ,NASDAQ,888931110    ,18850723,18520902,        1.15,SqCUkYbSlmUBVEeHQcYWlEhwLjOKBYzdJQXvcxaOioFLRqACxzvRPPNtjbD 

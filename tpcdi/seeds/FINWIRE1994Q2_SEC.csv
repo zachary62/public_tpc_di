@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1994-06-27 17:06:02,AAAAAAAAAAAAAFY,COMMON,ACTV,KgdAwOeebAgSnPCSQ FVwFWQIgREfKXcOtkKFjBGIOMGJXdoQjLLoRnj              ,NASDAQ,780945691    ,19740512,18950513,        0.04,0000000058
+1994-06-27 20:25:05,AAAAAAAAAAAABSJ,PREF_A,ACTV,EsAFuGMzbvlkyGBZReoPKWQBNOl                                           ,AMEX  ,205640250    ,19250122,19820525,        1.52,0000000504
+1994-06-28 00:32:02,AAAAAAAAAAAABSM,PREF_C,ACTV,MfMBjjGFu uBkRLfHaIpytZ                                               ,AMEX  ,290670707    ,19670720,18710405,        0.06,LyPLWCiNgEmpbhlfYPIKdDcaFIKWon                              
+1994-06-28 07:12:03,AAAAAAAAAAAABSP,COMMON,ACTV,DAKuQLzkAECiU LdNmTbZMM                                               ,AMEX  ,392810734    ,19221115,18760906,        0.41,0000000417
+1994-06-28 09:19:02,AAAAAAAAAAAABRF,COMMON,INAC,kknzbWKRFaXKCLyQGBWbsjS                                               ,PCX   ,363771322    ,18911023,18540309,        2.77,iLRgsRKORjPEuGBYgmdeGGaIPIxIKBVoZOoLfVbbtoy                 
+1994-06-28 17:44:00,AAAAAAAAAAAABSK,COMMON,ACTV,frQAdQxprPAOJzFHekBDYNGVEANjCHqQZNZLyKCnTltadEQtmIIVEsnqKuHSTHjaJAXCKi,PCX   ,223769193    ,19210930,19000216,        0.06,0000000456
+1994-06-29 08:56:05,AAAAAAAAAAAABSN,PREF_A,ACTV,hSrRKdnNIuUOsFotvOgTHaYjdJJQ                                          ,AMEX  ,158004566    ,19830704,19241130,        0.56,sywKYoBrHXXpAryQGPvlNiaGZOoSUSFPVyRJCvtVoPAHi               
+1994-06-29 18:14:05,AAAAAAAAAAAABSQ,COMMON,ACTV,msILlrkvFzRbfAPcjRNtdZB                                               ,NYSE  ,774586928    ,19070607,19820815,        0.93,TmePJwPsZzryQDFuQIUNO                                       
+1994-06-30 01:06:03,AAAAAAAAAAAABSI,COMMON,ACTV,AkgROGMRKgKJMPSv                                                      ,NYSE  ,658515832    ,18840822,19511130,        0.67,byJXXiDpSRuQqUFJVyaHkwU                                     
+1994-06-30 16:29:04,AAAAAAAAAAAABSL,COMMON,ACTV,YTQZAllEJYnbnfiSpLOpTLGGsVcKTHEkrduwEInkVLPsvawiPDMGcqXGwauBlglOF     ,NASDAQ,928201916    ,18840501,19191128,        0.67,0000000449
+1994-06-30 23:59:05,AAAAAAAAAAAABSO,PREF_A,ACTV,yyRlAWvAyOhQUTgxSKZnBRtgSomuUHMZYZfVjroNClLTIPEmXPorlcNEocJLlOD       ,AMEX  ,981212467    ,18680330,19081105,        2.51,0000000316

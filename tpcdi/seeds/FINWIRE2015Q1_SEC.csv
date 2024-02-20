@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+2015-03-30 01:42:05,AAAAAAAAAAAACRC,PREF_B,ACTV,JIjkTPfEEABlFfWeLJLgJLUjijbLagU                                       ,PCX   ,386214091    ,19220318,18951023,        0.25,0000000235
+2015-03-30 05:43:04,AAAAAAAAAAAACVC,COMMON,ACTV,DMiKoFFxLIwjGoROisFlEVRkAaBveYTbCGCHegteLR                            ,AMEX  ,582044824    ,19340324,18870426,        1.22,IwwElnMXKeJrBPEGugLDPCdDERLoZVEMwyDWDQFBZxKYVq              
+2015-03-30 10:06:04,AAAAAAAAAAAACVF,COMMON,ACTV,CruxjIZBqYCVkDgtdIJFDRYNuClrTkUKXrokaCzmGoAyWtejFAGFrQQRN             ,NASDAQ,569476947    ,19770302,19231226,        1.82,0000000922
+2015-03-30 12:37:02,AAAAAAAAAAAACVI,PREF_B,ACTV,omSuHOMQMoMQHmSajDQPAmgb                                              ,PCX   ,521750857    ,18750419,19301128,        0.63,0000000782
+2015-03-30 19:20:02,AAAAAAAAAAAABCX,COMMON,INAC,PFKAGXBWboUeE                                                         ,NYSE  ,571897561    ,18630214,18610428,        2.18,0000000264
+2015-03-31 02:53:05,AAAAAAAAAAAACVD,PREF_A,ACTV,miGmEvjuVwXKRLGcPcUBzCeAVtOQruaNxF LuKvgcFpzRkAnJhihIytGG             ,NASDAQ,255353267    ,19290423,18940525,        1.01,0000000931
+2015-03-31 05:06:00,AAAAAAAAAAAACVG,COMMON,ACTV,xMAwUS yzRoTFAZBqYSYLJ                                                ,NYSE  ,816484594    ,19700731,19910721,        2.80,0000000905
+2015-03-31 17:17:04,AAAAAAAAAAAACVJ,COMMON,ACTV,qKUnCCCAOLXENcmqxVdloE MCiZRcJkGkbmyK                                 ,PCX   ,175101083    ,18811010,19811124,        1.93,EqVOckXbWHRVWKT                                             
+2015-03-31 18:09:05,AAAAAAAAAAAACVB,COMMON,ACTV,SKVAEIKDpBoPazSmt                                                     ,NASDAQ,978696523    ,19140923,19660129,        1.86,0000000767
+2015-03-31 22:00:05,AAAAAAAAAAAACVE,PREF_A,ACTV,rTpCTFNdwANPXLR                                                       ,NYSE  ,533209555    ,18631104,19321216,        0.63,0000000391
+2015-03-31 23:59:05,AAAAAAAAAAAACVH,PREF_A,ACTV,OAHYmyZGUzfJRW                                                        ,NASDAQ,362599159    ,19650330,19270423,        1.56,jPRWufSTqWOCAlsdOXSJVGOFtTJAiPihfAJyABYiGaErrBzCkZecwmJG    

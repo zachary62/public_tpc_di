@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+2005-06-28 18:46:05,AAAAAAAAAAAACHW,COMMON,ACTV,LNlyVrVLZGOSWXlLQn                                                    ,NASDAQ,498563753    ,20000322,18781106,        0.67,0000000822
+2005-06-28 21:04:01,AAAAAAAAAAAABDA,COMMON,INAC,WbnFUnSHYIyVCJBvPxhgRfPeNS                                            ,PCX   ,13296928     ,19200613,18900408,        0.51,0000000298
+2005-06-29 03:15:01,AAAAAAAAAAAACHP,COMMON,ACTV,Kp PlwXtLVOZeTFYuzOCaohpQQKnzHjYrTBBCPpIURBNVo                        ,NYSE  ,537309668    ,18940608,19501214,        2.14,GViYmRwuSEXoUpgQOevIzNPhXYqrqZGAJFgrJZfFyxST                
+2005-06-29 14:44:04,AAAAAAAAAAAACHR,COMMON,ACTV,aUyMobtUHeugvWgmdLXpxsd                                               ,NASDAQ,307344873    ,18790726,19161201,        0.83,0000000303
+2005-06-29 19:38:04,AAAAAAAAAAAACHT,PREF_B,ACTV,bNriMntyICcOAxlhosyInBAPjnsUJTgALPeICBLGszWRr                         ,NYSE  ,139716613    ,19660722,18611121,        0.75,0000000552
+2005-06-29 21:12:03,AAAAAAAAAAAACHV,COMMON,ACTV,YEaArfUSUGXcOOcqksrysHCRYNyCbiGJYCGkPUmF                              ,NYSE  ,208441286    ,19440705,19580530,        2.06,0000000508
+2005-06-29 21:16:04,AAAAAAAAAAAAATY,COMMON,ACTV,KfOnXlaFRfJRQi                                                        ,PCX   ,171472859    ,19520212,20030606,        2.57,QFlzyCJQIjruBnSgEMBSIpCQCvZFcHOpHMSZDWRwJw                  
+2005-06-30 02:29:04,AAAAAAAAAAAACHO,PREF_A,ACTV,rNEvCZGCaIRQFBRuhfAMSrLJJeNpSVMPKjkOpxlw ZUSZNcwyDJrKVvEifyLeUhWLKAO  ,NASDAQ,555559231    ,18561115,19210423,        0.12,zmEtERekHepFHEOKNVYMZhPgUnpfHSFLlcEWhTVN                    
+2005-06-30 12:16:00,AAAAAAAAAAAACHQ,PREF_B,ACTV,rUW EViQsQwSjQgacDObDsHoBGB omxq                                      ,PCX   ,195211006    ,19700103,19450210,        2.83,0000000016
+2005-06-30 12:50:05,AAAAAAAAAAAACHS,COMMON,ACTV,cNtpVsHwfQbgXUVujdxxIQXiVbdg                                          ,NASDAQ,660752595    ,18821016,19400824,        0.07,OQtkTMmhGBQMWdAgkVGwtkBTZdZgSnGgrWWnVufvkZ                  
+2005-06-30 23:59:05,AAAAAAAAAAAACHU,COMMON,ACTV,QCTDtGJyOjIGJrRWVEWmGNLffnb                                           ,NYSE  ,775093110    ,19550216,19310909,        2.28,0000000546

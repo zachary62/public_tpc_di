@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+2013-06-29 09:01:04,AAAAAAAAAAAACSR,COMMON,ACTV,myJSHvEsTTZjvAqhxAQQHotgNvHOLGAFfRJckhZIJQmHOwOIzd                    ,PCX   ,197646781    ,18870509,18990414,        1.29,0000000528
+2013-06-29 10:50:00,AAAAAAAAAAAACSX,COMMON,ACTV,ELAkQHQTqJECHTVgrVRwER nvpKlucVJ                                      ,AMEX  ,589193968    ,19880104,18610219,        2.26,BDIjuGRKsdKntdoOHrGTdEpEMPxba                               
+2013-06-29 12:09:05,AAAAAAAAAAAACSS,COMMON,ACTV,UQAIDrIXZmFhSOcYbCbkNBIB                                              ,AMEX  ,755420274    ,19401224,19100205,        1.99,0000000752
+2013-06-29 18:33:02,AAAAAAAAAAAACSY,COMMON,ACTV,AKKaoeBMLoOsEyMIzpeCSZWNuHdIQlEfglhNUpDamViALCoKGziXPESRdfekXGJdqjKrt ,NASDAQ,155770668    ,20051030,19001105,        0.93,0000000537
+2013-06-29 19:27:05,AAAAAAAAAAAACST,PREF_B,ACTV,PwbrTRKabVWOwhTUWOBYSnhICpBvzMEJOoZXFbbRP fQmSwO fV                   ,AMEX  ,631438892    ,18570716,18590924,        2.30,XlMstoSukZznSjBWsWA                                         
+2013-06-29 21:45:02,AAAAAAAAAAAACJF,COMMON,ACTV,MHmkJSGcDMGstEurHLXDMscoRELzqSotQOPDsjzjpJMYsPnX                      ,NYSE  ,952849968    ,19741016,19600723,        1.09,CHQFzauXlJjoawrZaWDWWIRpkxVuJPIZYQNRTREwvHDLwKpQxsSGtr      
+2013-06-30 01:00:01,AAAAAAAAAAAACSU,COMMON,ACTV,HCxRxoEbAVlGczVyGaaSBWJAUtRUKkVCXRSyHTkHWhFQEAwhdBURYkvZ              ,PCX   ,88701545     ,20030521,19991203,        0.22,cbOBYMxWQHmHPdBYbLJCDSnTUlNTvGmLYmpMW                       
+2013-06-30 04:09:00,AAAAAAAAAAAACNN,PREF_B,INAC,OSKsDQPdDHNLP GDKAURhjgnkScInSdlmowujTxLFxqThJrRmJ                    ,NASDAQ,924362494    ,18850703,18700124,        0.35,qrRgNmsiVEAIHaEHQhuYVLtVnQC                                 
+2013-06-30 12:36:01,AAAAAAAAAAAACSV,PREF_B,ACTV,aHpBxbQMYALcVKAYBgtLENjVjaGGMvjEDrMJxODagOQPnxycqJ                    ,AMEX  ,89867817     ,18831027,19100801,        0.99,wUqsVTbOAHqQHWZR                                            
+2013-06-30 13:03:05,AAAAAAAAAAAACSQ,COMMON,ACTV,MkwRsGlfZDTEUMVhSKalnVJMTSdUByfL efII                                 ,PCX   ,637892191    ,19590126,19291015,        1.00,afTQlFAiVygxZKzOYTGozUxcAwXvoFFsMQXnJFMgniLFQJriKmVTbcWXV   
+2013-06-30 18:13:05,AAAAAAAAAAAACSW,COMMON,ACTV,DyFIEUzwsmvGBV                                                        ,PCX   ,226803676    ,19970301,20090808,        2.65,0000000835

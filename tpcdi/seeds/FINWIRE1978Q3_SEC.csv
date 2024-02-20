@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1978-09-26 15:18:04,AAAAAAAAAAAAAWS,COMMON,ACTV,IMFgJZK QLdXjb ELhjnzcIchLOEQmuhff WjZjkhJ                            ,NASDAQ,100835065    ,19271022,19330103,        2.55,0000000258
+1978-09-27 10:22:01,AAAAAAAAAAAAAWR,COMMON,ACTV,PzliemErIDOASVclMittbKcLLEwP JHzziQMImZUCJDHxTxSlUBj                  ,PCX   ,927152711    ,18820606,19170812,        2.68,KJhQqvrlpQBidNaiKSbeNNikTGFNyqfAokZNpWiMnQ                  
+1978-09-27 10:39:03,AAAAAAAAAAAAAWQ,COMMON,ACTV,JbPPDGHTHNZyBMornAvmzVCgCISoqBnUypaXJjkFBNDuz CcDVsD                  ,NYSE  ,812364730    ,19581002,18631228,        2.89,zZCyFkqieiPsUGvBJwvhXNW                                     
+1978-09-29 04:30:04,AAAAAAAAAAAAAWP,COMMON,ACTV,dvAijyMqzOJoVbQWOHVMZ                                                 ,PCX   ,767692867    ,19510408,19530701,        0.66,0000000162
+1978-09-29 05:44:02,AAAAAAAAAAAAAWO,COMMON,ACTV,NlAamQThaw                                                            ,PCX   ,854179766    ,19230527,19770306,        0.24,XWXxJBIxnpWkRhOnmCAnXWPDaesNLKLmPw                          
+1978-09-29 12:25:05,AAAAAAAAAAAAAWN,COMMON,ACTV,kSxVUqPiZNcStqprMgJmji                                                ,NYSE  ,296158053    ,18700505,18990912,        1.01,0000000268
+1978-09-30 04:47:03,AAAAAAAAAAAAAEV,COMMON,INAC,oXHbStPBsNB mknJF SRZjJXpOKAOMwKdFgnFeMXrnCGfzWIaIpVHRVM              ,NASDAQ,211625001    ,19500902,19500218,        2.54,XdCwDlGsXFstGqdCIcNOKJfTOQPnoEeELXbNmwOl                    
+1978-09-30 09:24:04,AAAAAAAAAAAAAHC,PREF_B,ACTV,TxHOjoDHrzrombsNoNo                                                   ,AMEX  ,724062660    ,18651110,19350717,        1.04,SqCUkYbSlmUBVEeHQcYWlEhwLjOKBYzdJQXvcxaOioFLRqACxzvRPPNtjbD 
+1978-09-30 17:00:05,AAAAAAAAAAAAAWV,PREF_B,ACTV,faCOmWrpXeuCNrDOVTgfPNpQhSMWAdZAwxjUbswCOSyUgpmrUiklAxrpT             ,NASDAQ,14737174     ,18510424,19571210,        0.29,0000000087
+1978-09-30 20:12:01,AAAAAAAAAAAAAWU,COMMON,ACTV,PcqUIBKzisSoqse UqhZJLnH                                              ,PCX   ,703881903    ,19661124,19500615,        2.54,MFbhTxRgbYIPZIEQDVUFaGQjRSJOLbsQQYPxfYvYi                   
+1978-09-30 23:59:05,AAAAAAAAAAAAAWT,COMMON,ACTV,KpwlAWdjGMGVbXWFAUMBZMoNNpTZYuTpeFWtxNCNsgOVQoGiLzp                   ,AMEX  ,166922672    ,18960304,18820425,        2.42,TLOeJROVMacWuQLAOqTyEkblGNJmHaNXnFWPqeXGAI                  

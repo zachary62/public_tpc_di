@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+2012-06-29 03:58:04,AAAAAAAAAAAABHH,COMMON,ACTV,DiivXFKvkPZsNtUWSglWuoJ                                               ,PCX   ,231105688    ,19080215,18731017,        0.78,OxERTwhdlHGLNywLoeDKMFSvjBAQqOZAelNBSEUFBBPkUYZOgMvBWHUIguA 
+2012-06-29 08:32:01,AAAAAAAAAAAACRI,COMMON,ACTV,iKMoZtmAtHBUZWUoscfudZqySGGvG                                         ,NASDAQ,603234282    ,19800822,18790922,        0.58,0000000773
+2012-06-29 10:20:04,AAAAAAAAAAAACRM,COMMON,ACTV,bds NEcEFpITDBNDJrSKXkFPvLKmzHGqmYsrfvjLwEzKqhiSommDNv                ,PCX   ,197304763    ,18760522,18760410,        1.17,BKFBinjpcLcrvbcMPDnAKRAXGQAf                                
+2012-06-29 19:35:03,AAAAAAAAAAAABXL,COMMON,INAC,vbDLhmDFFVzTlBKPCasVvI                                                ,PCX   ,24663174     ,18531018,19190914,        1.51,gDqcCBxupXLOeBnjyoDuJKKpXXazMTBejzLaoxVkzpfVHbeQYNnEL       
+2012-06-29 23:24:03,AAAAAAAAAAAACRJ,PREF_B,ACTV,DMiFuwKywYHywFhMBdGemBeFGFJDK                                         ,AMEX  ,509759850    ,19101102,19090608,        0.82,0000000390
+2012-06-30 02:14:04,AAAAAAAAAAAACRN,COMMON,ACTV,hQTHHRCJQCKOadJpIzXUQ                                                 ,NASDAQ,640737840    ,18840731,19521102,        2.22,woKEAZMWrUJADbfKGKCHSvIpTxzDNW                              
+2012-06-30 10:05:03,AAAAAAAAAAAACRG,PREF_A,ACTV,gDSsCVhCHUMyxUoPkeCXWM MGBrCEKnCDLRk                                  ,NASDAQ,674930867    ,19701101,19540520,        0.71,0000000899
+2012-06-30 12:16:01,AAAAAAAAAAAACRK,PREF_A,ACTV,WNcIFKCNtOPgzNnuI                                                     ,NASDAQ,874327039    ,20090128,18810605,        2.04,NBwPpzQCkyfHwVHMPhhaEuovxWSVwfPWNzXkkURuUQzbT               
+2012-06-30 18:51:04,AAAAAAAAAAAACRO,COMMON,ACTV,jxIoaQVTQjSsGHASnFSAOMIKHMuxJrJAxhKqlVoGSGZhTGSkDDQ                   ,NYSE  ,666995470    ,18961011,19250414,        1.43,0000000085
+2012-06-30 19:57:03,AAAAAAAAAAAACRH,COMMON,ACTV,LEPvXtPTplSIk dPOVdI jbDQZOPnGTiUjfSNQuVeqwbTT sYLPVD                 ,NASDAQ,159386309    ,19391025,19850127,        1.63,0000000172
+2012-06-30 23:59:05,AAAAAAAAAAAACRL,COMMON,ACTV,RbxpuSnAGSEJQFaHNljeTfIUHNDFuGPTKVVFtzkHNNVUw k WBaQP                 ,AMEX  ,390632155    ,20031110,19990422,        2.57,RPoVaCYHTdSAzooxmkNUlvRzFDKeWzoiZK                          

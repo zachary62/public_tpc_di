@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1991-12-29 00:53:01,AAAAAAAAAAAABOY,COMMON,ACTV,VQSJjRACjALuFsIeDSTgvKQv                                              ,NYSE  ,952559281    ,19190301,18660610,        0.65,0000000419
+1991-12-29 08:40:04,AAAAAAAAAAAAAFQ,COMMON,ACTV,aff cIwXTQTtaOSvQdLlqbvAGy                                            ,NASDAQ,798389215    ,19500112,19080904,        2.03,WGcNCpRBGqeGCDtWOgnZSRvS                                    
+1991-12-29 12:20:01,AAAAAAAAAAAABPB,COMMON,ACTV,lBQoMoIgRegBNjXZqApPm cdvwBiAEMmcAxhxHOqiGphARSePvFwfCrTQO            ,AMEX  ,147399565    ,18510319,19440220,        1.35,YNouztDEEgVJnWzrV                                           
+1991-12-29 17:01:01,AAAAAAAAAAAABOX,COMMON,ACTV,FNPQLOjewYXJDELhGvPWRdjmWqzRDsfSAQRknjlXIt                            ,NYSE  ,315695504    ,19590131,19250616,        2.81,fMtuHMuEOFRQYva                                             
+1991-12-30 03:53:02,AAAAAAAAAAAABPE,PREF_A,ACTV,JXRdYiASPBJWWWJtBWrU AxrdPslHyaKQFeOUy JF                             ,PCX   ,309489392    ,19410704,18530821,        1.27,aSSstMUoDTCBSFwDAXBh                                        
+1991-12-30 06:29:03,AAAAAAAAAAAABPA,COMMON,ACTV,XsiCMpcRmJhordOnUYQA                                                  ,NASDAQ,859489348    ,19791209,19070929,        0.56,0000000101
+1991-12-30 12:25:01,AAAAAAAAAAAABOW,COMMON,ACTV,qYRBUldKBoSZMmhMj                                                     ,PCX   ,798033723    ,18811001,18700830,        1.32,0000000231
+1991-12-31 00:08:03,AAAAAAAAAAAABPD,COMMON,ACTV,xnhPMATWkoLVzggOLQp                                                   ,PCX   ,627466241    ,18940322,19500824,        2.01,0000000561
+1991-12-31 08:33:03,AAAAAAAAAAAABOZ,COMMON,ACTV,VKDadEgJFIkIpmSGnXWEKCDjMUJhecDyJlNLBk                                ,NASDAQ,312201089    ,19040625,19510609,        2.41,0000000548
+1991-12-31 16:35:01,AAAAAAAAAAAAAYY,COMMON,INAC,cBNIMCwgVaQeqEFUDciRAVPYWZxgzOBBZFQeIQaLBCCNCSHcpwQzSAGyOxzSgXTOrc    ,NYSE  ,803567378    ,19571206,19830430,        2.93,0000000205
+1991-12-31 23:59:05,AAAAAAAAAAAABPC,PREF_D,ACTV,kHTfLQHQhQVUUZYAfnlIUF LzsRVHXVQ                                      ,NASDAQ,800836319    ,18750331,19070208,        0.74,aJpDhrkJNjyUuzhSCshNHHcqIiNTqUULLupPObSFfqUEilbKIVjLHFfzJg  

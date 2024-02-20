@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+2015-12-30 02:34:01,AAAAAAAAAAAACWE,PREF_A,ACTV,gRgHHXHUGC                                                            ,NYSE  ,136671288    ,19410318,19360730,        1.41,AymCgsDQrJQJukysPpRlqINZfVhBWIAaOxOSBNujK                   
+2015-12-30 07:07:01,AAAAAAAAAAAACWK,COMMON,ACTV,lmTQVsVOVNHwYTOaEMmktklTbovsmaTh ATENAt                               ,NASDAQ,359195221    ,19911121,18670520,        0.42,0000000119
+2015-12-30 11:09:00,AAAAAAAAAAAACWF,COMMON,ACTV,YFxoOfHnquPFBdPJanCBwLN                                               ,NASDAQ,131341628    ,19491111,19690323,        0.96,eTTydbLcAjZCOWWbBKegOKvE                                    
+2015-12-30 12:30:04,AAAAAAAAAAAAAUA,COMMON,ACTV,RK UStplsVlbDxCdxEn                                                   ,NASDAQ,76384576     ,18691215,19470623,        2.80,wvoAvQHcseEEGTMFVcuPEGWVzPFrl                               
+2015-12-30 15:27:03,AAAAAAAAAAAACWG,COMMON,ACTV,nHBTiOYRwaZ                                                           ,PCX   ,967785866    ,19960401,19760606,        0.60,0000000168
+2015-12-30 22:35:04,AAAAAAAAAAAABIG,PREF_A,INAC,TVPEHRPhEShMGPHFGUsKDxU nswITrMSFrbwDQPASsgvrKJWXFCBG                 ,NYSE  ,354845296    ,19230218,19430910,        1.95,JaBRAUCPDCLITNXXrADVCSIopfxogeRFkYFvBVlr                    
+2015-12-30 22:42:01,AAAAAAAAAAAACWH,PREF_A,ACTV,MdicihMRubEIlaEnUUIPtklzcDKRJDeOkK UzUTsOId                           ,NYSE  ,927725775    ,19500410,19270630,        1.25,0000000437
+2015-12-31 00:21:03,AAAAAAAAAAAACWC,COMMON,ACTV,pZ rtOYEOKpvuPlAbDD bSZflUyDOTSQSbKBnAbHEyDqbDrBFVelGyZUaYlQoJAAQe    ,NYSE  ,670271560    ,20041005,19491130,        1.95,gabfHxDslnNqJhBIFAQLcSMsSSipIQCAwLMMyfBTFHEiRXQOXGkp        
+2015-12-31 06:20:04,AAAAAAAAAAAACWI,COMMON,ACTV,YBGaeckLBLgAQHnVJbhQvAoTOFj                                           ,AMEX  ,906518718    ,19471017,19700925,        2.91,0000000885
+2015-12-31 20:11:01,AAAAAAAAAAAACWD,PREF_A,ACTV,vQhUmPesPRTVEPpEfRpJaczwsPtGUAyJhenNAujrMSZJAdRNzL L                  ,NASDAQ,867006036    ,19980621,19170809,        2.24,0000000685
+2015-12-31 23:59:05,AAAAAAAAAAAACWJ,COMMON,ACTV,oPHJH iQmLEgxFUVsZEUVEyIIyNPFzQcKfLloDiNZHRwBEF                       ,NASDAQ,144970976    ,19540317,19641123,        0.86,0000000803

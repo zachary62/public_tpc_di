@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1987-06-27 12:15:01,AAAAAAAAAAAABIV,COMMON,ACTV,hJUWcqlOFGYwLuFPOSGlwSDx                                              ,AMEX  ,539426425    ,19810822,19600718,        1.75,CMbRIDVtDBphXwzVGNYxbPKLdRbPC                               
+1987-06-27 20:10:03,AAAAAAAAAAAABIS,COMMON,ACTV,yMJRAWIB pvIUYEQuPYr                                                  ,PCX   ,631601757    ,19100403,19800414,        1.43,PKoQbpXYaUpnSupspSsLCZsyfTaRykUwFQAWLvp                     
+1987-06-28 03:59:05,AAAAAAAAAAAABBO,COMMON,INAC,tDTGqUCWJJgHTVTeguILAMGsGjNQfFZwMUjNjErdalHsMGowmK                    ,NYSE  ,198534121    ,19120519,18950422,        0.96,0000000038
+1987-06-28 09:55:05,AAAAAAAAAAAABIX,COMMON,ACTV,qFyQsxxEKRIAEJPBBUBjKUKZdAGq                                          ,AMEX  ,475063387    ,19760218,19690727,        1.04,kTvfZnSjcPeiRAaYlMKXFcMxdXNFQvnxFUGUfWCBuP                  
+1987-06-28 11:33:01,AAAAAAAAAAAABIU,COMMON,ACTV,QxSvOimQVHvbDXmpqRxDXSonBEBYlXUhNAmTVYqnkFoCLDyJPqSPNFSF              ,PCX   ,541677253    ,19500415,18690404,        1.61,qKCCVOwUhXclMYGpMGHDaUScTSF                                 
+1987-06-28 14:35:05,AAAAAAAAAAAABIR,COMMON,ACTV,LqSePtqsfUJDOtXjblgFPdPCMTlCNpCPBTKGDndcs Q                           ,NYSE  ,849137288    ,19510503,18860709,        0.55,xorOqoimeVGhfEcDQZ                                          
+1987-06-28 20:38:01,AAAAAAAAAAAAAWE,PREF_B,ACTV,DRDuKRFYrvMxfBnw                                                      ,NYSE  ,853057101    ,19000811,19380615,        2.39,0000000356
+1987-06-30 05:34:05,AAAAAAAAAAAABIW,COMMON,ACTV,BE HVhcdCCWJrGWnEYJ                                                   ,NYSE  ,620522863    ,19831216,19000709,        2.70,PTNTHCLWsriUMNBFhDQDGtmBPPNiLOSaNy                          
+1987-06-30 09:42:03,AAAAAAAAAAAABIT,COMMON,ACTV,NRMjmJTWCNIMyFMSPCRafnDgpacERUndGSTth klcqqzVJkvTcDERvRpHPuKU         ,NASDAQ,505637490    ,19530908,19351009,        1.97,0000000296
+1987-06-30 14:28:03,AAAAAAAAAAAABIQ,PREF_D,ACTV,XrHSmDxVsFVczpbIbtIbJyabIiVQ bHoINENLQaANTgkEnWTlvrOJcCVJ             ,NASDAQ,584169158    ,18900701,19220517,        1.14,TKrHzjzZyNqHaxyYSPNNPLkymSBSpHGDrKmvTFZuffZfztK             
+1987-06-30 23:59:05,AAAAAAAAAAAABIY,COMMON,ACTV,JBaWeoFVDPIOehUzpyKCEQCXW ORrLlXPUFXQOFaWQNvQWaVFO                    ,AMEX  ,34790756     ,18940825,18950726,        2.56,whOJbSWAVgSKFSagITxNTGeTKRETrj                              

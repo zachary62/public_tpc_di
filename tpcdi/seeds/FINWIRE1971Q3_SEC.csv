@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1971-09-25 11:51:00,AAAAAAAAAAAAAHK,COMMON,INAC,EG K FufNITSIVLWMoOIzhwzKAOMPeHkCI SWiNpZsSwCOHsOZFgOA                ,NYSE  ,154493527    ,18771024,18760314,        1.60,0000000039
+1971-09-25 15:43:00,AAAAAAAAAAAAANB,COMMON,ACTV,wHUESxljMXN                                                           ,NASDAQ,965111157    ,19350606,19281227,        0.99,0000000095
+1971-09-26 05:45:03,AAAAAAAAAAAAAMX,COMMON,ACTV,Mg TwFTOTmU DawUqGNuVbGyuVzPtUIdXAT                                   ,AMEX  ,84412887     ,19360324,18720330,        2.57,zRfEuBrvHrKyGDfpiRBTeUqPsQSTsDxPdxPXYXbVgMCGJcRviIrmxpTiV   
+1971-09-26 13:21:05,AAAAAAAAAAAAAAB,PREF_A,ACTV,AtLSlfYNZFeTZBmHSkHc OQRPJoPk                                         ,NASDAQ,193928503    ,18991209,18951214,        1.94,dTpthWoaQBLMBRCRNonpuyzduOcCjNK                             
+1971-09-28 10:03:00,AAAAAAAAAAAAANA,PREF_A,ACTV,BkiI AYMuiErGfBHBWuLWbbLVIJJDRNBbcCDboJPPLjeHJGGcl                    ,NASDAQ,50443864     ,19270417,19430808,        1.79,LoSyvUwXvGnKexKhSbbtArGnpUcArarLDzSDOEMMZBwKPwRuADFxSFJ     
+1971-09-28 10:35:04,AAAAAAAAAAAAAMW,COMMON,ACTV,AZybOaANdlHlRfUMoJEYEWaoEQzPEGxZIHJYovIeUBxSYFofEINk Avz              ,NYSE  ,627424804    ,19280227,19210210,        0.24,0000000155
+1971-09-28 14:56:00,AAAAAAAAAAAAAND,COMMON,ACTV,GkUHFehfCpbIureoxhnZZdzeaQFKHadpAvxzcYZiQ PNImWoC                     ,PCX   ,689559244    ,18770302,18971115,        1.85,tVwRqtyZnGGmzjRUwFjQ                                        
+1971-09-29 00:40:00,AAAAAAAAAAAAAMZ,COMMON,ACTV,YqInPGAdfQQXFQba                                                      ,NASDAQ,958464176    ,18900606,19111021,        0.89,CdtNrECbrbQbgppWLEleQUUZbpBxiUWdwXOgIVdSVAEJKMMFSKMVKUMRs   
+1971-09-29 12:39:03,AAAAAAAAAAAAAMV,COMMON,ACTV,IhTOOOZpTV                                                            ,NASDAQ,626267359    ,19060526,19330526,        0.20,0000000112
+1971-09-29 20:53:03,AAAAAAAAAAAAANC,COMMON,ACTV,bf UxdoHoaBHnxACDc FBMSgPxhRuMOXw                                     ,NASDAQ,867599877    ,19441112,19060706,        2.14,ESOoZxFQwvXOwMCgBotSpvGsdkPuRjaSwdwTCvmUqffFAwpb            
+1971-09-30 15:15:01,AAAAAAAAAAAAAMY,PREF_B,ACTV,moLwwN lzylBlZSuEtXVlGQHGQzzHGS                                       ,NYSE  ,349250162    ,19460724,19080301,        0.38,0000000021

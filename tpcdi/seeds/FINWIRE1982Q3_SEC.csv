@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1982-09-26 04:19:00,AAAAAAAAAAAABCD,COMMON,ACTV,SPzuRIFdZbXOhIfcfGu                                                   ,PCX   ,281089721    ,19150801,19090618,        2.51,0000000180
+1982-09-26 13:47:05,AAAAAAAAAAAAADG,PREF_D,ACTV,dJsPiCzyZKwzrdehQaNapXHHFgWwxuVXAjSUZQBwTAKfJbCpgKFxHM lCG            ,AMEX  ,712463094    ,19750108,18550428,        0.51,FPkUpyGmfknoesAXkjKzaUTNTqPSOUpQgQek                        
+1982-09-27 03:47:02,AAAAAAAAAAAABCG,PREF_A,ACTV,VPuCYQwvktGeQZKQcoN nDXRCwmayzSZHIBgzjl wjAqSOrZTWW                   ,AMEX  ,13530244     ,18790821,19220816,        2.17,gDqcCBxupXLOeBnjyoDuJKKpXXazMTBejzLaoxVkzpfVHbeQYNnEL       
+1982-09-27 09:06:01,AAAAAAAAAAAABCC,COMMON,ACTV,uNXcOsvcrNrT FUHcLXIBxDqFhpvKffHz                                     ,NASDAQ,539821555    ,19570203,18680707,        0.57,LVHzeFQWSugGNgkKMEtPTIIgFiwdseCBRJeZhPSKJLIcdoCUcbsQ        
+1982-09-27 18:27:00,AAAAAAAAAAAABCJ,COMMON,ACTV, sQGcFHVFsgpONGiPUHHNUKvFsTaCqrquPTAHoBqoOqkztHfl hJPUYRiZKUKMVhNd    ,NASDAQ,872545929    ,18660524,19420818,        0.56,0000000112
+1982-09-27 21:32:01,AAAAAAAAAAAABCF,COMMON,ACTV,G rrAvfddoGNVYhCKXXXBIvHsGp uqOhkqZaOscGPVwkFuGKaOmhjuDenp            ,PCX   ,330842454    ,18660518,19420219,        2.22,0000000073
+1982-09-28 08:19:03,AAAAAAAAAAAABCB,COMMON,ACTV,OCqUYDAAuZScTRxUKyAazHQTYzzzHJXnYknWJHGGPCQCyLMrTcDBlDeIKNkSXTI       ,PCX   ,79306774     ,18670321,19170601,        1.96,PleiLoVZROAwlvG                                             
+1982-09-28 14:52:04,AAAAAAAAAAAABCI,PREF_B,ACTV,ailqVbFlTRwsvz                                                        ,NASDAQ,467290536    ,18510826,19210111,        1.53,0000000076
+1982-09-28 23:51:02,AAAAAAAAAAAABCE,COMMON,ACTV,sUJgywsmQDBSxiXloLLsoTBWhsfXHyefijNDVbBNaO t                          ,NYSE  ,503391329    ,19490304,19660625,        1.65,0000000254
+1982-09-30 12:59:01,AAAAAAAAAAAAADI,COMMON,INAC,QndRyu GpiprGpBQRdQNUNEHVDXtMcdr                                      ,AMEX  ,239222983    ,18520110,19310302,        2.61,RICOfhFDpPHwKRHsmPHYTpTzGDeJMQruPEEdPICrMiweHGwOFQYNoQXZWIjN
+1982-09-30 23:59:05,AAAAAAAAAAAABCH,COMMON,ACTV,rBFsmGUWoCVzFjQgIJKJ                                                  ,PCX   ,201167175    ,19210131,18600419,        0.18,IMkIDtIdUCiUMXsqTZ                                          

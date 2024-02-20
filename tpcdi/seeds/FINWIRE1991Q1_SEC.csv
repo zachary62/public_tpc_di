@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1991-03-28 17:24:03,AAAAAAAAAAAABNW,COMMON,ACTV,dvLVGJviONcBdakmrORMR                                                 ,AMEX  ,758555066    ,19130116,19420309,        2.27,0000000510
+1991-03-28 18:53:03,AAAAAAAAAAAABNV,COMMON,ACTV,XpyWvxQNKmyiwCpJZbiBhKFvRXrvLRnlbQtVdKjzkyYAzOQiFyrUEEOoQSqax         ,PCX   ,623895445    ,18641019,19160603,        2.42,0000000197
+1991-03-29 02:23:03,AAAAAAAAAAAAALE,COMMON,INAC,ZxCjCi BPBQOtRiDSAnhTFvBSKIQzxxFRUiMXvT hGndkPvDLrTyFfDaCxRf          ,PCX   ,277697459    ,19530503,18530604,        0.34,KwjfmirRqfjJKRClFNxFXRUpUKSpCNxNadkYKRajlaHBFBFgLPbynOng    
+1991-03-29 09:53:00,AAAAAAAAAAAAAGK,PREF_A,ACTV,OGYPvHgJuifclroJSlCwbMtVgraLyLAkQhFGnd sKyqWSeaBDLemx                 ,NYSE  ,802184981    ,19560807,18820911,        1.31,0000000054
+1991-03-29 11:44:04,AAAAAAAAAAAABOD,COMMON,ACTV,AGnpJrEOjIINCslwylYwUjNs pWvMQkXTEAKJU                                ,NYSE  ,229567565    ,19520102,19530505,        1.38,0000000419
+1991-03-30 12:11:05,AAAAAAAAAAAABOC,COMMON,ACTV,pSRsDiVgaDfWlGaNm neURDbVpqn xdCb                                     ,NYSE  ,989909498    ,18800306,18670831,        2.78,tHzVUDHBeHgPVJaQTRc                                         
+1991-03-30 19:56:03,AAAAAAAAAAAABOB,COMMON,ACTV,JSvmVJZxBaZsTtPsOYrQMEUGfnHxeXAzlCmYJGVCjISQFWc                       ,PCX   ,783413503    ,19770824,19380809,        0.22,AChNrBRFTkjZjDXSGVlG                                        
+1991-03-30 21:49:04,AAAAAAAAAAAABOA,PREF_D,ACTV,onMIqyBfpFjtVQfrjnPPH QUNfEPQvc                                       ,AMEX  ,197536460    ,19491129,18760326,        0.99,OqHypLzADZqtBJkhBG                                          
+1991-03-31 08:13:01,AAAAAAAAAAAABNZ,PREF_B,ACTV,sNAzHKMkhROSDDxDROOuQTdwMNCyqhDtiBUbhnrmFG mozoKlMBlLplkEJyhmi        ,NYSE  ,82791698     ,19241105,19571118,        1.54,qCLAonhOZoDWmAlhMTIlQPXfTaSiDuHyydYZpACXFMZWRf              
+1991-03-31 18:32:01,AAAAAAAAAAAABNY,COMMON,ACTV,MKrOJrIOdaSTEUQSnzMuuCMAOKYbF                                         ,AMEX  ,119601985    ,19850828,18620821,        0.55,TEPNWCLVJRBtJGZTZQOFNGhlwOEEGTfzEt                          
+1991-03-31 23:59:05,AAAAAAAAAAAABNX,COMMON,ACTV,BKDCJfSERdqHZ                                                         ,AMEX  ,856496323    ,18640331,18591023,        0.85,TnleXPvwiSdBMEsAKXbVnbuMZdkwZMXCtgjjajKFYHGrEgWqy           

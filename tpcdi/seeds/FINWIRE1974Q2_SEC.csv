@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1974-06-24 08:09:01,AAAAAAAAAAAAAQU,COMMON,ACTV,yQNrzMqRFPqjuvB                                                       ,NASDAQ,23137102     ,19360204,19280625,        0.39,BlzKUNpcdbxQGHwUAaQlIXGgyZmHnyRREOKBwpXvXwwWEOWiNJVMXWALS   
+1974-06-24 13:41:00,AAAAAAAAAAAAAQT,COMMON,ACTV,yYRErvMWlUeulHOtckzHsNQqoMBvCabwZHzxAC                                ,NYSE  ,439395454    ,19050406,19100517,        0.34,LDsEkVAENiHlfQjSOoDGCURfoUfINWrBAQRKXYsaQMxnpOcNlWCih       
+1974-06-25 03:25:00,AAAAAAAAAAAAAQS,COMMON,ACTV,ohsrGQISLiIeEiWdJKouAESNSQ VfrVV sUwyVl GoV                           ,AMEX  ,567650597    ,18810210,19660202,        2.59,DXYhrWaQcubzCELw                                            
+1974-06-26 09:58:00,AAAAAAAAAAAAAQR,COMMON,ACTV,GfCJDfmGfWQPQawI VEAFzwBRWPJZCiX                                      ,AMEX  ,805991042    ,19651216,18600222,        2.82,KOoRBLuVJAmbedckFhAQyRqTdgMMbJwtQJUMWiUWf                   
+1974-06-26 11:15:00,AAAAAAAAAAAAAQQ,COMMON,ACTV,uOJERAEBgS                                                            ,AMEX  ,117169570    ,18680413,18510417,        0.86,0000000076
+1974-06-27 13:07:01,AAAAAAAAAAAAABX,PREF_C,INAC,Vs pXBVpAAuMsxiLLxUTDLBnExKPPxxL                                      ,AMEX  ,562210840    ,19570630,18740614,        0.92,0000000012
+1974-06-27 20:35:03,AAAAAAAAAAAAAFX,COMMON,ACTV,iZfVVNiBYgKSOUDKCCuOQzTcATrdUEjGYLXkEFnSmZRNLdKJJItjaqhqCOTErIy       ,NYSE  ,106890435    ,18610907,18921203,        1.26,bDehSFMUUzvBayHEfHPXduNBnPkf                                
+1974-06-29 01:16:03,AAAAAAAAAAAAAQY,COMMON,ACTV,SwSURJxjFlAbBkQHwbLOFMIMySrHCADYAVjMngzrJmKLSvLHb                     ,AMEX  ,930642889    ,19510805,18971103,        2.15,0000000020
+1974-06-29 04:33:04,AAAAAAAAAAAAAQX,PREF_C,ACTV,NLBmuvfaMksVbTcAVlLfIwutkCYOB HdrKBGFWMBaJxQ                          ,AMEX  ,945494212    ,18670927,18871201,        2.07,YKsCvZFRHKHIOMkwyDfOanJZ                                    
+1974-06-30 15:41:04,AAAAAAAAAAAAAQW,PREF_A,ACTV,AHKEzDaZxzBTbNJfrkwEosGiuLB fNzrQPKDGsErbFzpXK RmmdgiUTiEWQzm         ,NYSE  ,93591781     ,19551006,18910115,        1.85,0000000152
+1974-06-30 23:59:05,AAAAAAAAAAAAAQV,COMMON,ACTV,PEvgNWRMSqVEmECzQIHtvVFODhRmRHjQVErzwNpsEFJzWlEUfxgHJUbfcHogFDUeZNwD  ,AMEX  ,424268462    ,19530613,19580821,        0.59,BUJliDksNtDYNWtXQNvxDqRcgLvBFezlasHGMAKJNGW                 

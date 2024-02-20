@@ -1,0 +1,6 @@
+TT_ID,TT_NAME,TT_IS_SELL,TT_IS_MARKET
+TMB,Market Buy,0,1
+TMS,Market Sell,1,1
+TSL,Stop Loss,1,1
+TLS,Limit Sell,1,0
+TLB,Limit Buy,0,0

@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+2008-09-28 11:44:03,AAAAAAAAAAAACMC,COMMON,ACTV,WxwdcEgCXL BmIVGSMeOFMbkXLWFdGBKZRB                                   ,NASDAQ,249089220    ,19920926,18991003,        1.05,gabfHxDslnNqJhBIFAQLcSMsSSipIQCAwLMMyfBTFHEiRXQOXGkp        
+2008-09-28 15:49:03,AAAAAAAAAAAACMI,PREF_A,ACTV,uOKHtSOLSM                                                            ,AMEX  ,332747587    ,18551128,18791008,        2.33,KwjfmirRqfjJKRClFNxFXRUpUKSpCNxNadkYKRajlaHBFBFgLPbynOng    
+2008-09-28 16:17:00,AAAAAAAAAAAACMD,PREF_B,ACTV,VhyDTO FSQPymTheuM                                                    ,NYSE  ,707798457    ,19170909,19330506,        0.53,ClgfvuSryuyzvLbfiwCjvlhEFx                                  
+2008-09-29 05:17:04,AAAAAAAAAAAACMJ,PREF_B,ACTV,DcmjqoGwQBMstvcLgGdMwmKsUZITqgDThFQTuwQXjyysjTRnNMsIuG O              ,NYSE  ,530289549    ,18810202,19410908,        2.53,UGTLzMUCFokLJkoCWXYyJu                                      
+2008-09-29 07:23:00,AAAAAAAAAAAACME,COMMON,ACTV,cdxOrRrqldOVRdAA RSkDEzOZLmfOjAUNcNOYvUNXptaig                        ,AMEX  ,557011109    ,20011216,19060601,        1.13,0000000754
+2008-09-29 12:28:04,AAAAAAAAAAAAARE,COMMON,ACTV,sJDCksBaPCWJvANouRQGAihOIBGfwlbZLwfjwZaJKIgKSUnkJiQw qENB rHNO        ,NYSE  ,623436940    ,19050620,18611103,        2.59,nneaJPGBPvMNCuNsGYaQYZYjdKe                                 
+2008-09-29 13:17:05,AAAAAAAAAAAACMF,COMMON,ACTV,CurGPIszYVEcPcfLrAOLTraTIAQDTMZNlIaBJxQVaAexjxLkxw                    ,AMEX  ,241486279    ,19350601,19850403,        0.54,inSoyNlLfaTEHkvzVkjS                                        
+2008-09-29 23:12:04,AAAAAAAAAAAABOL,COMMON,INAC,zMJonWORVvKtKMspbSEbsEMn                                              ,NYSE  ,953693813    ,19441015,19780215,        0.53,0000000488
+2008-09-30 02:20:03,AAAAAAAAAAAACMG,COMMON,ACTV,HsMBSRHZjNAGTTCcLSa                                                   ,NYSE  ,516128476    ,19620317,18520616,        0.45,rMYOCCfxrxbXUzjoaqDGpXIEVWhiwMGOoMPICzcJfaiGilyTiF          
+2008-09-30 11:41:00,AAAAAAAAAAAACMB,PREF_B,ACTV,hUBGOgtZumVqvzkFQMJiCuhpAITGqWBVzzqeIfwBMLMHZnmEWXF                   ,PCX   ,704694788    ,20060414,19660205,        0.38,0000000160
+2008-09-30 16:13:05,AAAAAAAAAAAACMH,PREF_B,ACTV,oDnJufFNCGBIiHTJqlLghoF vVNRIdpEZxlKgEDOeBCfQLKTGHwRypjKPhCxhGlVMt    ,AMEX  ,784397136    ,19380620,19310615,        0.68,0000000658

@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+2012-03-30 02:35:03,AAAAAAAAAAAACRA,COMMON,ACTV,XTOD o vGc dGLQcWnrkFzzprhLLZQVV                                      ,PCX   ,518951566    ,19471104,20100424,        0.43,DCHxoKcJGofOARectG                                          
+2012-03-30 03:10:00,AAAAAAAAAAAACRE,PREF_A,ACTV,RByGWIyxIxBNacfQQUzIFdfUBHGzyrPNCPQBIdIp                              ,AMEX  ,481244333    ,20000425,18930528,        1.46,wuPNbKrcocPhyHiIStyXcVOWUM                                  
+2012-03-30 08:26:00,AAAAAAAAAAAACQX,COMMON,ACTV,zu sHfmQGRLJatlTMPWgo                                                 ,NASDAQ,847247354    ,19570222,18821109,        1.66,QNmUWeWUSRXPWlMIranLwNaBgpHYzzImImlmB                       
+2012-03-30 11:16:01,AAAAAAAAAAAACRB,COMMON,ACTV,XGypBXTUtwRnoFQSUK                                                    ,AMEX  ,543936183    ,20061215,19721205,        0.78,lxQqiNpcfrFMKmKaLaJuiAZhaDnWDLNyEfNsYy                      
+2012-03-30 19:41:02,AAAAAAAAAAAACRF,COMMON,ACTV,FDVEKFArmUTQbWjXyRxFwPXeVMoHuzwLGqbQ                                  ,NYSE  ,765892699    ,19800307,19111203,        1.68,XdCwDlGsXFstGqdCIcNOKJfTOQPnoEeELXbNmwOl                    
+2012-03-30 20:52:05,AAAAAAAAAAAACQY,COMMON,ACTV,JOtRgrELUbhAcltwnURUURlrGrKMwruRnSeDCjFOWYqZAdcsTSDXAwIPkpbvhg        ,NYSE  ,205213080    ,18891103,19521230,        1.95,ysjRGtkIDlGMkTVKHdJYPYZQBIETliHMObyptnkSDUF                 
+2012-03-31 04:42:00,AAAAAAAAAAAACRC,COMMON,ACTV,PyUWieVusTFEeVfXSeBlXxuXkGYWIpSHDUVILGEgFVRFnVt                       ,NYSE  ,885405670    ,19980809,18560918,        1.65,0000000193
+2012-03-31 10:30:04,AAAAAAAAAAAACMU,COMMON,ACTV,NDaEegtGDQCCmgpJPdqSFgBRjApAeCZASjF OKvxleQn                          ,NASDAQ,733409463    ,19961003,19070909,        1.85,aUukjFwShAQTgyziXgUcOpJIiPCdVBRBKVAvktHJVuhFlMIUvWjOs       
+2012-03-31 11:50:02,AAAAAAAAAAAACQZ,COMMON,ACTV,PCDcwMYsMNFsskZKrmT                                                   ,PCX   ,263250267    ,19501213,18680904,        1.08,0000000586
+2012-03-31 15:11:04,AAAAAAAAAAAACRD,COMMON,ACTV,ZrAtAMPdGezKDyOUneSyyOZzLfLEotABUwskbByTkqJKsBicLRb                   ,PCX   ,179943039    ,19451013,19851105,        0.79,0000000655
+2012-03-31 23:59:05,AAAAAAAAAAAAAQH,COMMON,INAC,NnIvSZDYIqDOwDfAXT                                                    ,PCX   ,180024634    ,18760630,18810425,        0.52,dGTSaPOJMHvtCCHelvrPOQXnY                                   

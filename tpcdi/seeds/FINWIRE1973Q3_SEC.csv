@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1973-09-24 21:43:02,AAAAAAAAAAAAAIG,PREF_B,ACTV,ocOEoPltZoQ VPpPSoFxgqxyUhakfMCRnGOpdiBBueUGQTSivP NKrHMYMcf          ,AMEX  ,571957141    ,19180222,19121125,        2.89,NkpmsBILljFbVIAskKSudkLAIHYbeCnBzSVbIcIypZcePYIXqxdlNs      
+1973-09-26 03:02:01,AAAAAAAAAAAAAPT,COMMON,ACTV,XSXusPBGDhFSTWhotTvyGMFDqpnIKMkAGuwZpoYPBR                            ,NYSE  ,24043259     ,19550603,18740712,        0.74,vnbESGDLPDBDVwsKNSXPqRYLGXjuxVJrQDsEcEVAYIyXWMFThaGbMIZNd   
+1973-09-26 05:50:02,AAAAAAAAAAAAACG,PREF_C,INAC,HOrHPhltuykbHAKAirZTKJrZBMfID                                         ,PCX   ,496195827    ,19690824,19711108,        2.93,0000000014
+1973-09-27 00:14:01,AAAAAAAAAAAAAPU,COMMON,ACTV,LkumIvViNSzuVKI                                                       ,NASDAQ,62351998     ,18980131,19590807,        2.04,mqFXQHGXTMiBfYGUYWQNXbNJhDVNzAztAmafbEocueUljhwVLF          
+1973-09-27 15:48:02,AAAAAAAAAAAAAPP,COMMON,ACTV,mmeZMYYLrQpY PQw tiTNVFhhylvwhEmCGPF                                  ,NYSE  ,382555198    ,18630303,19470105,        0.37,OCSmeMcZnwYFCQhAomWNQruAvEKYEtREwXPuP                       
+1973-09-27 23:39:01,AAAAAAAAAAAAAPV,PREF_C,ACTV,YZIBCWlVYJAsLZjoURKbBN                                                ,NASDAQ,528783277    ,18560629,19191130,        2.09,0000000151
+1973-09-28 20:20:05,AAAAAAAAAAAAAPQ,COMMON,ACTV,gMkNmFTHOFspaHiiroCvZBBEVPV XyR                                       ,NYSE  ,779973373    ,19381230,19320722,        0.70,DXYhrWaQcubzCELw                                            
+1973-09-29 15:27:04,AAAAAAAAAAAAAPW,COMMON,ACTV,QIFdhdVhUOhpIQVlQLwVGAoQBmSNKfBDRveABHnTavRETPsRmmYeiLM               ,NASDAQ,412281352    ,18720127,19040824,        0.01,LawPVRQMaKJxZlvIWZkIUpFJdEJZVBFJMqsfXESdjgxXNcRr            
+1973-09-30 06:25:00,AAAAAAAAAAAAAPR,COMMON,ACTV,MNJSVAuBNBhuJtfjZwFAInddxDxcPcecWLurYeRVQijMaMEaqnSYclVdzA            ,PCX   ,544600555    ,19401003,18611208,        1.22,0000000079
+1973-09-30 10:16:04,AAAAAAAAAAAAAPX,COMMON,ACTV,uTYENVWOaFhNjKaACtyj                                                  ,NYSE  ,757083039    ,18671115,19021105,        0.87,HlQpDmkZOggAglCWGRqFOTNSSGgWMLcHRffCrHPSwEYItP              
+1973-09-30 23:59:05,AAAAAAAAAAAAAPS,COMMON,ACTV,codHeR KMTyXIqVfbHNxXsimXvQMeykwgSklKOApxIPYQvZPST                    ,AMEX  ,521300089    ,18820703,19490728,        1.08,WqyjZxfZCegnAiEm                                            

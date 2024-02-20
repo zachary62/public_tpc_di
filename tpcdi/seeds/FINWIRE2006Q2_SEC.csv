@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+2006-06-29 09:05:01,AAAAAAAAAAAABOC,COMMON,ACTV,CsVcILNeyvIMSXYHoNJ zKKNrUJUTfVHSOPoNvu                               ,NASDAQ,947383091    ,18510219,19240711,        1.23,0000000507
+2006-06-29 09:59:02,AAAAAAAAAAAACJE,COMMON,ACTV,MVHtaUZTxYBS gEXCnK                                                   ,PCX   ,792691386    ,19850315,19190422,        1.32,0000000576
+2006-06-29 12:59:04,AAAAAAAAAAAACJB,COMMON,ACTV,dWI gEjlqL                                                            ,PCX   ,226180586    ,19711021,18520714,        1.52,pKOuBCTLGQgLNoxCSjppVInLk                                   
+2006-06-29 13:51:05,AAAAAAAAAAAACIY,COMMON,ACTV, ufbCSeuaIPxaghQqMHG LICOEgdcownxJpZzWP fNiRLeClF                     ,AMEX  ,595953794    ,18830620,18810604,        2.30,0000000854
+2006-06-29 19:25:01,AAAAAAAAAAAACJG,COMMON,ACTV,hPiCXJyNqUAtNuk                                                       ,PCX   ,813557986    ,19151025,19470225,        2.48,jNTXKVuWNpqudLAHcSjaHCEYHhrzSJcSPAuxkrgU                    
+2006-06-29 20:19:00,AAAAAAAAAAAACJD,COMMON,ACTV,yawHIIYPlVnyNITJxYIcUDBX                                              ,NYSE  ,286092949    ,19111009,18970827,        0.80,0000000349
+2006-06-30 01:14:04,AAAAAAAAAAAACJA,COMMON,ACTV,MwsASXAzXCAMFwYeBnKTXYDzBaaoKxqsV befraGwowcuFRaDVAtbC CStMgOsVibjGvNU,NYSE  ,81119413     ,18680820,19230618,        1.08,WamYAWpsRhTtiMeOX                                           
+2006-06-30 08:04:03,AAAAAAAAAAAABGA,COMMON,INAC,tRcTGibnFEdYYLRBWpuEcWNbhdZusIrbjoXOCFNlHdIhRUzliqZMNtIWN             ,NYSE  ,257759793    ,20041029,19020115,        2.74,0000000077
+2006-06-30 11:27:01,AAAAAAAAAAAACJF,COMMON,ACTV,dnsVUFBdlTClp CbBpNANK Tf                                             ,NYSE  ,956416945    ,20001126,18810403,        0.48,MjKKlGMQzcFUzURCeWKCo                                       
+2006-06-30 22:28:00,AAAAAAAAAAAACJC,PREF_A,ACTV,xuYvfKbFEBUmNaHTqpnJcCxZHWDkfUZIUZyIPGjzamvDOPskBo LbV                ,AMEX  ,195304313    ,18721021,18700819,        1.11,0000000036
+2006-06-30 23:59:05,AAAAAAAAAAAACIZ,COMMON,ACTV,XQViDGTCNKxoQRGJQOGpRkovqNT                                           ,AMEX  ,477588839    ,19091031,19380519,        1.98,0000000704

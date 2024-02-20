@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1979-09-27 01:12:00,AAAAAAAAAAAAAMO,COMMON,INAC,CQXQEUrVaizKbSA AoQCeTVAQgu                                           ,NYSE  ,244788705    ,18620306,19310422,        2.22,yJZRFbHLdseBeTnJIpEmTJtfrrDaEFBWyS                          
+1979-09-27 02:12:04,AAAAAAAAAAAAAYE,COMMON,ACTV,yfbXMjsLxUCyQYQQHfVfoJAsYKSHBPMHkhwKEEbhqfQiUhbsNnoMiIxADnoVFFBJ      ,AMEX  ,163400303    ,18560206,18960712,        1.12,0000000132
+1979-09-27 06:57:00,AAAAAAAAAAAAAYB,COMMON,ACTV,QEyAqLMwuVmGExLf                                                      ,NASDAQ,207256961    ,19680919,18860730,        1.61,GMMVEDTptKeuKPLmwqtGMoENLIQVRRdqUWPfm                       
+1979-09-27 15:08:00,AAAAAAAAAAAAAXY,COMMON,ACTV, kFLDXRsulaEDRbT cLrfKtqPJCMODWjlFsrbKOZQdlAmKpfrMVjsBHPSnNr          ,AMEX  ,401184279    ,19271117,18840625,        2.78,0000000048
+1979-09-27 17:32:01,AAAAAAAAAAAAASD,COMMON,ACTV,YeXBBvgEpVhiYVioNJ                                                    ,AMEX  ,611664316    ,19750531,18510716,        0.39,0000000074
+1979-09-27 17:50:00,AAAAAAAAAAAAAYD,COMMON,ACTV,QSntArWow kWTVrOSensbrXDEALEb                                         ,NYSE  ,572884218    ,18730909,18660801,        1.71,YWaRHGhaOyKKsxbDmbIuWCeVwrEHNWGWHPuTKPjtxDlzb               
+1979-09-28 06:02:04,AAAAAAAAAAAAAYA,COMMON,ACTV,MhtJgTKsG TrENVqddopPNbVyFAQGbUePhbCXbL MziZkCDYvyOZC IrTJzUEmw       ,NYSE  ,636745020    ,19620829,18650913,        1.66,eZlLWpFaTkvIFsSXlAj                                         
+1979-09-28 21:38:04,AAAAAAAAAAAAAXX,PREF_A,ACTV,TWIe XujhRaTVLsB                                                      ,AMEX  ,103617456    ,18990822,19390727,        2.76,0000000133
+1979-09-29 16:14:02,AAAAAAAAAAAAAYF,PREF_B,ACTV,YQjpvCWRgjB                                                           ,NASDAQ,325089818    ,19571024,18560218,        1.70,0000000173
+1979-09-30 11:18:03,AAAAAAAAAAAAAYC,COMMON,ACTV,AQaiQHaMtjtkPCVJSbUAsAPVQiiJDSEE                                      ,AMEX  ,631722501    ,19770926,19680106,        2.31,0000000195
+1979-09-30 23:59:05,AAAAAAAAAAAAAXZ,PREF_A,ACTV,PXjUBvseeQV                                                           ,NYSE  ,674347189    ,19010728,18651116,        2.27,KOoRBLuVJAmbedckFhAQyRqTdgMMbJwtQJUMWiUWf                   

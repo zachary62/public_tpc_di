@@ -1,0 +1,7 @@
+ST_ID,ST_NAME
+ACTV,Active
+CMPT,Completed
+CNCL,Canceled
+PNDG,Pending
+SBMT,Submitted
+INAC,Inactive

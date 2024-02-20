@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1984-09-26 22:24:03,AAAAAAAAAAAABFB,PREF_C,ACTV,OjDTGQEdUNq                                                           ,PCX   ,598252606    ,19750707,19340323,        1.09,0000000367
+1984-09-27 09:07:04,AAAAAAAAAAAABEV,PREF_A,ACTV,UIxqQHbUPRvyDbDwhinQhYBpHzBlRtDINPPjwYccywxpEJMloHSllVvsjJMVLK        ,NYSE  ,637613599    ,19020706,18940516,        1.28,0000000335
+1984-09-27 22:04:00,AAAAAAAAAAAABFA,COMMON,ACTV,vOMDAqPYLcUNAtrOhibZi giZXRQUNMGEucHaiHyaRUepemvPnwRxj                ,NYSE  ,323764452    ,19480812,19011113,        0.96,YtvHEQBjudJlIIctWcFxmnzyLLXwZIjQbTYYSJjShQPPW               
+1984-09-27 22:29:01,AAAAAAAAAAAAAVF,COMMON,INAC,vVXfzRuIaEbvEqVxLJNHCZCKYG                                            ,AMEX  ,40067764     ,19580222,18941130,        1.17,mPMQctNfdlYBGEJcUJMKsAYRADEUETYwjTnFsJLBCbNRKrGOaMiTuCx     
+1984-09-28 12:43:05,AAAAAAAAAAAABEZ,COMMON,ACTV,iszRfpefwvNmBGWdQdPBwTbOnPUDYYG                                       ,PCX   ,602601483    ,19561002,19761202,        2.29,jBTaFZxKSGcJVXEOAtnApSlFPFPZEVuxaj                          
+1984-09-28 23:30:03,AAAAAAAAAAAAAWO,COMMON,ACTV,UfdX SFWkKvk                                                          ,NYSE  ,563471555    ,18751004,19630906,        0.10,byJXXiDpSRuQqUFJVyaHkwU                                     
+1984-09-29 02:50:00,AAAAAAAAAAAABEY,COMMON,ACTV,RDVjMIJynSBanSPcUpPLyeqXUQsZgcDcFf                                    ,AMEX  ,367283496    ,19811111,19360713,        2.13,0000000216
+1984-09-29 09:52:02,AAAAAAAAAAAABFD,PREF_A,ACTV,uKTFsInpsgITiOJmYDHyMIOzlizQTugxoMYkpKGQMhnYxRJPPqGRVHVCiXEUIrQB      ,PCX   ,418209300    ,18690704,19301115,        1.88,0000000019
+1984-09-29 12:27:01,AAAAAAAAAAAABEX,PREF_A,ACTV,MIKwfqPRDIcpHvnbLDAVtPaQAEtPgfCKYvGxZb                                ,NYSE  ,392429508    ,18610204,19530107,        1.06,ULgCIfEYXJhJMVKaIiBaigqcNUMwsESebiWhZypXBMaCEaOIWKrZt       
+1984-09-30 04:10:00,AAAAAAAAAAAABFC,PREF_D,ACTV,jMJBNSqBEzpT                                                          ,AMEX  ,966184398    ,19600802,19490603,        2.96,0000000234
+1984-09-30 23:59:05,AAAAAAAAAAAABEW,COMMON,ACTV,KNldNBIGDnrtDTPCwPEr                                                  ,AMEX  ,786140910    ,18830111,18790402,        2.98,0000000051

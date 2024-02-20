@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+1996-12-29 14:45:03,AAAAAAAAAAAAAHQ,PREF_B,ACTV,LkIP aiQNcavdDDHoVxxKfouXuHhckkOUWrFHiCleKwEOQJj                      ,NYSE  ,110762426    ,19950225,19500612,        1.71,NlSrPWdOyoIXoTtcbJgEEODOuQRgKneODmjQndi                     
+1996-12-30 00:28:00,AAAAAAAAAAAABVV,PREF_A,ACTV,vqIIhKLqswGO                                                          ,PCX   ,484804891    ,19350313,18601204,        1.30,TowVEXvAeasrTiHWVPALdZXSDAITTfJCQqzSNNTWCtSIsyI             
+1996-12-30 00:55:04,AAAAAAAAAAAABVY,COMMON,ACTV,IWUuSdjcrLJxOzOseIuLzTEYJcGzbufM                                      ,NYSE  ,462635581    ,19710102,19361223,        2.40,UGTLzMUCFokLJkoCWXYyJu                                      
+1996-12-30 07:41:02,AAAAAAAAAAAABWB,COMMON,ACTV,GVWHJSiYVnDHKvukVKEYMfKuTENViSKVMOBeCNtDMwXShAsBGzfPaTP               ,AMEX  ,509420732    ,19250608,19501203,        0.90,0000000077
+1996-12-30 19:05:03,AAAAAAAAAAAAANT,COMMON,INAC,KTbQOKmVETxYHNyCJrJTyXHwBfIOKCsnHIJJXzJeRCBnEoVdfCssNKCk              ,PCX   ,81188093     ,18550719,18550127,        1.03,JVTDCQPqORmzXRXVPyuHaxPpUBqZbpXWKaFfMeSveGysyRqgPMdFMWp     
+1996-12-31 00:05:02,AAAAAAAAAAAABVW,PREF_C,ACTV,IoiOjiDhKPII                                                          ,PCX   ,512029165    ,19180127,19210312,        0.65,0000000484
+1996-12-31 07:09:05,AAAAAAAAAAAABVZ,COMMON,ACTV,oZbQmwBbBBOLKKo                                                       ,PCX   ,336966855    ,19030228,19350114,        2.61,LVHzeFQWSugGNgkKMEtPTIIgFiwdseCBRJeZhPSKJLIcdoCUcbsQ        
+1996-12-31 09:21:04,AAAAAAAAAAAABWC,COMMON,ACTV,yb oyouESVEFSobQFIFAlCDlfsWTMaDmR                                     ,NYSE  ,378263174    ,19540207,19500428,        0.35,dEluvoyDvJUjnIcJSQeLjfBVqcISrcIOmRsoAGZctiPWPtDsTOmmLoXqrj  
+1996-12-31 11:34:00,AAAAAAAAAAAABVU,COMMON,ACTV,SPTCWWIpglv zyDA                                                      ,AMEX  ,9410929      ,19690322,18760812,        0.80,JVTDCQPqORmzXRXVPyuHaxPpUBqZbpXWKaFfMeSveGysyRqgPMdFMWp     
+1996-12-31 18:14:00,AAAAAAAAAAAABVX,COMMON,ACTV,yoTkRpd hctrKnqNLEturnXWukvVnIKY                                      ,NASDAQ,6554323      ,19330922,19890717,        2.28,xKSLHLQHLoSoXvqFuKQUbXRVFUTzWeCGVANNrqhMIvqtVUIFANTIGTDXQY  
+1996-12-31 23:59:05,AAAAAAAAAAAABWA,COMMON,ACTV,ZQHZFhXbxFB                                                           ,AMEX  ,128860999    ,19301216,19501026,        2.71,vkThCiGCDWxzSOELuwFOHqffmyIkXCZi                            

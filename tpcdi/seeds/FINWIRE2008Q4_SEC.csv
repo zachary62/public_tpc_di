@@ -1,0 +1,12 @@
+pts,symbol,issue_type,status,name,ex_id,sh_out,first_trade_date,first_exchange_date,dividend,co_name_or_cik
+2008-12-29 20:58:01,AAAAAAAAAAAACMS,COMMON,ACTV,UVBmsBHDmAoFzAxLRQ                                                    ,PCX   ,103089602    ,19381102,19790516,        2.24,FVOrUHffvqAGgtyexHslNcmNkMVeuJAELmriAAtkyPXM                
+2008-12-29 23:57:03,AAAAAAAAAAAACMP,COMMON,ACTV,gGSOnZKRpXnCiRFfn                                                     ,AMEX  ,503106707    ,19760424,19240914,        2.34,VMiCKBDLhXzJcbQZGoeODlyCLKUxKgENDKgpTHpSVY                  
+2008-12-30 08:59:05,AAAAAAAAAAAACMM,PREF_A,ACTV,EROaKpGIgROIMIOyTdXsHQuUTLFalG sqcYrvHXA                              ,PCX   ,504406050    ,19340326,19530426,        0.03,0000000081
+2008-12-30 13:20:04,AAAAAAAAAAAAAAZ,COMMON,INAC,iTuxyMPdSDEyYoKanUVEkDkFgtHOTamEGDXRTOyJDtaMD ZYZQoAELwgJDf           ,PCX   ,858332918    ,19501113,19980418,        2.36,dGTSaPOJMHvtCCHelvrPOQXnY                                   
+2008-12-31 08:12:05,AAAAAAAAAAAACMR,COMMON,ACTV,gSNfbnDKnjH fSJ RpZUvZr                                               ,PCX   ,10323795     ,19400325,18710611,        0.08,wuPNbKrcocPhyHiIStyXcVOWUM                                  
+2008-12-31 11:52:04,AAAAAAAAAAAACMO,COMMON,ACTV,VaDZmqXHUouHVoSiyPHNaCKPNmWSLEMzbSuWTB                                ,PCX   ,720253867    ,18950913,19240428,        2.64,jZgtRJXeeVHhCAeoMMLFWEKRAgpY                                
+2008-12-31 17:21:04,AAAAAAAAAAAACML,PREF_A,ACTV,hEvuSFqSicCHfmZWPCwISKRHgNPNMoolNFZlUtvCpNxGOZeklySYTyGQExWaUOB       ,NASDAQ,836114610    ,18530611,19530114,        2.01,LFkMOKIIMoPFOcGUoSBxUVJpnaEVniLHBJFGvdFDNqWjNeKEuMvGAGCiUYx 
+2008-12-31 17:56:02,AAAAAAAAAAAABQB,PREF_A,ACTV,BMhQNRbwmGZtUUq                                                       ,PCX   ,466347066    ,18840401,20030127,        0.81,pvNoeTbKcRmvgeWJWoDbkxItBqObLdcIDrkfgOlBellYI               
+2008-12-31 21:13:04,AAAAAAAAAAAACMQ,COMMON,ACTV,QeOnIxVQYMIcDGJGpMaPKDd sQhGTeaN ABxpEKNrCdClBDtYImaHa                ,NASDAQ,275897676    ,20050405,19010725,        0.92,lGQsydTPQtrBrxtbQk                                          
+2008-12-31 21:50:02,AAAAAAAAAAAACMN,PREF_A,ACTV,IHkBQKLIHHTASHcrMeSnSFxVzuCGrqOlAWwljRUCUKuhvV                        ,NASDAQ,986672594    ,19570523,19980714,        2.83,0000000189
+2008-12-31 23:59:05,AAAAAAAAAAAACMK,COMMON,ACTV,EwgMPQvgBM                                                            ,NASDAQ,451044177    ,18770105,19940616,        1.13,0000000301
