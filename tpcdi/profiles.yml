@@ -1,0 +1,8 @@
+tpcdi:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: local_db.duckdb
+      threads: 1
+      schema: main
